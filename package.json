@@ -1,5 +1,5 @@
 {
-  "name": "docusaurus-classic-typescript",
+  "name": "japanfinance-wiki",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -44,5 +44,5 @@
   "engines": {
     "node": ">=16.14"
   },
-  "description": "Docusaurus example project (classic-typescript template)"
+  "description": "Website for r/JapanFinance wiki"
 }
