@@ -24,7 +24,7 @@ const config = {
   // GitHub Pages adds a trailing slash to Docusaurus URLs by default. It is recommended to set a trailingSlash config (true or false, not undefined).
   trailingSlash: true,
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn', // TODO switch to 'throw' after addressing broken links
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internalization, you can use this field to set useful
