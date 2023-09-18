@@ -10,6 +10,8 @@
 
 ### Shakai hoken
 
+The vast majority of employees will be enrolled by their employer in shakai hoken for their health insurance and pension. Premiums for shakai hoken are based on your withheld employment income.
+
 ### Price schedule
 
 ### Co-pay limits
