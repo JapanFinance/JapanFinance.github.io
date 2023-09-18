@@ -40,6 +40,9 @@ The following businesses/professionals appear to be specifically focused on help
     - Added by u/starkimpossibility in February 2021 after u/kenguilfoylecpa posted in the sub promoting their services. The linked business has not been vetted and this is not a recommendation.
 
 ## Opening a US Brokerage Account
+Most Japanese brokerages will not allow US taxpayers to trade US securities due to the presence of a Qualified Intermediary (QI) agreement between the brokerage and the IRS that stipulates they must treat all of their customers as if they are NOT US taxpayers, for the purposes of withholding US taxes correctly. See, for example, [Rakuten](https://www.rakuten-sec.co.jp/web/domestic/stock/rule/us_citizenship_caution.html) and [SBI's](https://search.sbisec.co.jp/v2/popwin/info/home/pop6040_kokuseki_02.html) statement on the matter.
+
+Due to the above restriction and the PFIC issue with buying Japan domiciled securities like Japanese mutual funds, many US taxpayers opt for investing in a US brokerage if possible. Interactive Broker's Japan branch has also been reported as allowing US taxpayers to trade US securities.
 
 - https://www.bogleheads.org/wiki/Investing_from_Japan_for_US_citizens_and_US_permanent_residents#US-based_brokerage
 - TD Ameritrade
