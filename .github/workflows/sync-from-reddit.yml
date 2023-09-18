@@ -26,6 +26,8 @@ jobs:
       - name: Push changes (if any)
         run: git push
 
-      # Pushes from GitHub Actions do not trigger further actions; manually call deploy
-      - name: Deploy site
-        uses: ./.github/workflows/deploy.yml
+  # Pushes from GitHub Actions do not trigger further actions; manually call deploy
+  deploy:
+    name: Deploy site
+    needs: sync-from-reddit
+    uses: ./.github/workflows/deploy.yml
