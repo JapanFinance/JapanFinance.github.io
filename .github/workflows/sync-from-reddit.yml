@@ -39,8 +39,7 @@ jobs:
     needs: sync-from-reddit
     if: "${{ needs.sync-from-reddit.outputs.new-commit != '' }}"
     permissions:
-      pages: write
-      id-token: write
+      contents: write
     uses: ./.github/workflows/deploy.yml
     with:
       new-commit: ${{ needs.sync-from-reddit.outputs.new-commit }}
