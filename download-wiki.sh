@@ -26,13 +26,21 @@ while read -r line; do
     # strip file name from end of path when making directories
     mkdir -p "${SOURCE_PAGE_JSON%/*}"
     mkdir -p "${TARGET_PAGE_MD%/*}"
-    curl -s --user-agent "$USER_AGENT" "https://www.reddit.com/r/$SUBREDDIT/wiki/$PAGE.json" > "$SOURCE_PAGE_JSON"
-    printf "$SUBREDDIT/wiki/$PAGE   " ; echo $?
+    HTTP_CODE=$(curl -sfL -o "$SOURCE_PAGE_JSON" -w '%{http_code}' --user-agent "$USER_AGENT" "https://www.reddit.com/r/$SUBREDDIT/wiki/$PAGE.json")
+
+    if ! [[ "HTTP_CODE" =~ ^2 ]]; then
+        echo "ERROR: server returned HTTP code $HTTP_CODE, skipping: $PAGE"
+        continue
+    fi
+
+    printf "%s/wiki/%s   " "$SUBREDDIT" "$PAGE"; echo $?
 
     REASON="$(jq -r '.data.reason' "$SOURCE_PAGE_JSON")"
     AUTHOR="$(jq -r '.data.revision_by.data.name' "$SOURCE_PAGE_JSON")"
+
     # Rewrite wiki links before saving Markdown file
     jq -r '.data.content_md' "$SOURCE_PAGE_JSON" | sed 's,https://www.reddit.com/r/JapanFinance/wiki/index/,,g' > "$TARGET_PAGE_MD"
+
     # If the wiki page was changed, commit it.
     if [ -n "$(git status --porcelain)" ]; then
         git add "$TARGET_PAGE_MD"
@@ -40,6 +48,6 @@ while read -r line; do
         git --no-pager diff
     fi
 
-done < <(curl -S -s --user-agent "$USER_AGENT" "https://www.reddit.com/r/$SUBREDDIT/wiki/pages.json" | jq -r '.data | .[]')
+done < <(curl -SsfL --user-agent "$USER_AGENT" "https://www.reddit.com/r/$SUBREDDIT/wiki/pages.json" | jq -r '.data | .[]')
 
 rm -rf "./$DOWNLOAD_DIR"
