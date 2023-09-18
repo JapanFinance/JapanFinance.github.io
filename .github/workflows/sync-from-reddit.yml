@@ -10,6 +10,8 @@ jobs:
   sync-from-reddit:
     name: Sync from Reddit
     runs-on: ubuntu-22.04
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - name: Configure git user
