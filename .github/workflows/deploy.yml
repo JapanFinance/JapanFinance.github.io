@@ -5,6 +5,10 @@ on:
     branches:
       - main
   workflow_call:
+    inputs:
+      new-commit:
+        required: false
+        type: string
     # Review gh actions docs if you want to further define triggers, paths, etc
     # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#on
 
@@ -14,6 +18,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        if: "${{ inputs.new-commit == '' }}"
+      - uses: actions/checkout@v3
+        if: "${{ inputs.new-commit != '' }}"
+        with:
+          # deploy a specific commit
+          ref: ${{ inputs.new-commit }}
       - uses: actions/setup-node@v3
         with:
           node-version: 18
