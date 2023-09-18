@@ -43,9 +43,8 @@ const config = {
         docs: {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/JapanFinance/JapanFinance.github.io/tree/main/',
+          editUrl: ({docPath}) =>
+            `https://www.reddit.com/r/JapanFinance/wiki/edit/index/${docPath.includes("index") ? '' : docPath.slice(0, docPath.lastIndexOf('.'))}`,
         },
         blog: false,
         theme: {
