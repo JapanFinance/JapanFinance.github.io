@@ -28,7 +28,7 @@ while read -r line; do
     mkdir -p "${TARGET_PAGE_MD%/*}"
     HTTP_CODE=$(curl -sfL -o "$SOURCE_PAGE_JSON" -w '%{http_code}' --user-agent "$USER_AGENT" "https://www.reddit.com/r/$SUBREDDIT/wiki/$PAGE.json")
 
-    if ! [[ "HTTP_CODE" =~ ^2 ]]; then
+    if ! [[ "$HTTP_CODE" =~ ^2 ]]; then
         echo "ERROR: server returned HTTP code $HTTP_CODE, skipping: $PAGE"
         continue
     fi
