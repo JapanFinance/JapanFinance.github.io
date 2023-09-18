@@ -24,7 +24,7 @@ The standard interest rate for regular bank accounts (普通預金) in Japan is 
 
 ## Credit cards
 
-Rakuten is generally recommended as one of the easiest for foreigners to get approved for. Their cards come in three tiers- regular, Gold, and Premium. You can select the card network you want for your card (Visa/MasterCard/JCB/AmEx) and each comes with different benefits and annual fees. 
+[Rakuten Card](https://www.rakuten-card.co.jp/) is generally recommended as one of the easiest for foreigners to get approved for. Their cards come in three tiers- regular, Gold, and Premium. You can select the card network you want for your card (Visa/MasterCard/JCB/AmEx) and each comes with different benefits and annual fees. 
 
 Regular card: 
 
