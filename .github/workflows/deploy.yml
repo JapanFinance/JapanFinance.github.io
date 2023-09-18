@@ -13,9 +13,11 @@ on:
     # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#on
 
 jobs:
-  build:
+  build-and-deploy:
     name: Build production site
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
         with:
@@ -32,13 +34,6 @@ jobs:
       - name: Build website
         run: yarn build
 
-  deploy:
-    name: Deploy to GitHub Pages
-    needs: build
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
       # Official GH Action does not work when deploying from sync job due to different starting git commit
       - name: Deploy gh-pages branch
         uses: peaceiris/actions-gh-pages@v3
