@@ -29,7 +29,9 @@ jobs:
         id: push
         run: |
           git push
-          [ "$GITHUB_SHA" != "$(git rev-parse HEAD)" ] && echo "commit=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+          if [ "$GITHUB_SHA" != "$(git rev-parse HEAD)" ]; then
+            echo "commit=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+          fi
 
   # Pushes from GitHub Actions do not trigger further actions; manually call deploy
   deploy:
