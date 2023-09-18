@@ -26,7 +26,13 @@ while read -r line; do
     # strip file name from end of path when making directories
     mkdir -p "${SOURCE_PAGE_JSON%/*}"
     mkdir -p "${TARGET_PAGE_MD%/*}"
-    curl -sfL --user-agent "$USER_AGENT" "https://www.reddit.com/r/$SUBREDDIT/wiki/$PAGE.json" > "$SOURCE_PAGE_JSON"
+    HTTP_CODE=$(curl -sfL -o "$SOURCE_PAGE_JSON" -w '%{http_code}' --user-agent "$USER_AGENT" "https://www.reddit.com/r/$SUBREDDIT/wiki/$PAGE.json")
+
+    if ! [[ "HTTP_CODE" =~ ^2 ]]; then
+        echo "ERROR: server returned HTTP code $HTTP_CODE, skipping: $PAGE"
+        continue
+    fi
+
     printf "%s/wiki/%s   " "$SUBREDDIT" "$PAGE"; echo $?
 
     REASON="$(jq -r '.data.reason' "$SOURCE_PAGE_JSON")"
