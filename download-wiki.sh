@@ -27,7 +27,7 @@ while read -r line; do
     mkdir -p "${SOURCE_PAGE_JSON%/*}"
     mkdir -p "${TARGET_PAGE_MD%/*}"
     curl -s --user-agent "$USER_AGENT" "https://www.reddit.com/r/$SUBREDDIT/wiki/$PAGE.json" > "$SOURCE_PAGE_JSON"
-    printf "$SUBREDDIT/wiki/$PAGE   " ; echo $?
+    printf "%s/wiki/%s   " "$SUBREDDIT" "$PAGE"; echo $?
 
     REASON="$(jq -r '.data.reason' "$SOURCE_PAGE_JSON")"
     AUTHOR="$(jq -r '.data.revision_by.data.name' "$SOURCE_PAGE_JSON")"
