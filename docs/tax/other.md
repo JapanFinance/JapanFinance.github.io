@@ -18,6 +18,8 @@ Check the local municipality's website to get the most accurate information on p
 
 ## Stamp duty
 
+Stamp duty is assessed on physical sales contracts and receipts. The amount of tax depends on the amount of the transaction. Receipts less than 50,000 yen are exempt. A common way people find out about stamp duty is when buying real estate because stamp duty will be assessed on the sale contract according to the purchase price. One way to avoid stamp duty on a real estate transaction is by using a digital contract which is not subject to stamp duty.
+
 ## NHK
 
 NHK has an explanation of their fee system on their website in English [here](https://www.nhk.or.jp/corporateinfo/english/receivingfee/index.html).
