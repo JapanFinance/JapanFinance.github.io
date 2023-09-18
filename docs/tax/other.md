@@ -8,6 +8,8 @@
 
 ## Property tax
 
+Check the local municipality's website to get the most accurate information on property taxes. For example, Tokyo has an English "Guide to Metropolitan Taxes" including property tax [here](https://www.tax.metro.tokyo.lg.jp/english/topics.html) or see their [Japanese page](https://www.tax.metro.tokyo.lg.jp/common/index.html).
+
 ### Land
 
 ### Buildings
