@@ -30,4 +30,7 @@ jobs:
   deploy:
     name: Deploy site
     needs: sync-from-reddit
+    permissions:
+      pages: write
+      id-token: write
     uses: ./.github/workflows/deploy.yml
