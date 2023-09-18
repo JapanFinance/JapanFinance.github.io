@@ -17,13 +17,10 @@ jobs:
     name: Build production site
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-        if: "${{ inputs.new-commit == '' }}"
-      - uses: actions/checkout@v3
-        if: "${{ inputs.new-commit != '' }}"
+      - uses: actions/checkout@v4
         with:
-          # deploy a specific commit
           ref: ${{ inputs.new-commit }}
+
       - uses: actions/setup-node@v3
         with:
           node-version: 18
@@ -31,24 +28,21 @@ jobs:
 
       - name: Install dependencies
         run: yarn install --frozen-lockfile
+
       - name: Build website
         run: yarn build
-      
-      - uses: actions/upload-pages-artifact@v2
-        with:
-          path: build
 
   deploy:
     name: Deploy to GitHub Pages
     needs: build
-    permissions:
-      pages: write
-      id-token: write
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v2
+      # Official GH Action does not work when deploying from sync job due to different starting git commit
+      - name: Deploy gh-pages branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # Build output to publish to the `gh-pages` branch:
+          publish_dir: ./build
