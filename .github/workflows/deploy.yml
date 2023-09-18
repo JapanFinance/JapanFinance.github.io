@@ -17,7 +17,7 @@ jobs:
     name: Build production site
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           ref: ${{ inputs.new-commit }}
 
