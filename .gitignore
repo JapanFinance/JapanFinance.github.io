@@ -8,6 +8,9 @@
 .docusaurus
 .cache-loader
 
+# Download folder for sync
+/download
+
 # Misc
 .DS_Store
 .idea
