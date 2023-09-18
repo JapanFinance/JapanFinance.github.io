@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+	<title>Japan_Finance_Logo</title>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #bc002d } 
+		.t1 { font-size: 121px;fill: #ffffff;font-family: "Helvetica" } 
+	</style>
+	<path id="Ellipse 1" class="s0" d="m128.2 16.8c59.3-0.1 107.4 49.6 107.4 110.9 0 61.2-48.1 110.9-107.4 110.9-59.4 0-107.5-49.7-107.5-110.9 0-61.3 48.1-111 107.5-111z"/>
+	<text id="¥" style="transform: matrix(1,0,0,1,95,169)" >
+		<tspan x="0" y="0" class="t1">¥
+</tspan>
+	</text>
+</svg>
