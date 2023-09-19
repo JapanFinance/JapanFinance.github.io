@@ -1,0 +1,5 @@
+position: 2
+label: Residence Tax
+link:
+  type: doc
+  id: tax/residence
