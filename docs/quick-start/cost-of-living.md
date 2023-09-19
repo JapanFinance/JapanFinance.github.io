@@ -1,6 +1,4 @@
-# 
-
-## Cost-of-living resources
+# Cost-of-living
 
 [Average income and expenses for a family of four](https://hoken-room.jp/money-life/8595).
 
