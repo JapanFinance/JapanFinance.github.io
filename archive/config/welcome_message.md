@@ -10,10 +10,10 @@ On the "finance" side, we cover everything from budgeting tips to retirement pla
 
 ### Wiki
 
-We hope that our [wiki](https://www.reddit.com/r/JapanFinance/wiki/index) will grow into a comprehensive and trusted repository of Japan-related personal finance information. Please take a look at what we've put together so far, and become a contributor if you have something to add!
+Our [wiki](https://japanfinance.github.io/) is fast becoming a comprehensive and trusted repository of Japan-related personal finance information. Please take a look at what we've put together so far, and become a contributor if you have something to add!
 
 ### Moderation
 
-The sub's moderators are u/starkimpossibility and u/Traditional_Sea6081. Don't hesitate to [send us a modmail](https://www.reddit.com/message/compose?to=/r/japanfinance) if you have any questions or suggestions. And if you would like to get involved behind the scenes, we will always be looking for users with expertise in relevant fields to help us make the sub the best possible resource that it can be.
+The sub's moderators are u/starkimpossibility, u/Traditional_Sea6081, and u/fiyamaguchi. Don't hesitate to [send us a modmail](https://www.reddit.com/message/compose?to=/r/japanfinance) if you have any questions or suggestions. And if you would like to get involved behind the scenes, we will always be looking for users with expertise in relevant fields to help us make the sub the best possible resource that it can be.
 
-As far as rules go, we have tried to keep them clear and simple. We aim for professionalism and transparency in our dealings with users, and the sub's moderation log is completely **open to the public** (details [here](admin/transparency)). We also publish regular reports explaining what the mods have been up to. We look forward to talking Japanese finance and tech with you!
+As far as rules go, we have tried to keep them clear and simple. We aim for professionalism and transparency in our dealings with users, and the sub's moderation log is completely **open to the public** (details [here](admin/transparency)). We also publish annual reports explaining what the mods have been up to. We look forward to talking Japanese finance and tech with you!
