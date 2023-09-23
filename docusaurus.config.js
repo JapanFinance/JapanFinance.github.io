@@ -75,6 +75,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      metadata: [{ name: 'keywords', content: 'finance, japan, tax, personal finance, income, retirement, FIRE' }],
       // Your project's social card
       image: 'img/social-card.jpg',
       navbar: {
