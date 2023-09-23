@@ -93,8 +93,9 @@ const config = {
           },
           {
             href: 'https://www.reddit.com/r/JapanFinance/',
-            label: 'Reddit',
             position: 'right',
+            className: 'header-reddit-link',
+            'aria-label': 'r/JapanFinance subreddit'
           },
         ],
       },
