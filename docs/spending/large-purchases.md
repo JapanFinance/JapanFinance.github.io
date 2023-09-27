@@ -1,4 +1,4 @@
-# Big ticket items &amp; hobby
+# Big ticket items & hobby
 
 ## Price comparison
 

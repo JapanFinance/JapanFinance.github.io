@@ -10,7 +10,7 @@ There are rules regarding how much your landlord can actually charge you when mo
 
 Below is the list of available links :
 
-MLIT : [National guideline (JP)](https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000020.html), especially [download](https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000021.html) and [Q&amp;A](https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000024.html) pages.
+MLIT : [National guideline (JP)](https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000020.html), especially [download](https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000021.html) and [Q&A](https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk3_000024.html) pages.
 
 Tokyo : [EN](https://www.juutakuseisaku.metro.tokyo.lg.jp/juutaku_seisaku/tintai/pdf/310-6-jyuutaku_eng.pdf) - [JP](https://www.juutakuseisaku.metro.tokyo.lg.jp/juutaku_seisaku/tintai/310-4-jyuutaku.htm)
 

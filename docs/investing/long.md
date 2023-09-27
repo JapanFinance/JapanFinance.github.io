@@ -76,11 +76,11 @@ However none currently offers an english interface.
 
 How to [transfer money to SBI](https://faq.sbisec.co.jp/answer/5ef9b0184a6766001122d1af). For #3, the money is sent to a dedicated account in one of three major banks, when transferring to this account it is important the 'remit from' name in the transfer matches the SBI account holder name.
 
-How to [purchase funds](https://www.retirejapan.com/forum/viewtopic.php?f=4&amp;t=515).
+How to [purchase funds](https://www.retirejapan.com/forum/viewtopic.php?f=4&t=515).
 
-It is possible to set a [direct debit](https://site1.sbisec.co.jp/ETGate/WPLETmgR001Control?OutSide=on&amp;getFlg=on&amp;burl=search_home&amp;cat1=home&amp;cat2=service&amp;dir=service&amp;file=home_directdebit.html) from a bank account, however the funds take two weeks to arrive. This allows to automate a [monthly investing purchase](https://www.retirejapan.com/forum/viewtopic.php?f=4&amp;t=1136).
+It is possible to set a [direct debit](https://site1.sbisec.co.jp/ETGate/WPLETmgR001Control?OutSide=on&getFlg=on&burl=search_home&cat1=home&cat2=service&dir=service&file=home_directdebit.html) from a bank account, however the funds take two weeks to arrive. This allows to automate a [monthly investing purchase](https://www.retirejapan.com/forum/viewtopic.php?f=4&t=1136).
 
-SBI also offers a [credit card](https://www.sbisec.co.jp/ETGate/?_ControlID=WPLETmgR001Control&amp;_PageID=WPLETmgR001Mdtl20&amp;_DataStoreID=DSWPLETmgR001Control&amp;_ActionID=DefaultAID&amp;burl=search_home&amp;cat1=home&amp;cat2=tsumitate&amp;dir=tsumitate&amp;file=home_tsumitate.html&amp;getFlg=on&amp;OutSide=on#2), which as of 2023 provides users with from 0.5% to 5% of points on up to ¥50,000 of monthly mutual fund purchases, depending on the kind of card you hold.
+SBI also offers a [credit card](https://www.sbisec.co.jp/ETGate/?_ControlID=WPLETmgR001Control&_PageID=WPLETmgR001Mdtl20&_DataStoreID=DSWPLETmgR001Control&_ActionID=DefaultAID&burl=search_home&cat1=home&cat2=tsumitate&dir=tsumitate&file=home_tsumitate.html&getFlg=on&OutSide=on#2), which as of 2023 provides users with from 0.5% to 5% of points on up to ¥50,000 of monthly mutual fund purchases, depending on the kind of card you hold.
 
 ### Providers : Rakuten
 
@@ -106,9 +106,9 @@ Kabu.com also offers a [credit card](https://kabu.com/company/lp/lp200.html), wh
 
 [2021-05 Insurance as an investment](https://www.reddit.com/r/JapanFinance/comments/nbeehf/cashvalue_insurance_as_retirement_investment/)
 
-[2021-05 Investing in JPY or USD](https://www.reddit.com/r/JapanFinance/comments/ls1unb/selling_us_stocks_and_currency_choice_implications/gopg48u?utm_source=share&amp;utm_medium=web2x&amp;context=3)
+[2021-05 Investing in JPY or USD](https://www.reddit.com/r/JapanFinance/comments/ls1unb/selling_us_stocks_and_currency_choice_implications/gopg48u?utm_source=share&utm_medium=web2x&context=3)
 
-[2021-05 Popular investment products](https://www.reddit.com/r/JapanFinance/comments/nlukfg/where_you_guys_putting_your_money_right_now/). [eMaxis Slim](https://emaxis.jp/lp/slim/pr1/index.html) is a popular range of product, with the most popular being the [Global Equity (all countries))](https://emaxis.jp/fund/253425.html), based on the MSCI World index (see [comment on index and its currency basket](https://www.reddit.com/r/JapanFinance/comments/r7l9ce/comment/hn6wuzl/?utm_source=share&amp;utm_medium=web2x&amp;context=3) ).
+[2021-05 Popular investment products](https://www.reddit.com/r/JapanFinance/comments/nlukfg/where_you_guys_putting_your_money_right_now/). [eMaxis Slim](https://emaxis.jp/lp/slim/pr1/index.html) is a popular range of product, with the most popular being the [Global Equity (all countries))](https://emaxis.jp/fund/253425.html), based on the MSCI World index (see [comment on index and its currency basket](https://www.reddit.com/r/JapanFinance/comments/r7l9ce/comment/hn6wuzl/?utm_source=share&utm_medium=web2x&context=3) ).
 
 ## Short-term/high-risk investing
 

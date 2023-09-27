@@ -14,4 +14,4 @@ See article 2 for the scope of the convention. Note this convention does not cov
 
 The [French Embassy](https://jp.ambafrance.org/Liste-d-avocats) provides a list of know lawyers, some with French and other with English capacities. 
 
-See comment here : https://www.reddit.com/r/JapanFinance/comments/mw0r7x/looking_for_professional_with_insight_into_france/gvjcmqn?utm_source=share&amp;utm_medium=web2x&amp;context=3
+See comment here : https://www.reddit.com/r/JapanFinance/comments/mw0r7x/looking_for_professional_with_insight_into_france/gvjcmqn?utm_source=share&utm_medium=web2x&context=3

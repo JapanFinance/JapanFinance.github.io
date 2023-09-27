@@ -46,7 +46,7 @@
 
 # Business
 
-* Customs &amp; Tariffs
+* Customs & Tariffs
 * Monetary Policy / Interest Rates
 
 # Personal Finance
@@ -58,9 +58,9 @@
    * Fraud and Scams
    * Refunds
    * Warranties
-* Credit Cards &amp; Credit Scores
+* Credit Cards & Credit Scores
 * Income, Salary, and Bonsuses
-* Loans &amp; Mortgages
+* Loans & Mortgages
 * Money Transfer / Remittances / Deposits
    * Electronic (振り込み, ACH, SWIFT, SEPA)
    * Physical (Cash)
@@ -71,4 +71,4 @@
 * eMoney ( おサイフケータイ)
 * Points/Airmiles
 * Robo-advisors
-* Telecommunications &amp; MVNOs
+* Telecommunications & MVNOs

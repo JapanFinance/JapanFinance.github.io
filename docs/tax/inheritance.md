@@ -1,6 +1,6 @@
 # Inheritance Tax
 
-Relevant threads are found under the flair [Inheritance / Estate](https://www.reddit.com/r/JapanFinance/?f=flair_name%3A%22Tax%20%C2%BB%20Inheritance%20%2F%20Estate%22), also check [Personal Finance » Inheritance Planning](https://www.reddit.com/r/JapanFinance/search?q=flair_name%3A%22Personal%20Finance%20%C2%BB%20Inheritance%20Planning%22&amp;restrict_sr=1).
+Relevant threads are found under the flair [Inheritance / Estate](https://www.reddit.com/r/JapanFinance/?f=flair_name%3A%22Tax%20%C2%BB%20Inheritance%20%2F%20Estate%22), also check [Personal Finance » Inheritance Planning](https://www.reddit.com/r/JapanFinance/search?q=flair_name%3A%22Personal%20Finance%20%C2%BB%20Inheritance%20Planning%22&restrict_sr=1).
 
 For general topics regarding passing, such as end of life care, making a will etc, please check the [Life Events &gt; Death page](https://www.reddit.com/r/JapanFinance/wiki/edit/index/life/death/).
 
@@ -12,7 +12,7 @@ Inheritance tax can generate significant concern at first, especially when looki
 
 ## Inheritance Taxation overview
 
-Japan has a pretty wide inheritance taxation and one might be concerned when first hearing they might be subject to tax both in Japan and abroad. However in practice, only a small portion of estate actually end up paying large inheritance tax due to the deductions and progressive rates. It's worth noting that [only around 9% of all estates are subject to inheritance tax](https://www.reddit.com/r/JapanFinance/comments/116zspt/comment/j99gdsu/?utm_source=share&amp;utm_medium=web2x&amp;context=3) and only around 0.07% of estates are large enough to be subject to an effective tax rate (tax as a proportion of the estate) of more than 25%.
+Japan has a pretty wide inheritance taxation and one might be concerned when first hearing they might be subject to tax both in Japan and abroad. However in practice, only a small portion of estate actually end up paying large inheritance tax due to the deductions and progressive rates. It's worth noting that [only around 9% of all estates are subject to inheritance tax](https://www.reddit.com/r/JapanFinance/comments/116zspt/comment/j99gdsu/?utm_source=share&utm_medium=web2x&context=3) and only around 0.07% of estates are large enough to be subject to an effective tax rate (tax as a proportion of the estate) of more than 25%.
 
 Japan taxation do not apply by default to the total estate, it focuses only on assets in Japan or gifted to people that are relevant from Japan tax perspective, and ignore the rest of the assets. This is described in the first step of Calculation section below. 
 
@@ -20,13 +20,13 @@ People who owe inheritance tax must file an [inheritance tax return](https://www
 
 In case there are debt, or assets than you do not want to manage (such as remote land that you won't find buyer for, but need to pay tax on), you [can refuse the whole inheritance, but must do so quickly](https://www.reddit.com/r/JapanFinance/comments/z5bi5w/can_mils_debt_fall_to_us/).
 
-Asset ownership changes [at the time of death](https://www.reddit.com/r/JapanFinance/comments/zng4ff/comment/j0jalpv/?utm_source=share&amp;utm_medium=web2x&amp;context=3), even if the inheritance is only accepted latter. The acquisition value is therefore the one at time of death.
+Asset ownership changes [at the time of death](https://www.reddit.com/r/JapanFinance/comments/zng4ff/comment/j0jalpv/?utm_source=share&utm_medium=web2x&context=3), even if the inheritance is only accepted latter. The acquisition value is therefore the one at time of death.
 
-Surviving spouses have [large tax credit](https://www.reddit.com/r/JapanFinance/comments/102tp6r/comment/j2vc5p1/?utm_source=share&amp;utm_medium=web2x&amp;context=3). Basically you find out how much inheritance tax the spouse is theoretically supposed to pay, and then you reduce that bill to the extent that it corresponds to an inheritance valued at less than 160 million yen (or 50% of the estate, whichever is larger).
+Surviving spouses have [large tax credit](https://www.reddit.com/r/JapanFinance/comments/102tp6r/comment/j2vc5p1/?utm_source=share&utm_medium=web2x&context=3). Basically you find out how much inheritance tax the spouse is theoretically supposed to pay, and then you reduce that bill to the extent that it corresponds to an inheritance valued at less than 160 million yen (or 50% of the estate, whichever is larger).
 
 Japan provides a fairly straightforward foreign tax credit with respect to foreign inheritance taxes imposed on assets located outside Japan. 
 
-Payment of inheritance tax [can be deferred](https://www.reddit.com/r/JapanFinance/comments/whn62d/comment/ijaga4q/?utm_source=share&amp;utm_medium=web2x&amp;context=3).
+Payment of inheritance tax [can be deferred](https://www.reddit.com/r/JapanFinance/comments/whn62d/comment/ijaga4q/?utm_source=share&utm_medium=web2x&context=3).
 
 ## Calculation of Inheritance Tax
 
@@ -76,7 +76,7 @@ As of April 2023, the per-statutory heir tax is as follows:
 
 ### Discussions on proper calculations :
 
-[2023-01 - UK calculation example](https://www.reddit.com/r/JapanFinance/comments/1062i8r/inheritance_tax/?utm_source=share&amp;utm_medium=web2x&amp;context=3)
+[2023-01 - UK calculation example](https://www.reddit.com/r/JapanFinance/comments/1062i8r/inheritance_tax/?utm_source=share&utm_medium=web2x&context=3)
 
 [2022-06 - Large USD calculation](https://www.reddit.com/r/JapanFinance/comments/vc3cu4/inheritance_tax_questions_after_reading_past/)
 
@@ -105,4 +105,4 @@ Leaving Japan to avoid paying inheritance tax [might be a valid strategy for som
 
 This does not constitute a recommendation.
 
-[Chester Tax](https://chester-tax.com/) is ['a major tax accountancy firm that specializes in inheritance tax'](https://www.reddit.com/r/JapanFinance/comments/lvv6or/seeking_advice_on_inheritance_taxes/gpe2wjl?utm_source=share&amp;utm_medium=web2x&amp;context=3)
+[Chester Tax](https://chester-tax.com/) is ['a major tax accountancy firm that specializes in inheritance tax'](https://www.reddit.com/r/JapanFinance/comments/lvv6or/seeking_advice_on_inheritance_taxes/gpe2wjl?utm_source=share&utm_medium=web2x&context=3)
