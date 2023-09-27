@@ -30,7 +30,7 @@ Many US nationals are also required to file an FBAR annually. The IRS's FBAR inf
 
 The SSA's information page about the US's pension totalization agreement with Japan is [here](https://www.ssa.gov/international/Agreement_Pamphlets/japan.html). The US embassy in Japan also has a page [here](https://jp.usembassy.gov/u-s-citizen-services/social-security/totalization-agreement/) describing how to claim US benefits under the agreement.
 
-See also the [Tax-treaty treatment of US 401(k) and IRAs](countries/us/401ks-and-iras-under-tax-treaty) for information about gains in retirement accounts.
+See also the [Tax-treaty treatment of US 401(k) and IRAs](/countries/us/401ks-and-iras-under-tax-treaty) for information about gains in retirement accounts.
 
 ## US tax professionals
 
@@ -50,7 +50,7 @@ Due to the above restriction and the PFIC issue with buying Japan domiciled secu
 
 ## How to file a US Tax Return as a resident of Japan
 
-This guide of [How to file a US Tax Return as a tax resident of Japan](countries/us/how-to-file-a-tax-return) was kindly initiated by the MovingToJapan Discord, and we will further maintain it here.
+This guide of [How to file a US Tax Return as a tax resident of Japan](/countries/us/how-to-file-a-tax-return) was kindly initiated by the MovingToJapan Discord, and we will further maintain it here.
 
 ## Summary by u/univworker for future reference:
 

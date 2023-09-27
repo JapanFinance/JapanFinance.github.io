@@ -6,7 +6,7 @@ Local Financial Planners may speak some english, some of them are foreigners.
 
 Beware some self-named FP target foreigners without having proper qualifications. THere are a number of scandals liking such practices. In general such people try to sell high fee and complicated products. 
 
-It is recommended to take a look at [investment basics](investing/long/) to educate yourself on the basics, and how you can yourself easily invest in passive, diversified funds that will return the market average (that very few product beat in a consistent manner)
+It is recommended to take a look at [investment basics](/investing/long/) to educate yourself on the basics, and how you can yourself easily invest in passive, diversified funds that will return the market average (that very few product beat in a consistent manner)
 
 You can get a free session with an independent FP here: https://www.jafp.or.jp/eng/
 

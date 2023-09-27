@@ -12,4 +12,4 @@ See [this brochure](https://www.nta.go.jp/about/organization/tokyo/kokugai/index
 
 ## Exit tax
 
-When loosing Japan Tax residency with qualifying worldwide assets worth 100M JPY or more, you may be subject to an exit tax. Please see the [Other Taxes](tax/other) page.
+When loosing Japan Tax residency with qualifying worldwide assets worth 100M JPY or more, you may be subject to an exit tax. Please see the [Other Taxes](/tax/other) page.

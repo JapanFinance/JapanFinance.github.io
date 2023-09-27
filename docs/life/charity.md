@@ -2,9 +2,9 @@
 
 This page cover charitable donations. 
 
-For [gifts](tax/gift/) to your loved ones, or [inheritance](inheritance/) concerns, please check the corresponding wiki Tax pages. 
+For [gifts](/tax/gift/) to your loved ones, or [inheritance](/inheritance/) concerns, please check the corresponding wiki Tax pages. 
 
-[Furusato Nozei](tax/residence/furusato-nozei/), a popular kind of donation that often provide practical benefits in return, and use the same deduction limts as charitable donations, is linked under the [Resident Tax](tax/residence/) wiki page.
+[Furusato Nozei](/tax/residence/furusato-nozei/), a popular kind of donation that often provide practical benefits in return, and use the same deduction limts as charitable donations, is linked under the [Resident Tax](/tax/residence/) wiki page.
 
 ## Are donations tax deductibles ?
 

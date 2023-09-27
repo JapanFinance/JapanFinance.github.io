@@ -33,7 +33,7 @@ Some Visa [restrict you to an employer in Japan](https://www.reddit.com/r/JapanF
 
 ## Housing
 
-Please refer to the [Income Tax page](tax/income) for details, outline is :
+Please refer to the [Income Tax page](/tax/income) for details, outline is :
 
 - Relocation (for work purposes) allowances are not taxable
 
@@ -44,12 +44,12 @@ Please refer to the [Income Tax page](tax/income) for details, outline is :
 
 ## Home leave
 
-Please refer to the [Income Tax page](tax/income) for details. An air ticket per year, direct to (spouse's) home country, for a foreign employee and family, may be non-taxable
+Please refer to the [Income Tax page](/tax/income) for details. An air ticket per year, direct to (spouse's) home country, for a foreign employee and family, may be non-taxable
 
 
 ## Retirement allowance
 
-Please refer to the [Income Tax page](tax/income) for details. Based on number of years of service, a retirement allowance (paid to an employee when leaving the company) can be tax free up to a point.
+Please refer to the [Income Tax page](/tax/income) for details. Based on number of years of service, a retirement allowance (paid to an employee when leaving the company) can be tax free up to a point.
 
 ## Commuting
 

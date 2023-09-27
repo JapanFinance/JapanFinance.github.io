@@ -10,7 +10,7 @@ However the information listed here should be specific to Japan.
 
 ## Health
 
-There are income-based limits on monthly out of pocket expenses, please check the [Health wiki page](life/health/).
+There are income-based limits on monthly out of pocket expenses, please check the [Health wiki page](/life/health/).
 
 [2023-05 : Some hospitals also have special free or low-cost programs](https://www.reddit.com/r/japanlife/comments/13lysqm/psa_some_hospitals_provide_free_or_lowcost/)
 

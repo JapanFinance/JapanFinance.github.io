@@ -65,7 +65,7 @@ Examples of the types of content that will generally be prohibited under this ru
 - Exaggerated/imprecise praise of a business (e.g., "XYZ are the best in the country!")
 - Unexplained calls to action (e.g. "BUY XYZ NOW!").
 
-Note that there is [a page in the sub's wiki](other/pros) where users can add links to English-friendly Japanese finance professionals. If you fit that description, feel free to add yourself to the wiki, but please refrain from promoting yourself or your employer elsewhere in the sub.
+Note that there is [a page in the sub's wiki](/other/pros) where users can add links to English-friendly Japanese finance professionals. If you fit that description, feel free to add yourself to the wiki, but please refrain from promoting yourself or your employer elsewhere in the sub.
 
 ## Rule 6: Use the "US Taxpayer" user flair if applicable
 
