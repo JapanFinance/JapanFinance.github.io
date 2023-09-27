@@ -6,7 +6,7 @@
 
 [2022-07-13 Scam targeting 'tax saving' real estate investments](https://www.reddit.com/r/JapanFinance/comments/vxq2i3/comment/ify268j/?utm_source=share&amp;utm_medium=web2x&amp;context=3)
 
-## Real estate FAQ / guides and ressources
+## Real estate FAQ / guides and resources
 
 The MLIT offers an [english explanation](https://www.mlit.go.jp/common/001050453.pdf) of the key urbanization concepts. 
 
@@ -226,7 +226,7 @@ See the [Inheritance Tax wiki](/inheritance) for the special tax exemption for a
 
 ## **Tax**
 
-Please refer to the [wiki Tax section](#wiki_tax) for the relevant applicable taxes: Property registration tax, Capital gain tax, yearly property tax [comment](https://www.reddit.com/r/japanlife/comments/9bgusi/property_taxes/e52yzqp?utm_source=share&amp;utm_medium=web2x&amp;context=3), loan income tax deduction, cash bonus for home buyers (Sumai-kyufu), income from overseas real estate, obligation of declaration of overseas assets.
+Please refer to the [wiki Tax section](#tax) for the relevant applicable taxes: Property registration tax, Capital gain tax, yearly property tax [comment](https://www.reddit.com/r/japanlife/comments/9bgusi/property_taxes/e52yzqp?utm_source=share&amp;utm_medium=web2x&amp;context=3), loan income tax deduction, cash bonus for home buyers (Sumai-kyufu), income from overseas real estate, obligation of declaration of overseas assets.
 
 ## **Selling**
 
