@@ -60,7 +60,7 @@ Note that we are currently using a traffic light system to indicate the complete
 - [Income tax](tax/income)　🟡
 - [Residence tax](tax/residence)　🔴
 - [Sales tax](tax/sales)　🔴
-- [Inheritance tax](inheritance)　🟡
+- [Inheritance tax](tax/inheritance)　🟡
 - [Gift tax](tax/gift)　🔴
 - [Other taxes](tax/other)　🔴
 
