@@ -22,7 +22,7 @@ I appreciate that it may be counter-intuitive to assert that the IRA operator is
 
 So in light of the US Treasury's Technical Explanation, and in the interests of rendering the US-Japan Tax Treaty coherent, I think there is a good foundation for the view that US-based IRAs held by Japanese residents are generally taxable only upon distribution, from the perspective of Japanese tax law. And as noted previously, this position seems to align with those expressed publicly by licensed professionals here and here.
 
-# Q&amp;A
+# Q&A
 
 ## Is the entire payment considered income, or is it just the increase over our contributions?
 

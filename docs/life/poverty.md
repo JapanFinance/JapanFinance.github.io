@@ -20,6 +20,6 @@ Supermarkets and combinis often discount products at the end of the day, usually
 
 For vegetables, it is often cheaper to look for a local greengrocer (八百屋) than buying them at the supermarket. YMMV but they often sell vegetables and fruit that are slightly misshapen and do not qualify for the supermarket.
 
-Some education institutions, such as public universities, have canteens open to the public, and usually offer a healthy balanced meal ([provider example](https://gakushoku.coop/)) for [a few hundred yens](https://www.reddit.com/r/JapanFinance/comments/oas66i/weekly_offtopic_thread_30_june_2021/h3jmdln?utm_source=share&amp;utm_medium=web2x&amp;context=3).
+Some education institutions, such as public universities, have canteens open to the public, and usually offer a healthy balanced meal ([provider example](https://gakushoku.coop/)) for [a few hundred yens](https://www.reddit.com/r/JapanFinance/comments/oas66i/weekly_offtopic_thread_30_june_2021/h3jmdln?utm_source=share&utm_medium=web2x&context=3).
 
 There are some [food bank](https://www.reddit.com/r/japanlife/comments/umemgq/emergency_food_services/) associations.
