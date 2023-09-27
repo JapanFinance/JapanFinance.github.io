@@ -4,7 +4,7 @@ Note that leaving on or after January 1st make you liable to pay the resident ta
 
 ## Closing bank account
 
-[2023-01 Closing your bank account and receiving last paycheck](https://www.reddit.com/r/JapanFinance/comments/10lh40v/comment/j5wxd5d/?utm_source=share&amp;utm_medium=web2x&amp;context=3)
+[2023-01 Closing your bank account and receiving last paycheck](https://www.reddit.com/r/JapanFinance/comments/10lh40v/comment/j5wxd5d/?utm_source=share&utm_medium=web2x&context=3)
 
 ## Tax procedures
 

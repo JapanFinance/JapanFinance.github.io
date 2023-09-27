@@ -4,7 +4,7 @@
 
 [When is it a good idea to buy for your own use ?](https://www.reddit.com/r/JapanFinance/comments/mypehs/so_when_does_it_make_sense_to_buy_a_personal_home/)
 
-[2022-07-13 Scam targeting 'tax saving' real estate investments](https://www.reddit.com/r/JapanFinance/comments/vxq2i3/comment/ify268j/?utm_source=share&amp;utm_medium=web2x&amp;context=3)
+[2022-07-13 Scam targeting 'tax saving' real estate investments](https://www.reddit.com/r/JapanFinance/comments/vxq2i3/comment/ify268j/?utm_source=share&utm_medium=web2x&context=3)
 
 ## Real estate FAQ / guides and resources
 
@@ -31,7 +31,7 @@ In Japanese :
 
 Offers on the market are available to all real estate professionals through a shared database called REINS, for both renting and selling.
 
-Several companies offer tools to search the database, such as [Homes.co.jp](https://www.homes.co.jp/kodate/tokyo/map/) or [Suumo](https://suumo.jp/jj/bukken/ichiran/JJ010FC003/?ar=060&amp;bs=021), by map, train line/station etc.
+Several companies offer tools to search the database, such as [Homes.co.jp](https://www.homes.co.jp/kodate/tokyo/map/) or [Suumo](https://suumo.jp/jj/bukken/ichiran/JJ010FC003/?ar=060&bs=021), by map, train line/station etc.
 
 ### Specific market niches
 
@@ -150,17 +150,17 @@ In Japanese : [Timeline for building a custom home](https://www.arrowsrealty.com
 
 [2023-03 Home inspector experience for new house](https://www.reddit.com/r/JapanFinance/comments/1269xra/home_inspector_experience_for_new_house/)
 
-### Heating, insulation &amp; air tightness
+### Heating, insulation & air tightness
 
 [Low Energy Building in Japan](http://minuszeroeco.blogspot.com/) is an english blog on efficient building.
 
-[About insulation](https://www.reddit.com/r/japanlife/comments/5hno71/those_who_bought_land_and_built_homes_in_japan/db2pwnv?utm_source=share&amp;utm_medium=web2x&amp;context=3)
+[About insulation](https://www.reddit.com/r/japanlife/comments/5hno71/those_who_bought_land_and_built_homes_in_japan/db2pwnv?utm_source=share&utm_medium=web2x&context=3)
 
-[About heating](https://www.reddit.com/r/japanlife/comments/5hno71/those_who_bought_land_and_built_homes_in_japan/db2n1hu?utm_source=share&amp;utm_medium=web2x&amp;context=3)
+[About heating](https://www.reddit.com/r/japanlife/comments/5hno71/those_who_bought_land_and_built_homes_in_japan/db2n1hu?utm_source=share&utm_medium=web2x&context=3)
 
 [About central heating](https://www.reddit.com/r/japanlife/comments/myy21g/living_in_japan_is_central_heating_possible/)
 
-[About mold](https://www.reddit.com/r/japanlife/comments/lnvnn3/friendly_reminder_to_check_for_mold/go32lf2?utm_source=share&amp;utm_medium=web2x&amp;context=3)
+[About mold](https://www.reddit.com/r/japanlife/comments/lnvnn3/friendly_reminder_to_check_for_mold/go32lf2?utm_source=share&utm_medium=web2x&context=3)
 
 Systems like [OM Solar](https://omsolar.jp/) or [ECS](https://www.kankyosouki.co.jp/) will give you a house that heats itself in winter and to a certain extent cools itself in summer. As well as heating your house from the sun you'll also get free hot water.
 They won't build the house for you but put you in touch with contractors in your area that use their system who will work with you to design and build your house.
@@ -170,7 +170,7 @@ Using one of these their contractors will also use a good amount of insulation a
 
 [Solar panel cost comparison and financial forecast](https://standard-project.net/solar/)
 
-## **Cost &amp; Financing**
+## **Cost & Financing**
 
 The construction prices are generally evaluated by tsubo (3.3 sqm). [Comparison of main makers costs](https://nexer.co.jp/ouchipalette/category/price/).
 
@@ -196,7 +196,7 @@ PR (or spouse of a Japanese national) and stable employment (2+ years) are most 
 
 Variable or Fix rates ? The comparison is not straightforward as it may seem :
 
-[2023-01 Comparison between variable and fixed](https://www.reddit.com/r/JapanFinance/comments/10eceeg/comment/j4suh03/?utm_source=share&amp;utm_medium=web2x&amp;context=3)
+[2023-01 Comparison between variable and fixed](https://www.reddit.com/r/JapanFinance/comments/10eceeg/comment/j4suh03/?utm_source=share&utm_medium=web2x&context=3)
 [2022-04 Detailed explanation on how rates are build and compared](https://www.reddit.com/r/JapanFinance/comments/u8ltkn/comment/i5m6es6/).
 
 ### Banks : how much can I borrow ?
@@ -220,13 +220,13 @@ See the [Inheritance Tax wiki](/inheritance) for the special tax exemption for a
 
 ## **Maintenance and running costs**
 
-[About maintenance of roofs](https://www.reddit.com/r/japanlife/comments/l12opx/advice_for_taking_care_of_a_japanese_house/gjx6z3q?utm_source=share&amp;utm_medium=web2x&amp;context=3)
+[About maintenance of roofs](https://www.reddit.com/r/japanlife/comments/l12opx/advice_for_taking_care_of_a_japanese_house/gjx6z3q?utm_source=share&utm_medium=web2x&context=3)
 
-[Maintenance advice](https://www.reddit.com/r/japanlife/comments/jebz8l/tuesday_general_discussion_thread_20_october_2020/g9ebum1?utm_source=share&amp;utm_medium=web2x&amp;context=3)
+[Maintenance advice](https://www.reddit.com/r/japanlife/comments/jebz8l/tuesday_general_discussion_thread_20_october_2020/g9ebum1?utm_source=share&utm_medium=web2x&context=3)
 
 ## **Tax**
 
-Please refer to the [wiki Tax section](/#tax) for the relevant applicable taxes: Property registration tax, Capital gain tax, yearly property tax [comment](https://www.reddit.com/r/japanlife/comments/9bgusi/property_taxes/e52yzqp?utm_source=share&amp;utm_medium=web2x&amp;context=3), loan income tax deduction, cash bonus for home buyers (Sumai-kyufu), income from overseas real estate, obligation of declaration of overseas assets.
+Please refer to the [wiki Tax section](/#tax) for the relevant applicable taxes: Property registration tax, Capital gain tax, yearly property tax [comment](https://www.reddit.com/r/japanlife/comments/9bgusi/property_taxes/e52yzqp?utm_source=share&utm_medium=web2x&context=3), loan income tax deduction, cash bonus for home buyers (Sumai-kyufu), income from overseas real estate, obligation of declaration of overseas assets.
 
 ## **Selling**
 

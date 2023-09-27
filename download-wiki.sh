@@ -39,7 +39,7 @@ while read -r line; do
     AUTHOR="$(jq -r '.data.revision_by.data.name' "$SOURCE_PAGE_JSON")"
 
     # Rewrite wiki links before saving Markdown file
-    jq -r '.data.content_md' "$SOURCE_PAGE_JSON" | sed 's,https://www.reddit.com/r/JapanFinance/wiki/index,,gi' > "$TARGET_PAGE_MD"
+    jq -r '.data.content_md' "$SOURCE_PAGE_JSON" | sed 's,https://www.reddit.com/r/JapanFinance/wiki/index,,gi' | sed 's/&nbsp;/ /g; s/&amp;/\&/g; s/&lt;/\</g; s/&gt;/\>/g;' > "$TARGET_PAGE_MD"
 
     # If the wiki page was changed, commit it.
     if [ -n "$(git status --porcelain)" ]; then

@@ -15,8 +15,8 @@ We are using the u/publicmodlogs bot to automatically publish this subreddit's m
 
 You can view the log at the following URLs:
 
-* JSON: https://www.reddit.com/r/JapanFinance/about/log/.json?feed=7e9b27126097f51ae6c9cd5b049af34891da6ba6&amp;user=publicmodlogs
-* XML: https://www.reddit.com/r/JapanFinance/about/log/.rss?feed=7e9b27126097f51ae6c9cd5b049af34891da6ba6&amp;user=publicmodlogs
+* JSON: https://www.reddit.com/r/JapanFinance/about/log/.json?feed=7e9b27126097f51ae6c9cd5b049af34891da6ba6&user=publicmodlogs
+* XML: https://www.reddit.com/r/JapanFinance/about/log/.rss?feed=7e9b27126097f51ae6c9cd5b049af34891da6ba6&user=publicmodlogs
 
 **We believe that only the most-recent 5,000 log entries are archived at those addresses. If you are interested in having a record of the entire log, you will need to maintain your own archive.**
 
@@ -24,8 +24,8 @@ You can view the log at the following URLs:
 
 It is also possible to view the data in a filtered form, using any of the tags available when viewing the normal moderation log page. For example:
 
-* Add "&amp;type=removelink" to the link to see removed items
-* Add "&amp;limit=NNNN" where NNNN is a number to see more entries
+* Add "&type=removelink" to the link to see removed items
+* Add "&limit=NNNN" where NNNN is a number to see more entries
 
 ### Documentation
 

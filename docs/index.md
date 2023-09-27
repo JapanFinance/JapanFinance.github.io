@@ -38,8 +38,8 @@ Note that we are currently using a traffic light system to indicate the complete
 - [Cryptocurrency](/handling/crypto)　🟡
 
 ## Spending Money
-- [General tips &amp; Everyday purchases](/spending/everyday)　🟡
-- [Big ticket items &amp; hobby](/spending/large-purchases)　🟡
+- [General tips & Everyday purchases](/spending/everyday)　🟡
+- [Big ticket items & hobby](/spending/large-purchases)　🟡
 - [Vehicles](/spending/vehicles)　🔴
 - [Housing: rental](/spending/renting)　🟡
 - [Real estate: owning](/spending/real-estate)　🟢

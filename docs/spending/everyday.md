@@ -1,4 +1,4 @@
-# General tips &amp; Everyday purchases
+# General tips & Everyday purchases
 
 Everyday spending is a large part of a monthly budget. References and link appearing here should offer significant value.
 
@@ -52,7 +52,7 @@ Butcher :
 ## Import/foreign food
 
 
-[About sourcing Mexican food &amp; ingredients](https://www.reddit.com/r/japanlife/comments/n1knym/where_to_buy_mexican_ingredients/)
+[About sourcing Mexican food & ingredients](https://www.reddit.com/r/japanlife/comments/n1knym/where_to_buy_mexican_ingredients/)
 
 
 Sellers with stock in Japan, and retail locations :

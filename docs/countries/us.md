@@ -54,14 +54,14 @@ This guide of [How to file a US Tax Return as a tax resident of Japan](/countrie
 
 ## Summary by u/univworker for future reference:
 
-&gt; You have to file federal taxes every year. You probably won't pay taxes though, because you can either use the [Foreign Earned Income Exclusion (FEIE)](https://www.irs.gov/individuals/international-taxpayers/foreign-earned-income-exclusion) or Foreign Tax Credit (FTC).
+> You have to file federal taxes every year. You probably won't pay taxes though, because you can either use the [Foreign Earned Income Exclusion (FEIE)](https://www.irs.gov/individuals/international-taxpayers/foreign-earned-income-exclusion) or Foreign Tax Credit (FTC).
 
-&gt; If you are using FEIE, you can exclude $107,600 (filing by yourself) but you are not eligible to contribute to an IRA or roth IRA, because your income is subtracted from your AGI.
+> If you are using FEIE, you can exclude $107,600 (filing by yourself) but you are not eligible to contribute to an IRA or roth IRA, because your income is subtracted from your AGI.
 
-&gt; If you elect to use the FTC, then you cannot easily return to using FEIE. In this case, you deduct the taxes you paid to Japan from your us tax bill.
+> If you elect to use the FTC, then you cannot easily return to using FEIE. In this case, you deduct the taxes you paid to Japan from your us tax bill.
 
-&gt; You really don't want to deal with FORM 8621 for PFIC, because it's onerous, taxes you punitively, and leaves your taxes unfiled if you screw up (meaning no SOL).
+> You really don't want to deal with FORM 8621 for PFIC, because it's onerous, taxes you punitively, and leaves your taxes unfiled if you screw up (meaning no SOL).
 
-&gt; IDECO for Americans is PFIC except for the park it in cash option
+> IDECO for Americans is PFIC except for the park it in cash option
 
-&gt; Japanese wrapper funds are PFIC.
+> Japanese wrapper funds are PFIC.
