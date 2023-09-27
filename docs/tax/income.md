@@ -27,7 +27,7 @@ If there is uncertainty as to whether the "base of [an individual's] life" is in
 
 Regulations under the Income Tax Law state that a person will be presumed to have a jūsho in Japan if their occupation or business is one that would normally require a person to live in Japan for at least one year ([Ordinance 14](https://elaws.e-gov.go.jp/document?lawid=340CO0000000096#Mp-At_14)), and that a person will be presumed to have a jūsho outside Japan if their occupation or business is one that would normally require a person to live outside Japan for at least one year ([Ordinance 15](https://elaws.e-gov.go.jp/document?lawid=340CO0000000096#Mp-At_15)). Furthermore, the NTA has stated ([Income Tax Notice 3–3](https://www.nta.go.jp/law/tsutatsu/kihon/shotoku/01/08.htm)) that they interpret both these ordinances as referring to all occupations and businesses except those that are *explicitly limited to a period of less than one year*.
 
-If the presence or absence of a jūsho cannot be confirmed by reference to a person's occupation or business, it may be necessary to consider additional factors, such as the location of any family members with whom the person is sharing living expenses, and the location of the person's valuable assets/possessions. See [this page](tax/income/residencycases) for a discussion of some past judicial decisions regarding tax residence.
+If the presence or absence of a jūsho cannot be confirmed by reference to a person's occupation or business, it may be necessary to consider additional factors, such as the location of any family members with whom the person is sharing living expenses, and the location of the person's valuable assets/possessions. See [this page](/tax/income/residencycases) for a discussion of some past judicial decisions regarding tax residence.
 
 Finally, it is important to note that Japan's Tax Treaty Implementation Law creates an exception to the normal rules of tax residency. Specifically, [Article 6](https://elaws.e-gov.go.jp/document?lawid=344AC0000000046#Mp-At_6) allows for the tie-breaking provisions of a tax treaty to override the Income Tax Law with respect to a person's tax residency.
 
@@ -138,7 +138,7 @@ See [this collection](https://www.reddit.com/r/JapanFinance/collection/5e10fa9d-
 
 ## Filing an Income Tax Return
 
-See [here](tax/income/returns).
+See [here](/tax/income/returns).
 
 - Placeholder [complex foreign tax credit discussion](https://www.reddit.com/r/JapanFinance/comments/pk7g7f/us_citizen_nonpermanent_resident_with_remittance/hcaa0w5/).
 

@@ -214,9 +214,9 @@ See income tax section for the possibility to reduce your taxes if you have an o
 
 ### Getting funds from parents
 
-See the [Gift Tax wiki](tax/gift) for the special gift tax exemption for house-purchase purpose.
+See the [Gift Tax wiki](/tax/gift) for the special gift tax exemption for house-purchase purpose.
 
-See the [Inheritance Tax wiki](inheritance) for the special tax exemption for anticipated inheritance.
+See the [Inheritance Tax wiki](/inheritance) for the special tax exemption for anticipated inheritance.
 
 ## **Maintenance and running costs**
 
@@ -226,7 +226,7 @@ See the [Inheritance Tax wiki](inheritance) for the special tax exemption for an
 
 ## **Tax**
 
-Please refer to the [wiki Tax section](https://www.reddit.com/r/JapanFinance/wiki/index#wiki_tax) for the relevant applicable taxes: Property registration tax, Capital gain tax, yearly property tax [comment](https://www.reddit.com/r/japanlife/comments/9bgusi/property_taxes/e52yzqp?utm_source=share&amp;utm_medium=web2x&amp;context=3), loan income tax deduction, cash bonus for home buyers (Sumai-kyufu), income from overseas real estate, obligation of declaration of overseas assets.
+Please refer to the [wiki Tax section](#wiki_tax) for the relevant applicable taxes: Property registration tax, Capital gain tax, yearly property tax [comment](https://www.reddit.com/r/japanlife/comments/9bgusi/property_taxes/e52yzqp?utm_source=share&amp;utm_medium=web2x&amp;context=3), loan income tax deduction, cash bonus for home buyers (Sumai-kyufu), income from overseas real estate, obligation of declaration of overseas assets.
 
 ## **Selling**
 

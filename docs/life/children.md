@@ -68,7 +68,7 @@ Pre-birth leave begins 6 weeks prior to the due date (14 weeks in the case of tw
 
 Post-birth leave begins the day after the birth and runs for 8 weeks. Until 6 weeks has passed after the birth, this leave is mandatory (an employer cannot allow a mother to work as an employee during this time, even if the mother wishes to do so). A mother may return to work after 6 weeks if they wish to do so and a doctor certifies that they are healthy.
 
-It is important to note that every pregnant mother with a job is entitled to maternity leave. There is no minimum period of prior employment or minimum number of hours/week. Though note that workers who are *not* employees (service providers/independent contractors/etc., as discussed [here](quick-start/essentials#wiki_employees_vs._service_providers)) are not entitled to maternity leave.
+It is important to note that every pregnant mother with a job is entitled to maternity leave. There is no minimum period of prior employment or minimum number of hours/week. Though note that workers who are *not* employees (service providers/independent contractors/etc., as discussed [here](/quick-start/essentials#wiki_employees_vs._service_providers)) are not entitled to maternity leave.
 
 ### Childcare leave
 

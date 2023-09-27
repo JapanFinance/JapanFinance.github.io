@@ -12,7 +12,7 @@ There are maximum payable amounts per month under the NHI, and yearly medical ex
 
 ## Average Income
 
-Please check the [Employment](earning/employment) page for average salaries, and indication on career path income levels.
+Please check the [Employment](/earning/employment) page for average salaries, and indication on career path income levels.
 
 ## Average Savings
 

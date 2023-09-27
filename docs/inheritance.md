@@ -1,1 +1,1 @@
-[Inheritance Tax has been moved to here](tax/inheritance/)
+[Inheritance Tax has been moved to here](/tax/inheritance/)

@@ -4,7 +4,7 @@ This page contains short summaries of some of the key aspects of personal financ
 
 ## Taxes on income
 
-- Japan taxes its residents' income in two distinct ways: [income tax](tax/income) and [residence tax](tax/residence). Income tax is a national tax administered by the National Tax Agency, while residence tax is a local tax administered by wards/cities/towns (municipalities).
+- Japan taxes its residents' income in two distinct ways: [income tax](/tax/income) and [residence tax](/tax/residence). Income tax is a national tax administered by the National Tax Agency, while residence tax is a local tax administered by wards/cities/towns (municipalities).
 
 - The tax year is the *calendar year* (January—December), and individuals' annual tax liability is calculated on the basis of their total annual income.
 
@@ -25,7 +25,7 @@ This page contains short summaries of some of the key aspects of personal financ
 
 ## Sending money overseas
 
-- As explained [here](handling/transfers), there are two main types of international money transfers: 
+- As explained [here](/handling/transfers), there are two main types of international money transfers: 
     1. Conversion from yen to foreign currency is performed at the same time as the transfer.
     2. Conversion from yen to foreign currency is performed prior to the transfer.
 
@@ -33,7 +33,7 @@ This page contains short summaries of some of the key aspects of personal financ
 
 - **Foreign-currency friendly banks** (such as Shinsei and Sony) allow account-holders to convert yen to foreign currency *without* simultaneously transferring it to a foreign bank account. In this case, the fee for converting and transferring money will be a combination of the exchange commission paid at the time of the currency conversion (often ~0.2%) and the wire transfer fee paid at the time of the transfer (usually a flat 2,000–4,000 yen).
 
-- There is no simple answer to the question of which method or service is cheapest. The answer depends partly on the amount being sent, as well as the sender's entitlement to the various reward/loyalty schemes (e.g., Shinsei's Step Up Program, Sony's Preferential Program, Rakuten's Points Ecosystem). Check the [international transfers](handling/transfers) page for more details.
+- There is no simple answer to the question of which method or service is cheapest. The answer depends partly on the amount being sent, as well as the sender's entitlement to the various reward/loyalty schemes (e.g., Shinsei's Step Up Program, Sony's Preferential Program, Rakuten's Points Ecosystem). Check the [international transfers](/handling/transfers) page for more details.
 
 - Japanese banks and wire transfer services are subject to fairly strict anti-money laundering regulations. Though all banks and services implement these regulations differently, it is common for the sender to be asked to provide evidence of the purpose of the transfer and/or evidence of the source of the funds. These kinds of inconveniences can't be ignored, and some people prefer to use more expensive banks or services because they have less onerous AML requirements.
 
@@ -62,13 +62,13 @@ This page contains short summaries of some of the key aspects of personal financ
 
 ## Shakai hoken vs. national health/pension
 
-- All Japanese residents must be enrolled in public [health insurance](insurance/health). Of adult residents aged 20-59:
+- All Japanese residents must be enrolled in public [health insurance](/insurance/health). Of adult residents aged 20-59:
     - About 80% are insured by a provider of "**employees' health insurance**".
     - About 20% are insured by their municipal government ("**national health insurance**" or "NHI").
 
 - Employees' health insurance provides additional benefits compared to NHI. For example, only employees' health insurance offers maternity pay and recovery of lost wages due to injury/illness.
 
-- All Japanese residents aged 20-59 must be enrolled in the public [pension](insurance/pensions) scheme. Of those:
+- All Japanese residents aged 20-59 must be enrolled in the public [pension](/insurance/pensions) scheme. Of those:
     - About 60% are enrolled in the "**employees' pension**".
     - About 40% are enrolled in the "**national pension**".
 
@@ -93,46 +93,46 @@ This page contains short summaries of some of the key aspects of personal financ
 
 Sources for the statistics quoted in this section are provided at the linked wiki pages.
 
-- The majority of household expenses in Japan are paid electronically. However, the proportion of expenses that are paid in [**cash**](handling/cash#wiki_prevalence) (38% by value) is very high relative to other developed countries.
+- The majority of household expenses in Japan are paid electronically. However, the proportion of expenses that are paid in [**cash**](/handling/cash#wiki_prevalence) (38% by value) is very high relative to other developed countries.
     - The average amount of cash that adults carry in Japan (~13,000 yen) is significantly higher than in many other places.
     - 66% of in-person retail transactions are cash transactions.
     - 16% of online transactions are cash transactions (e.g., COD).
     - The number of "cash only" businesses has decreased dramatically over the past few years, and this trend is expected to continue.
 
-- [**Credit cards**](handling/banks#wiki_credit_cards) are the most common cashless payment method, accounting for around 30% of household expenditure.
+- [**Credit cards**](/handling/banks#wiki_credit_cards) are the most common cashless payment method, accounting for around 30% of household expenditure.
     - The most common reason that people cite for using credit cards is the availability of reward points/miles.
     - Most credit cards have some kind of points system attached to them, but the benefits vary considerably. It is generally worth aiming for an average return of ~1% on all purchases.
     - If you are willing to pay attention to campaigns and change payment methods often, it is possible to achieve average returns of 2-3% on all purchases.
     - While credit cards account for 30% of in-person purchases by value, they account for only 15% of all in-person transactions, implying that they are more commonly used for expensive purchases.
 
-- [**Direct debit**](handling/banks#wiki_direct_debit) is the second most common cashless payment method (21%).
+- [**Direct debit**](/handling/banks#wiki_direct_debit) is the second most common cashless payment method (21%).
     - The purchaser authorizes the vendor to withdraw money automatically from the purchaser's bank account.
     - The cost of the transfer is typically borne by the vendor.
     - Many vendors use the "Pay-easy" service to execute direct debits, but some popular non-traditional banks (e.g., Shinsei, Sony, SBI, Aeon, Seven) do not subscribe to Pay-easy, which means vendors will often refuse to debit accounts at those banks.
     - Direct debit is mainly used for stable, regular expenses such as rent, utility bills, and insurance.
 
-- [**Bank transfer**](handling/banks#wiki_bank_transfers) is the third most common cashless payment method (5%).
+- [**Bank transfer**](/handling/banks#wiki_bank_transfers) is the third most common cashless payment method (5%).
     - The purchaser initiates a transfer of funds from their own bank account into the vendor's account.
     - The cost of the transfer is typically borne by the purchaser, but many banks offer one or more free bank transfers per month, depending on the account-holder's "status" (average balance, whether they have a mortgage, whether they hold an investment account, etc.).
     - Bank transfers are typically used for expensive purchases (vehicles, commercial services, rental deposits, etc.).
     - Bank transfers offer very little fraud protection and should be used with care.
 
 - Other cashless payment methods (accounting for the remaining 6% of household expenditure) include:
-    - [**Electronic money**](handling/points#wiki_electronic_money)
+    - [**Electronic money**](/handling/points#wiki_electronic_money)
         - Prepaid contactless IC cards, often connected to transport operators.
         - The most popular products are Edy (Rakuten), WAON (Aeon), Suica (JR East), Nanaco (7-Eleven), and Pasmo.
         - Electronic money can be integrated into mobile phones that have "Osaifu-Keitai" functionality.
         - Although electronic money only accounts for around 4% of total household expenditure, it accounts for 12% of in-person retail transactions, and 22% of all transactions at convenience stores.
-    - [**iD/QUICPay**](handling/banks#wiki_id.2Fquicpay)
+    - [**iD/QUICPay**](/handling/banks#wiki_id.2Fquicpay)
         - Contactless IC cards/tokens with the potential for phone integration, similar to "electronic money". However, the primary purpose of these services is to offer a contactless method of accessing an existing credit card. (Unlike electronic money, most iD/QUICPay products do not *store* value.)
         - Most major credit card issuers offer either iD or QUICPay functionality on at least some of their cards.
         - iD/QUICPay are used in about 1% of all in-person transactions and 3% of convenience store transactions.
-    - [**Payment apps**](handling/points#wiki_payment_apps)
+    - [**Payment apps**](/handling/points#wiki_payment_apps)
         - Mobile app-based payment methods that involve scanning a QR code at the point of sale.
         - They generally offer both prepaid "electronic money" functionality *and* some credit card access analogous to iD/QUICPay.
         - The most popular products are PayPay, LINE Pay, and Rakuten Pay.
         - As of February 2020, QR-code apps were being used in around 2% of in-person transactions and 6% of convenience store transactions, but they are a very new and fast-growing payment method, so current usage is likely higher.
-    - [**Debit cards**](handling/banks#wiki_debit_cards)
+    - [**Debit cards**](/handling/banks#wiki_debit_cards)
         - Similar to a credit card, but the money is immediately withdrawn from the card-holder's bank account (in other words, no credit is being provided).
         - These are rare in Japan, and they account for only 0.1% of household expenditure. Their main usage is online purchases, where they account for 1.3% of transactions.
         - Fraud protection is generally limited to a fixed amount (e.g., 1 million yen), whereas the usage limit is determined by the card-holder's account balance. So it is quite risky to have a larger account balance than the card issuer's fraud protection limit.
@@ -141,37 +141,37 @@ Sources for the statistics quoted in this section are provided at the linked wik
 
 ## Other taxes
 
-- Japan has a significant [**inheritance tax**](inheritance).
+- Japan has a significant [**inheritance tax**](/inheritance).
     - Inherited property located in Japan is *always* taxed.
     - Deceased Japanese residents' overseas assets are taxed unless the deceased held a "Table 1" visa (any visa other than spouse/child/PR/LTR) *and* the heir is either a non-resident or a "**temporary foreigner**" (less than 10 years' residence and a Table 1 visa).
     - Overseas assets inherited by Japanese residents are taxed unless the resident is a "temporary foreigner".
     - There are significant tax-free allowances that ensure the vast majority of heirs (more than 90%) pay no inheritance tax.
     - Japanese nationals must live outside Japan for *10 years* to escape full inheritance tax liability.
 
-- To prevent inheritance tax evasion, Japan also has a significant [**gift tax**](tax/gift).
+- To prevent inheritance tax evasion, Japan also has a significant [**gift tax**](/tax/gift).
     - The **recipient** has full responsibility for declaring and paying tax on the gift. 
     - There is no blanket exemption for spouses or family members. In practice, this makes things like shared bank accounts and children's trust funds quite risky.
     - There is an important exemption to gift tax for "money spent on **living expenses** received from family members who have assumed responsibility for the recipient's living expenses".
     - The rules regarding the location of property and when it is taxable are the same as for inheritance tax (e.g., "temporary foreigners" don't owe gift tax on overseas assets).
 
-- Japan has a 10% [**sales tax**](tax/sales) (8% on food sold for off-site consumption). Sales tax is normally collected and paid by vendors, but vendors with revenue of less than 10 million yen per year can choose not to collect sales tax.
+- Japan has a 10% [**sales tax**](/tax/sales) (8% on food sold for off-site consumption). Sales tax is normally collected and paid by vendors, but vendors with revenue of less than 10 million yen per year can choose not to collect sales tax.
 
 - Vehicle ownership is taxed in two ways:
-    - A national [**weight tax**](tax/other#wiki_weight_tax) of 0-35k yen/year (depending on the age, weight, and fuel-efficiency of the vehicle).
-    - A [**vehicle ownership tax**](tax/other#wiki_ownership_tax):
+    - A national [**weight tax**](/tax/other#wiki_weight_tax) of 0-35k yen/year (depending on the age, weight, and fuel-efficiency of the vehicle).
+    - A [**vehicle ownership tax**](/tax/other#wiki_ownership_tax):
         - For "kei" cars and motorcycles, this is a *municipal* tax of 2-10k yen/year.
         - For regular cars, this is a *prefectural* tax of 25-110k yen/year, depending on engine capacity.
 
-- Japan has an annual [**property tax**](tax/other#wiki_property_tax) that applies to all land and buildings, as well as all depreciable assets owned by businesses.
+- Japan has an annual [**property tax**](/tax/other#wiki_property_tax) that applies to all land and buildings, as well as all depreciable assets owned by businesses.
     - Property tax is administered by municipal governments and rates vary slightly.
     - The basic annual rate is 1.4% of the government-assessed value of the property, with an additional 0.3% payable on land and buildings located within urban planning zones.
     - There are significant exceptions for new residential buildings, and for land that has a residential building on it.
     - Government valuations of land and buildings tend to be around 30% lower than market value.
     - "Depreciable assets" does not include vehicles, and the depreciable assets within a single municipality are exempt from property tax if their combined value is less than 1.5 million yen.
 
-- There is a [**stamp duty**](tax/other#wiki_stamp_duty) applicable to many types of contracts and official documents, including formal receipts for goods/services worth more than 50k yen. Though the stamp duty on most documents is quite cheap (e.g., 200 yen).
+- There is a [**stamp duty**](/tax/other#wiki_stamp_duty) applicable to many types of contracts and official documents, including formal receipts for goods/services worth more than 50k yen. Though the stamp duty on most documents is quite cheap (e.g., 200 yen).
 
-- Japan's public broadcaster, [**NHK**](tax/other#wiki_nhk), is funded by a quasi-tax on the possession of "equipment capable of receiving the [TV] broadcasting provided by NHK" (effectively meaning a screen, a TV tuner, and an antenna—or access to an antenna connection).
+- Japan's public broadcaster, [**NHK**](/tax/other#wiki_nhk), is funded by a quasi-tax on the possession of "equipment capable of receiving the [TV] broadcasting provided by NHK" (effectively meaning a screen, a TV tuner, and an antenna—or access to an antenna connection).
     - The fee is 12-24k yen/year per household, depending on whether you are capable of receiving NHK's satellite channels.
     - One representative from each household is required to arrange to pay the fee by concluding a contract with NHK. This can be done online, or in-person via one of NHK's infamous door-to-door salespeople.
     - Just under 20% of households illegally refuse to conclude a contract with NHK. The Japanese Supreme Court has confirmed that NHK can sue a household that illegally refuses to conclude a contract and a court can order the household to conclude a contract with NHK, but in practice such lawsuits are extremely rare.
@@ -180,9 +180,9 @@ Sources for the statistics quoted in this section are provided at the linked wik
 
 ## Common tax-saving measures
 
-- Japan has two key tax-advantaged investment vehicles: [**iDeCo**](investing/long#wiki_ideco) and NISA.
+- Japan has two key tax-advantaged investment vehicles: [**iDeCo**](/investing/long#wiki_ideco) and NISA.
     - iDeCo is a privately-managed defined-contribution pension scheme. Contributions are fully tax deductible and withdrawals upon retirement are taxed very lightly. Investment options within iDeCo are limited to low-risk products.
-    - NISA is a type of investment account within which all capital gains are tax-free. There are two types of NISA accounts: [**ordinary NISA**](investing/short#wiki_ordinary_nisa) (5-year limit, maximum of 1.2 million yen/year, high-risk products available) and [**tsumitate NISA**](investing/long#wiki_tsumitate_nisa) (20-year limit, maximum of 400k yen/year, medium/low-risk products only). 
+    - NISA is a type of investment account within which all capital gains are tax-free. There are two types of NISA accounts: [**ordinary NISA**](/investing/short#wiki_ordinary_nisa) (5-year limit, maximum of 1.2 million yen/year, high-risk products available) and [**tsumitate NISA**](/investing/long#wiki_tsumitate_nisa) (20-year limit, maximum of 400k yen/year, medium/low-risk products only). 
 
 - **Medical expenses** in excess of 100k yen per year are tax deductible. It's not possible for employers to process this deduction on behalf of their employees, though, so employees who want to claim this deduction must file a tax return themselves.
 
@@ -192,4 +192,4 @@ Sources for the statistics quoted in this section are provided at the linked wik
 
 - Income from **renting out land and buildings** can generate a taxable loss due to amortization of the property's acquisition costs. Such losses can be offset against other types of income to reduce the taxpayer's overall tax burden.
 
-- [**Furusato nozei**](tax/residence/furusato-nozei) is a scheme that allows individuals to redirect their taxes to specific municipalities in return for "gifts" of local products. It costs 2,000 yen to participate in the scheme, regardless of how much tax is redirected (or the total value of "gifts" received), though there is an upper limit to the proportion of a person's tax bill that can be profitably redirected.
+- [**Furusato nozei**](/tax/residence/furusato-nozei) is a scheme that allows individuals to redirect their taxes to specific municipalities in return for "gifts" of local products. It costs 2,000 yen to participate in the scheme, regardless of how much tax is redirected (or the total value of "gifts" received), though there is an upper limit to the proportion of a person's tax bill that can be profitably redirected.

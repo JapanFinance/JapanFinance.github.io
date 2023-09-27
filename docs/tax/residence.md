@@ -4,4 +4,4 @@
 
 # Hometown Tax - Furusato Nozei
 
-- [Furusato Nozei](tax/residence/furusato-nozei)
+- [Furusato Nozei](/tax/residence/furusato-nozei)
