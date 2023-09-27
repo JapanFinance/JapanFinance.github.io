@@ -10,26 +10,26 @@ Note that we are currently using a traffic light system to indicate the complete
 
  🔴 means that a section does not yet contain useful information.
 
-# Subreddit Admin
+## Subreddit Admin
 - [Explanation of the sub's rules](/admin/rules)　🟢
 - [Moderation transparency](/admin/transparency)　🟢
 - [Wiki contribution guidelines](/admin/guidelines)　🟢
 - [Post flair taxonomy](/admin/flairs)　🟢
 - [Thread Archive](/admin/collections)
 
-# Quick-Start Guide
+## Quick-Start Guide
 - [Essential knowledge](/quick-start/essentials)　🟢
 - [Cost of living](/quick-start/cost-of-living)　🟡
 - [Stages of residence](/quick-start/stages)　🔴
 
-# Earning Money
+## Earning Money
 - [Employment](/earning/employment)　🟡
 - [Running a business](/earning/business)　🟡
 - [Side income](/earning/side) 🟡
 - [Other income streams](/earning/other)　🔴
 - [Government benefits](/earning/welfare)　🔴
 
-# Handling Money
+## Handling Money
 - [Cash](/handling/cash) 🔴
 - [Cheques / Checks](/handling/cheques)　🟢
 - [Banks](/handling/banks)　🟡
@@ -37,18 +37,18 @@ Note that we are currently using a traffic light system to indicate the complete
 - [Electronic money and payment apps](/handling/points)　🟡
 - [Cryptocurrency](/handling/crypto)　🟡
 
-# Spending Money
+## Spending Money
 - [General tips &amp; Everyday purchases](/spending/everyday)　🟡
 - [Big ticket items &amp; hobby](/spending/large-purchases)　🟡
 - [Vehicles](/spending/vehicles)　🔴
 - [Housing: rental](/spending/renting)　🟡
 - [Real estate: owning](/spending/real-estate)　🟢
 
-# Investing
+## Investing
 - [Types of investment accounts / Brokerages](/investing/long)　🟡
 - [Rules and regulations](/investing/rules)　🔴
 
-# Insurance
+## Insurance
 - [Bicycle Insurance](/insurance/bike)　🔴
 - [Car / Vehicle Insurance](/insurance/car)　🔴
 - [Home Insurance](/insurance/home)　🔴
@@ -56,7 +56,7 @@ Note that we are currently using a traffic light system to indicate the complete
 - [Pensions](/insurance/pensions)　🟡
 - [Unemployment Insurance](/insurance/unemployment)　🔴
 
-# Tax
+## Tax
 - [Income tax](/tax/income)　🟡
 - [Residence tax](/tax/residence)　🔴
 - [Sales tax](/tax/sales)　🔴
@@ -64,7 +64,7 @@ Note that we are currently using a traffic light system to indicate the complete
 - [Gift tax](/tax/gift)　🔴
 - [Other taxes](/tax/other)　🔴
 
-# Life Events
+## Life Events
 
 - [Poverty Finance](/life/poverty)　🔴
 - [Charity and donations](/life/charity) 🔴
@@ -77,7 +77,7 @@ Note that we are currently using a traffic light system to indicate the complete
 - [Leaving Japan](/life/leaving)　🔴
 - [Keeping Immigration notified](/life/karlbert)　🔴
 
-# Country-Specific Resources
+## Country-Specific Resources
 
 Americas : [US](/countries/US) 🟡, [Canada](/countries/Canada) 🟡
 
@@ -85,7 +85,7 @@ Europe : [France](/countries/FR) 🟡, [UK](/countries/UK) 🟡
 
 Asia-Pacific : [Australia](/countries/Australia) 🟡, [NZ](/countries/NZ) 🟡
 
-# Other Useful Resources
+## Other Useful Resources
 - [English-friendly professionals](/other/pros)　🔴
 - [Glossary of terms](/other/glossary)　🟡
 - [Further reading](/other/reading)　🔴
