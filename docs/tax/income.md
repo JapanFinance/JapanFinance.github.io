@@ -71,7 +71,7 @@ The Income Tax Law prescribes 17 different categories of "Japan-source" income (
 
 For many people, the most significant category of "Japan-source" income is category 12:
 
-&gt; Salaries, wages or other remuneration received for work carried out in Japan
+> Salaries, wages or other remuneration received for work carried out in Japan
 
 In practice, this means that any work done by a person who is *physically located in Japan at the time of doing the work* will be Japan-source income, regardless of where it is paid or the location of the entity making the payment.
 

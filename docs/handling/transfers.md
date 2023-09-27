@@ -42,7 +42,7 @@ To produce these tables, I confirmed the commission and flat fee applicable to f
 
 The full tables can be viewed [here (USD)](https://a.thumbs.redditmedia.com/oQghu1sYOm1nMngj4deiM192nJMCoCwiTX5sEQH83x0.png) and [here (EUR)](https://a.thumbs.redditmedia.com/nG0iJ42maLH_SZCbYrbhg29Rm9bZAmVmpKAe1oEOY88.png). Summary tables are provided below.
 
-**JPY -&gt; USD**
+**JPY -> USD**
 
 |**Institution**|**Average Cost**|
 :--|--:|
@@ -67,7 +67,7 @@ The full tables can be viewed [here (USD)](https://a.thumbs.redditmedia.com/oQgh
 |Mizuho|2.69%|
 |JP Bank*|2.90%|
 
-**JPY -&gt; EUR**
+**JPY -> EUR**
 
 |**Institution**|**Average Cost**|
 :--|--:|
@@ -98,7 +98,7 @@ The institutions marked with an asterisk are those that either don't publish the
 
 Some currencies have high fees or conversion spread, either in Japan or in the receiving country. In those cases, using a low spread currency like the USD to make the transfer can result in lower costs.
 
-[2022-11 - Using JPY&gt;USD&gt;INR to avoid high conversion costs of JPY&gt;INR](https://www.reddit.com/r/JapanFinance/comments/z3jq6p/comment/ixqsbq9/?utm_source=share&utm_medium=web2x&context=3) 
+[2022-11 - Using JPY>USD>INR to avoid high conversion costs of JPY>INR](https://www.reddit.com/r/JapanFinance/comments/z3jq6p/comment/ixqsbq9/?utm_source=share&utm_medium=web2x&context=3) 
 
 ### Sources and links
 
