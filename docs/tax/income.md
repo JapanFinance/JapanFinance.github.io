@@ -160,4 +160,4 @@ Declaring a [foreign dependent](https://www.nta.go.jp/taxes/shiraberu/taxanswer/
 
 ### Deduction for Medical expenses above 100kJPY/year
 
-Deduction of health related expenses above 100kJPY [NTA english guide, p37-38](https://www.nta.go.jp/english/taxes/individual/pdf/a-17.pdf) and [detailed NTA page in Japanese](https://www.nta.go.jp/taxes/shiraberu/shinkoku/tebiki/2021/pdf/008.pdf)
+Deduction of health related expenses above 100kJPY [NTA english guide PDF, p39-41](https://www.nta.go.jp/english/taxes/individual/pdf/incometax_2022/01.pdf) and [detailed NTA page in Japanese](https://www.nta.go.jp/taxes/shiraberu/shinkoku/tebiki/2022/pdf/008.pdf)
