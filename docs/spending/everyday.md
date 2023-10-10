@@ -16,11 +16,13 @@ Used offers significant discount against new while quality can often be high. [Y
 
 # Everyday purchases
 
-If you're the type to pay cash or debit most places, you can look into buying vouchers at discount ticket shops (金券ショップ) for your daily spending (grocery stores, restaurants, conbini, postage, even train and bus fare depending on the operator and store you're buying from) and save a few percent that way. Most chain stores offer these vouchers as a shareholder benefit, but people who would rather have cash will sell their vouchers at a discount to these ticket shops. Most vouchers are specific to one chain or to all chains under one corporate holding company, but some are usable at multiple different stores.
+If you're the type to pay cash or debit most places, you can look into buying vouchers at discount ticket shops (金券ショップ) for your daily spending (grocery stores, restaurants, conbini, postage, even train and bus fare depending on the operator and store you're buying from) and save a few percent that way. Most chain stores offer these vouchers as a shareholder benefit, but people who would rather have cash will sell their vouchers at a discount to these ticket shops. Most vouchers are specific to one chain or to all chains under one corporate holding company (for example, a Yoshinoya voucher can be used at Hanamaru Udon), but some are usable at multiple different stores.
 
 * Tosho Card NEXT- can be used to purchase books at most physical bookstores
 
 * QUO Card- can be used at any conbini for purchases of items (not for buying other prepaid cards or bill payments)
+
+* Orange Card- essentially a JR gift card, can be used to purchase fare tickets at JR ticket machines or pay fare differences at fare adjustment machines. An Orange Card from any JR company or JNR/国鉄 can be used at any other JR company's ticket machines so long as they support Orange Cards, and the largest discounts (3-5%) are on 1000-yen cards. 
 
 * JCB or VJA gift certificates- can be used at a variety of stores, check [here](https://www.jcb.co.jp/voucher/gift-card/merchant.html) for JCB and [here](http://vjagiftcard.com/search/toriatsukai.php?mode=1) for VJA. Note that depending on where you buy these, the savings here isn't as great as with the store-specific vouchers because they're so widely accepted; expect to only save 1-2% (sometimes 3%) using one of these vouchers (with store-specific vouchers, savings can be as high as 10%). 
 
