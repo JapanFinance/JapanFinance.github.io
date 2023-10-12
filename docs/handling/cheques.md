@@ -14,9 +14,9 @@ Of the major banks, only Prestia will still do it (see https://yatsuyaku.com/cle
 
 * SMBC Prestia - https://faq.smbctb.co.jp/faq/show/177?site_domain=smbctbjp ​
 
-Mizuho seems to have relented specifically for corona stimulus cheques:
+Mizuho bank will cash their own checks where they are the payee:
 
-* https://www.faq.mizuhobank.co.jp/faq/show/6187?site_domain=default
+* https://www.faq.mizuhobank.co.jp/faq/show/7383
 
 Some regional banks appears to offer the service still:
 
