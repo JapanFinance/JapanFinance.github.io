@@ -72,6 +72,7 @@ Note that we are currently using a traffic light system to indicate the complete
 - [Marriage and Divorce](/life/marriage-divorce)　🟡
 - [Children](/life/children)　🟡
 - [Health issues](/life/health)　🔴
+- [Driving](/life/driving)　🔴
 - [Retirement](/life/retirement)　🔴
 - [Death](/life/death)　🔴
 - [Leaving Japan](/life/leaving)　🔴
