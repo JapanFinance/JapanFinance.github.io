@@ -53,5 +53,6 @@
   "engines": {
     "node": ">=18.0"
   },
-  "description": "Website for r/JapanFinance wiki"
+  "description": "Website for r/JapanFinance wiki",
+  "packageManager": "yarn@4.0.1+sha256.5a9d054e67fbbae8774cd3667736fd74407ffbbb336898523ca1fe87b3fc4ee3"
 }
