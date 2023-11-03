@@ -29,8 +29,8 @@
     "@argos-ci/cli": "^1.0.0",
     "@argos-ci/playwright": "^1.0.1",
     "@docusaurus/module-type-aliases": "3.0.0",
+    "@docusaurus/tsconfig": "3.0.0",
     "@playwright/test": "^1.39.0",
-    "@tsconfig/docusaurus": "^2.0.2",
     "cheerio": "^1.0.0-rc.12",
     "typescript": "^5.2.2"
   },
