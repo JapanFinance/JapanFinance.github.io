@@ -1,12 +1,9 @@
-// @ts-check
-// Note: type annotations allow type checking and IDEs autocompletion
+import {themes as prismThemes} from 'prism-react-renderer';
+import type {Config} from '@docusaurus/types';
+import type * as Preset from '@docusaurus/preset-classic';
+import type {PluginOptions as SearchPluginOptions} from '@easyops-cn/docusaurus-search-local';
 
-const {themes} = require('prism-react-renderer');
-const lightCodeTheme = themes.github;
-const darkCodeTheme = themes.dracula;
-
-/** @type {import('@docusaurus/types').Config} */
-const config = {
+const config: Config = {
   title: 'r/JapanFinance',
   tagline: 'Finance & Tech in Japan',
   favicon: 'img/favicon.ico',
@@ -39,11 +36,10 @@ const config = {
   presets: [
     [
       'classic',
-      /** @type {import('@docusaurus/preset-classic').Options} */
-      ({
+      {
         docs: {
           routeBasePath: '/',
-          sidebarPath: require.resolve('./sidebars.js'),
+          sidebarPath: './sidebars.ts',
           editUrl: ({ docPath }) =>
             `https://www.reddit.com/r/JapanFinance/wiki/edit/index/${docPath.includes("index") ? '' : docPath.slice(0, docPath.lastIndexOf('.'))}`,
           async sidebarItemsGenerator({ defaultSidebarItemsGenerator, ...args }) {
@@ -53,29 +49,27 @@ const config = {
         },
         blog: false,
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: './src/css/custom.css',
         },
-      }),
+      } satisfies Preset.Options,
     ],
   ],
 
   themes: [
     [
-      require.resolve('@easyops-cn/docusaurus-search-local'),
-      /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
-      ({
+      '@easyops-cn/docusaurus-search-local',
+      {
         // `hashed` is recommended as long-term-cache of index file is possible.
         hashed: true,
         language: ['en', 'ja'],
         docsRouteBasePath: '/',
         indexBlog: false, // blog is disabled
-      }),
+      } satisfies SearchPluginOptions,
     ],
   ],
 
   themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
+    {
       metadata: [{ name: 'keywords', content: 'finance, japan, tax, personal finance, income, retirement, FIRE' }],
       // Your project's social card
       image: 'img/social-card.jpg',
@@ -125,13 +119,13 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} r/JapanFinance contributors. Built with Docusaurus.`,
       },
       prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
+        theme: prismThemes.github,
+        darkTheme: prismThemes.dracula,
       },
-    }),
+    } satisfies Preset.ThemeConfig,
 };
 
-module.exports = config;
+export default config;
 
 /**
  * @param {import("@docusaurus/plugin-content-docs/src/sidebars/types.js").NormalizedSidebar} items
