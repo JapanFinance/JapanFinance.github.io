@@ -218,21 +218,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@argos-ci/core@npm:1.1.0":
-  version: 1.1.0
-  resolution: "@argos-ci/core@npm:1.1.0"
-  dependencies:
-    "@argos-ci/util": "npm:1.0.0"
-    axios: "npm:^1.5.0"
-    convict: "npm:^6.2.4"
-    debug: "npm:^4.3.4"
-    fast-glob: "npm:^3.3.1"
-    sharp: "npm:^0.32.5"
-    tmp: "npm:^0.2.1"
-  checksum: 0d211af2238e1684982104683601210fe538dea7c51dd5792899b998af1936c92b9e0ee89d1bcfbd7aa5a139d87c0000fe7bea7afa57a71c5878e62ed402d8a0
-  languageName: node
-  linkType: hard
-
 "@argos-ci/core@npm:1.2.0":
   version: 1.2.0
   resolution: "@argos-ci/core@npm:1.2.0"
@@ -248,21 +233,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@argos-ci/playwright@npm:^1.1.0":
-  version: 1.1.0
-  resolution: "@argos-ci/playwright@npm:1.1.0"
+"@argos-ci/playwright@npm:^1.2.0":
+  version: 1.2.0
+  resolution: "@argos-ci/playwright@npm:1.2.0"
   dependencies:
     "@argos-ci/browser": "npm:1.0.0"
-    "@argos-ci/core": "npm:1.1.0"
-    "@argos-ci/util": "npm:1.0.0"
-  checksum: 4c7e4822dff1a910da8f37e3f62340ee0fa5ebe51ecfeafd42c65fc174ad893cd882fa07c113e03b25c008252c0497424bdfff95e6a0e59cfb4850e55f5ad0bc
-  languageName: node
-  linkType: hard
-
-"@argos-ci/util@npm:1.0.0":
-  version: 1.0.0
-  resolution: "@argos-ci/util@npm:1.0.0"
-  checksum: 681f32e46108ba6c472951b722a54f720df211d3b41fb791f8b5b73769c16c9c1059fad287d31b5c64859b6a96754516981f06edcdd5a62fa090630456274c17
+    "@argos-ci/core": "npm:1.2.0"
+    "@argos-ci/util": "npm:1.1.0"
+  checksum: b29e1158f9c76b50c6c3fb1d91097741954dbeb05b6c3f33b95b4397748d3ab0b98c45d280522c0f0ed69d0e233a63c7084656d890284089ec9933bf75404354
   languageName: node
   linkType: hard
 
@@ -9677,7 +9655,7 @@ __metadata:
   resolution: "japanfinance-wiki@workspace:."
   dependencies:
     "@argos-ci/cli": "npm:^1.0.2"
-    "@argos-ci/playwright": "npm:^1.1.0"
+    "@argos-ci/playwright": "npm:^1.2.0"
     "@docusaurus/core": "npm:3.0.0"
     "@docusaurus/module-type-aliases": "npm:3.0.0"
     "@docusaurus/preset-classic": "npm:3.0.0"
