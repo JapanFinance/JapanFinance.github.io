@@ -204,17 +204,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@argos-ci/cli@npm:^1.0.1":
-  version: 1.0.1
-  resolution: "@argos-ci/cli@npm:1.0.1"
+"@argos-ci/cli@npm:^1.0.2":
+  version: 1.0.2
+  resolution: "@argos-ci/cli@npm:1.0.2"
   dependencies:
-    "@argos-ci/core": "npm:1.1.0"
+    "@argos-ci/core": "npm:1.2.0"
     commander: "npm:^11.0.0"
     ora: "npm:^7.0.1"
     update-notifier: "npm:^6.0.2"
   bin:
     argos: bin/argos-cli.js
-  checksum: 6593ea2a679bbae861ca7f7063a28c046c3e456a2b75f283c5a2ec388486bd865b761b426391f1491815bfeadab4e58e6997564ee2b53d69527138cc47e86e9d
+  checksum: 7b180fe9fc7f5116a3ba7ef0b168d5936ea8c033a2ea7b1de98ad727c15bf496a711ad2e6593dcf51e7118c71b8a6b718d033d3ce66041af9bb93ac5176cc25f
   languageName: node
   linkType: hard
 
@@ -233,6 +233,21 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@argos-ci/core@npm:1.2.0":
+  version: 1.2.0
+  resolution: "@argos-ci/core@npm:1.2.0"
+  dependencies:
+    "@argos-ci/util": "npm:1.1.0"
+    axios: "npm:^1.5.0"
+    convict: "npm:^6.2.4"
+    debug: "npm:^4.3.4"
+    fast-glob: "npm:^3.3.1"
+    sharp: "npm:^0.32.5"
+    tmp: "npm:^0.2.1"
+  checksum: 23852ff97fea92ccf83f1c50fe95ed0adca3d940c91398ca73f1468241dcef38c38f2204e6eabbcb49b36ba20b2634f9ca59cc174fbb75c5f544a85b008ffa13
+  languageName: node
+  linkType: hard
+
 "@argos-ci/playwright@npm:^1.1.0":
   version: 1.1.0
   resolution: "@argos-ci/playwright@npm:1.1.0"
@@ -248,6 +263,13 @@ __metadata:
   version: 1.0.0
   resolution: "@argos-ci/util@npm:1.0.0"
   checksum: 681f32e46108ba6c472951b722a54f720df211d3b41fb791f8b5b73769c16c9c1059fad287d31b5c64859b6a96754516981f06edcdd5a62fa090630456274c17
+  languageName: node
+  linkType: hard
+
+"@argos-ci/util@npm:1.1.0":
+  version: 1.1.0
+  resolution: "@argos-ci/util@npm:1.1.0"
+  checksum: 171e03f15de58163e1527e901bdd8eaf9e30e2ea8a92970b07e6ca904cca04dd312b0f91f7c6d55887c216b17ccae6460b0e34039a0795e379b7a3dfe82d118f
   languageName: node
   linkType: hard
 
@@ -9654,7 +9676,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "japanfinance-wiki@workspace:."
   dependencies:
-    "@argos-ci/cli": "npm:^1.0.1"
+    "@argos-ci/cli": "npm:^1.0.2"
     "@argos-ci/playwright": "npm:^1.1.0"
     "@docusaurus/core": "npm:3.0.0"
     "@docusaurus/module-type-aliases": "npm:3.0.0"
