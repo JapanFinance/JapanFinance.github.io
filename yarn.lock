@@ -233,14 +233,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@argos-ci/playwright@npm:^1.2.0":
-  version: 1.2.0
-  resolution: "@argos-ci/playwright@npm:1.2.0"
+"@argos-ci/playwright@npm:^1.2.1":
+  version: 1.2.1
+  resolution: "@argos-ci/playwright@npm:1.2.1"
   dependencies:
     "@argos-ci/browser": "npm:1.0.0"
     "@argos-ci/core": "npm:1.2.0"
     "@argos-ci/util": "npm:1.1.0"
-  checksum: b29e1158f9c76b50c6c3fb1d91097741954dbeb05b6c3f33b95b4397748d3ab0b98c45d280522c0f0ed69d0e233a63c7084656d890284089ec9933bf75404354
+  checksum: 0262563e7c75002a29d8cdf664c80cb96aee3038b92d8aeee77630eb3f47ac7389d57791bd3f048729cea210fec8b5ad5ab7ea599a9730aa186ef555e812e40a
   languageName: node
   linkType: hard
 
@@ -9655,7 +9655,7 @@ __metadata:
   resolution: "japanfinance-wiki@workspace:."
   dependencies:
     "@argos-ci/cli": "npm:^1.0.2"
-    "@argos-ci/playwright": "npm:^1.2.0"
+    "@argos-ci/playwright": "npm:^1.2.1"
     "@docusaurus/core": "npm:3.0.0"
     "@docusaurus/module-type-aliases": "npm:3.0.0"
     "@docusaurus/preset-classic": "npm:3.0.0"
