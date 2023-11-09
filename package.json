@@ -36,8 +36,7 @@
   },
   "resolutions": {
     "trim": "^0.0.3",
-    "package-json": "^8.1.1",
-    "joi": "17.11.0"
+    "package-json": "^8.1.1"
   },
   "browserslist": {
     "production": [
