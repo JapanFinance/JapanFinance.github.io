@@ -216,7 +216,7 @@ See income tax section for the possibility to reduce your taxes if you have an o
 
 See the [Gift Tax wiki](/tax/gift) for the special gift tax exemption for house-purchase purpose.
 
-See the [Inheritance Tax wiki](/inheritance) for the special tax exemption for anticipated inheritance.
+See the [Inheritance Tax wiki](/tax/inheritance) for the special tax exemption for anticipated inheritance.
 
 ## **Maintenance and running costs**
 
