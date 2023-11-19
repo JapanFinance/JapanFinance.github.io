@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkjapanfinance_wiki=self.webpackChunkjapanfinance_wiki||[]).push([[9661],{1892:(e,a,n)=>{n.r(a),n.d(a,{default:()=>p});n(7294);var s=n(4334),r=n(1944),c=n(5281),i=n(8790),u=n(179),k=n(5893);function p(e){return(0,k.jsx)(r.FG,{className:(0,s.Z)(c.k.wrapper.docsPages),children:(0,k.jsx)(u.Z,{children:(0,i.H)(e.route.routes)})})}}}]);
