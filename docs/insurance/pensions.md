@@ -22,7 +22,7 @@ Persons who have paid contributions for at least 10 years are eligible to receiv
 
 People who have contributed at least 6 months can request a limited, partial refund when they leave, but give up corresponding pension rights.
 
-## Solvability of the National Pensions 
+## Solvency of the National Pensions 
 
 Despite the planned drastic decline in population, the pensions system has large assets that can cover its payment obligation for the foreseeable future, and regularly publishes reports on its assets.
 
