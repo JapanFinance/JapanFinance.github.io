@@ -71,7 +71,16 @@ Amount donated should be equal to :
 
 Rakuten often also does super sale events; if you prefer to use them for your platform, you can get a significant number of points for your Furusato Nozei purchases, within their limits.
 
+# Recent Updates
+
+### 2023
+
+There is a new **[searchable website version](https://japanfinance.github.io/tax/residence/furusato-nozei/)** of the [Wiki](/tax/residence/furusato-nozei/)!  Please do feel free to use it as an alternative to Reddit's own lackluster UI.
+
+Some municipalities were spending more than 50% of the donation amount on return gift items, and have been [warned by the Ministry of Internal Affairs and Communications](https://www.yomiuri.co.jp/national/20230215-OYT1T50326/) that the total cost of providing these gifts, including shipping, marketing, portal-site fees, etc cannot exceed 50% of the donated amount.  This will lead to lucrative cash-like point-back campaigns yoinked and some gifts being pulled from the market or having their donation costs rise.
+
 # Previous Megathreads:
 
-* 2021 - https://www.reddit.com/r/JapanFinance/comments/r8puxs/2021_furusato_nozei_question_thread/
+* 2023 - https://www.reddit.com/r/JapanFinance/comments/18dk8rx/2023_furusato_nozei_question_thread/
 * 2022 - https://www.reddit.com/r/JapanFinance/comments/zhnf11/2022_furusato_nozei_question_thread/
+* 2021 - https://www.reddit.com/r/JapanFinance/comments/r8puxs/2021_furusato_nozei_question_thread/
