@@ -3880,9 +3880,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@easyops-cn/docusaurus-search-local@npm:^0.38.1":
-  version: 0.38.1
-  resolution: "@easyops-cn/docusaurus-search-local@npm:0.38.1"
+"@easyops-cn/docusaurus-search-local@npm:^0.39.0":
+  version: 0.39.0
+  resolution: "@easyops-cn/docusaurus-search-local@npm:0.39.0"
   dependencies:
     "@docusaurus/plugin-content-docs": "npm:^2 || ^3"
     "@docusaurus/theme-translations": "npm:^2 || ^3"
@@ -3904,7 +3904,7 @@ __metadata:
     "@docusaurus/theme-common": ^2 || ^3
     react: ^16.14.0 || ^17 || ^18
     react-dom: ^16.14.0 || 17 || ^18
-  checksum: 2221b25ee405249da0bd9044d2d589c708cd2e4a44ee590d092e927e51ab767aef476ac3444730d98b09b2fadb0c1c57ddbc079a0d87867173a53a43cf16d43f
+  checksum: d92efefdec9899cba70376a49724c5bc95b794b9bc7fecda5fc500234c47fa700f1d859d4318514d967ce9c604ff78ade3b3095d79c4b9edb4d08e01178d219a
   languageName: node
   linkType: hard
 
@@ -9099,7 +9099,7 @@ __metadata:
     "@docusaurus/module-type-aliases": "npm:3.0.1"
     "@docusaurus/preset-classic": "npm:3.0.1"
     "@docusaurus/tsconfig": "npm:3.0.1"
-    "@easyops-cn/docusaurus-search-local": "npm:^0.38.1"
+    "@easyops-cn/docusaurus-search-local": "npm:^0.39.0"
     "@mdx-js/react": "npm:^3.0.0"
     "@playwright/test": "npm:^1.40.1"
     cheerio: "npm:^1.0.0-rc.12"
