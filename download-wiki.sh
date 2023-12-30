@@ -5,7 +5,7 @@
 
 # Adapted from https://www.reddit.com/r/DataHoarder/comments/ga2p8y/comment/idpu8cs/
 
-USER_AGENT='wikidownload/1.0'
+USER_AGENT='japanfinance/sync/1.0'
 DOWNLOAD_DIR="download"
 DOCS_DIR="docs"
 NONDOCS_DIR="archive"
@@ -26,7 +26,7 @@ while read -r line; do
     # strip file name from end of path when making directories
     mkdir -p "${SOURCE_PAGE_JSON%/*}"
     mkdir -p "${TARGET_PAGE_MD%/*}"
-    HTTP_CODE=$(curl -sfL -o "$SOURCE_PAGE_JSON" -w '%{http_code}' --user-agent "$USER_AGENT" "https://www.reddit.com/r/$SUBREDDIT/wiki/$PAGE.json")
+    HTTP_CODE=$(curl -x socks5://$PROXY_USER:$PROXY_PASSWORD@proxy-nl.privateinternetaccess.com -sfL -o "$SOURCE_PAGE_JSON" -w '%{http_code}' --user-agent "$USER_AGENT" "https://www.reddit.com/r/$SUBREDDIT/wiki/$PAGE.json")
 
     if ! [[ "$HTTP_CODE" =~ ^2 ]]; then
         echo "ERROR: server returned HTTP code $HTTP_CODE, skipping: $PAGE"
