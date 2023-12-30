@@ -14,6 +14,9 @@ jobs:
       new-commit: ${{ steps.push.outputs.commit }}
     permissions:
       contents: write
+    env:
+      PROXY_USER: ${{ secrets.PROXY_USER }}
+      PROXY_PASSWORD: ${{ secrets.PROXY_PASSWORD }}
     steps:
       - uses: actions/checkout@v4
 
