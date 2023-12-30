@@ -80,11 +80,25 @@ Note that we are currently using a traffic light system to indicate the complete
 
 ## Country-Specific Resources
 
-Americas : [US](/countries/US) 🟡, [Canada](/countries/Canada) 🟡
+Americas : 
 
-Europe : [France](/countries/FR) 🟡, [UK](/countries/UK) 🟡
+- [US](/countries/US) 🟡
 
-Asia-Pacific : [Australia](/countries/Australia) 🟡, [NZ](/countries/NZ) 🟡
+- [Canada](/countries/Canada) 🟡
+
+Europe : 
+
+- [France](/countries/FR) 🟡
+
+- [UK](/countries/UK) 🟡
+
+Asia-Pacific : 
+
+- [Australia](/countries/Australia) 🟡
+
+- [NZ](/countries/NZ) 🟡
+
+- [India](/countries/India) 🔴
 
 ## Other Useful Resources
 - [English-friendly professionals](/other/pros)　🔴
