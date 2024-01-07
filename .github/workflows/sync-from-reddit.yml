@@ -31,11 +31,11 @@ jobs:
       - name: Download wiki from Reddit
         run: python ./download-wiki.py
         env:
-          - REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
-          - REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
-          - REDDIT_USER_AGENT: ${{ secrets.REDDIT_USER_AGENT }}
-          - REDDIT_USER_NAME: ${{ secrets.REDDIT_USER_NAME }}
-          - REDDIT_PASSWORD: ${{ secrets.REDDIT_PASSWORD }}
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          REDDIT_USER_AGENT: ${{ secrets.REDDIT_USER_AGENT }}
+          REDDIT_USER_NAME: ${{ secrets.REDDIT_USER_NAME }}
+          REDDIT_PASSWORD: ${{ secrets.REDDIT_PASSWORD }}
 
       - name: Push changes (if any)
         id: push
