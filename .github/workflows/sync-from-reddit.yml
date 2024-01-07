@@ -22,20 +22,8 @@ jobs:
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
-
-      - name: Setup python requirements
-        run: pip install -r requirements.txt
-
       - name: Download wiki from Reddit
-        run: python ./download-wiki.py
-        env:
-          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
-          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
-          REDDIT_USER_AGENT: ${{ secrets.REDDIT_USER_AGENT }}
-          REDDIT_USER_NAME: ${{ secrets.REDDIT_USER_NAME }}
-          REDDIT_PASSWORD: ${{ secrets.REDDIT_PASSWORD }}
+        run: ./download-wiki.sh
 
       - name: Push changes (if any)
         id: push
