@@ -22,8 +22,14 @@ jobs:
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
 
+      - name: Setup Python
+        uses: actions/setup-python@v5
+
+      - name: Setup python requirements
+        run: pip install -r requirements.txt
+
       - name: Download wiki from Reddit
-        run: ./download-wiki.sh
+        run: python ./download-wiki.py
 
       - name: Push changes (if any)
         id: push
