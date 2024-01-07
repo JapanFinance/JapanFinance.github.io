@@ -2,19 +2,6 @@ import praw
 import re
 import os
 
-def GetExitStatus(exit_code):
-  if os.name == 'nt':
-    # On Windows, os.WEXITSTATUS() doesn't work and os.system() returns
-    # the argument to exit() directly.
-    return exit_code
-  else:
-    # On Unix, os.WEXITSTATUS() must be used to extract the exit status
-    # from the result of os.system().
-    if os.WIFEXITED(exit_code):
-      return os.WEXITSTATUS(exit_code)
-    else:
-      return -1
-
 DOCS_DIR="docs"
 NONDOCS_DIR="archive"
 SUBREDDIT="JapanFinance"
@@ -66,7 +53,11 @@ for wikipage in subreddit.wiki:
     f.write(content)
 
     # If the wiki page was changed, commit it.
-    if GetExitStatus( os.system('git status --porcelain') ) != 0:
+    process = os.popen('git status --porcelain')
+    result = process.read()
+    process.close
+
+    if len(result) != 0:
         os.system( 'git add "{}"'.format(target_page_md) )
         os.system( 'git commit -m "Sync from Reddit" -m "{}" -m "Change made by u/{}"'.format(reason, author) )
         os.system( 'git --no-pager diff' )
