@@ -2,6 +2,9 @@ name: Sync from Reddit
 
 on:
   workflow_dispatch:
+  schedule:
+    # run twice per hour at arbitrary minutes, avoiding busy top of hour
+    - cron: 17,47 * * * *
 
 jobs:
   sync-from-reddit:
@@ -12,9 +15,14 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Extract branch name
+        shell: bash
+        run: echo "branch=${GITHUB_HEAD_REF:-${GITHUB_REF#refs/heads/}}" >> $GITHUB_OUTPUT
+        id: extract_branch
+
       - uses: actions/checkout@v4
         with:
-          ref: 'qa'
+          ref: ${{ steps.extract_branch.outputs.branch }}
 
       - name: Configure git user
         run: |
