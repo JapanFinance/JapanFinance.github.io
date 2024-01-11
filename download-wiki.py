@@ -51,6 +51,7 @@ for wikipage in subreddit.wiki:
     # Write content to file
     f = open( target_page_md, "w", encoding='utf-8')
     f.write(content)
+    f.close() # sync!
 
     # If the wiki page was changed, commit it.
     process = os.popen('git status --porcelain')
