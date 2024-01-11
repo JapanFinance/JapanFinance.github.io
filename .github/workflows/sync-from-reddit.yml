@@ -13,7 +13,8 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-        ref: 'qa'
+        with:
+          ref: 'qa'
 
       - name: Configure git user
         run: |
