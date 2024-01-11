@@ -2,9 +2,6 @@ name: Sync from Reddit
 
 on:
   workflow_dispatch:
-  schedule:
-    # run twice per hour at arbitrary minutes, avoiding busy top of hour
-    - cron: 17,47 * * * *
 
 jobs:
   sync-from-reddit:
@@ -16,14 +13,27 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
+        ref: 'qa'
 
       - name: Configure git user
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
 
+      - name: Setup Python
+        uses: actions/setup-python@v5
+
+      - name: Setup python requirements
+        run: pip install -r requirements.txt
+
       - name: Download wiki from Reddit
-        run: ./download-wiki.sh
+        run: python ./download-wiki.py
+        env:
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          REDDIT_USER_AGENT: ${{ secrets.REDDIT_USER_AGENT }}
+          REDDIT_USER_NAME: ${{ secrets.REDDIT_USER_NAME }}
+          REDDIT_PASSWORD: ${{ secrets.REDDIT_PASSWORD }}
 
       - name: Push changes (if any)
         id: push
@@ -32,14 +42,3 @@ jobs:
           if [ "$GITHUB_SHA" != "$(git rev-parse HEAD)" ]; then
             echo "commit=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
           fi
-
-  # Pushes from GitHub Actions do not trigger further actions; manually call deploy
-  deploy:
-    name: Deploy site
-    needs: sync-from-reddit
-    if: "${{ needs.sync-from-reddit.outputs.new-commit != '' }}"
-    permissions:
-      contents: write
-    uses: ./.github/workflows/deploy.yml
-    with:
-      new-commit: ${{ needs.sync-from-reddit.outputs.new-commit }}
