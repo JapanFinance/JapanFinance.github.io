@@ -40,7 +40,7 @@ for wikipage in subreddit.wiki:
 
     # Rewrite wiki links before saving Markdown file
     # FIXME: remove hardcoding of subreddit name here
-    content = re.sub( r'https://www.reddit.com/r/JapanFinance/wiki/index', '', content, 0, re.IGNORECASE)
+    content = re.sub( r'https://www\.reddit\.com/r/JapanFinance/wiki/index', '', content, 0, re.IGNORECASE)
 
     # Clean up entities
     content = re.sub( r'&nbsp;',' ', content, 0, re.IGNORECASE )
