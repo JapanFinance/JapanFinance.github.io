@@ -1,5 +1,6 @@
 # Questions Threads
 
+- [2023 Furusato Nozei Questions Thread](https://www.reddit.com/r/JapanFinance/comments/18dk8rx/2023_furusato_nozei_question_thread/)
 - [2023 Year-End Adjustment Questions Thread](https://www.reddit.com/r/JapanFinance/comments/176ookz/2023_yearend_adjustment_questions_thread/)
 - [2023 Residence Tax Questions Thread](https://www.reddit.com/r/JapanFinance/comments/14gj8nh/2023_residence_tax_questions_thread/)
 - [Invoice System Questions Thread - April 2023](https://www.reddit.com/r/JapanFinance/comments/128iwv8/invoice_system_questions_thread_april_2023/)
