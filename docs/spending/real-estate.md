@@ -49,7 +49,7 @@ Records are normally available [source/details needed] but can also [be purchase
 
 ### Buying Process
 
-### Cost and fees, prices, negotiation
+### Prices
 
 - The MLIT offers a view of market prices via the Land General Information System, an [open database](https://www.land.mlit.go.jp/webland/) in [english](https://www.land.mlit.go.jp/webland_english/servlet/MainServlet) of anonymized, past transactions. However, submission is not mandatory so the data does not fully reflect the market.
 
@@ -64,6 +64,10 @@ Note there are [different types of land valuation](https://japanpropertycentral.
 Japan population is dropping sharply and this is why house prices are going down and will go down in most of the country. However, there are places where population is projected to increase, as people are predicted to continue to move into desirable cities with jobs, amenities and growth prospects.
 
 [MLIT has done a very detailed study on this, and one of the reports shows population projections in 2050 with a 1km x 1km granularity](https://www.mlit.go.jp/common/001046872.pdf). Those areas projected to increase or remain steady in population probably won't see property values fall too much because there's going to be sustained demand (and they're also likely more desirable areas to live in in the first place.)
+
+### Brokerage fee
+
+Real estate agencies charge a brokerage fee (仲介手数料) for facilitating real estate deals. The law stipulates a maximum amount that brokers are allowed to charge for this. For real estate purchase transactions of 4 million JPY or higher, the legal maximum is 3% + 60,000 yen (+ consumption tax). Most brokers make this legal maximum their standard fee, and many people who are willing to search for properties themselves want to find ways to save on this fee. One way is to find a broker that charges less than the legal maximum. [REDS](https://www.reds.co.jp/) is one such broker, and they also offer services [in English](https://www.reds.co.jp/lp/pkn_en/).
 
 ### Individual vs corporate ownership
 
