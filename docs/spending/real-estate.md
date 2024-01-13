@@ -29,9 +29,9 @@ In Japanese :
 
 ### Browsing the market
 
-Offers on the market are available to all real estate professionals through a shared database called REINS, for both renting and selling.
+Properties on the market are available to all real estate professionals through a shared database called REINS, for both renting and selling.
 
-Several companies offer tools to search the database, such as [Homes.co.jp](https://www.homes.co.jp/kodate/tokyo/map/) or [Suumo](https://suumo.jp/jj/bukken/ichiran/JJ010FC003/?ar=060&bs=021), by map, train line/station etc.
+Several companies offer tools to search available properties/rentals, such as [Homes.co.jp](https://www.homes.co.jp/), [Suumo](https://suumo.jp/), and [at home](https://www.athome.co.jp/), by map, train line/station etc.
 
 ### Specific market niches
 
