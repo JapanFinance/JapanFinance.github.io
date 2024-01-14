@@ -67,7 +67,7 @@ Japan population is dropping sharply and this is why house prices are going down
 
 ### Brokerage fee
 
-Real estate agencies charge a brokerage fee (仲介手数料) for facilitating real estate deals. The law stipulates a maximum amount that brokers are allowed to charge for this. For real estate purchase transactions of 4 million JPY or higher, the legal maximum is 3% + 60,000 yen (+ consumption tax). Most brokers make this legal maximum their standard fee, and many people who are willing to search for properties themselves want to find ways to save on this fee. One way is to find a broker that charges less than the legal maximum. [REDS](https://www.reds.co.jp/) is one such broker, and they also offer services [in English](https://www.reds.co.jp/lp/pkn_en/).
+Real estate agencies charge a brokerage fee (仲介手数料) for facilitating real estate deals. The law ([宅地建物取引業法第46条](https://elaws.e-gov.go.jp/document?lawid=327AC1000000176)) stipulates that there is a maximum amount that brokers are allowed to charge for this. For real estate purchase transactions of 4 million JPY or higher, the legal maximum is 3% + 60,000 yen (+ consumption tax). Most brokers make this legal maximum their standard fee, and many people who are willing to search for properties themselves want to find ways to save on this fee. One way is to find a broker that charges less than the legal maximum. [REDS](https://www.reds.co.jp/) is one such broker, and they also offer services [in English](https://www.reds.co.jp/lp/pkn_en/).
 
 ### Individual vs corporate ownership
 
