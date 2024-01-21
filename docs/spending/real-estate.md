@@ -212,9 +212,9 @@ A basic estimate would be about 7-8 times your income from the past year.
 Online simulators from [Shinsei](https://www.shinseibank.com/powerflex/housing/simulation/) and [MUFG](https://homeloan.bk.mufg.jp/sim/shinki). 
 The [AtHome simulator](https://www.athome.co.jp/kariiregaku_simulation/) is capped at 82M. General loan checker [1](https://mogecheck.jp/simulation/borrowing-possibility) or [2](https://0systems.com/score/index.php)can also help get an idea.
 
-### House loan tax deduction
+### Home loan tax credit
 
-See income tax section for the possibility to reduce your taxes if you have an outstanding home loan.
+The home loan tax credit (住宅ローン控除) is a tax credit based on the remaining amount of your home loan each year up to a limit. Some restrictions apply based on things such as size, net income, and energy efficiency of the home. The rules that apply are the ones that were in effect when you started living in the home. The rules for recent years can be found in Japanese at the [MLIT's website](https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk2_000017.html).
 
 ### Getting funds from parents
 
