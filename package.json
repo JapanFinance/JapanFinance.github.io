@@ -16,8 +16,8 @@
     "dev": "docusaurus start"
   },
   "dependencies": {
-    "@docusaurus/core": "3.1.0",
-    "@docusaurus/preset-classic": "3.1.0",
+    "@docusaurus/core": "3.1.1",
+    "@docusaurus/preset-classic": "3.1.1",
     "@easyops-cn/docusaurus-search-local": "^0.40.1",
     "@mdx-js/react": "^3.0.0",
     "clsx": "^2.1.0",
@@ -28,8 +28,8 @@
   "devDependencies": {
     "@argos-ci/cli": "^1.0.8",
     "@argos-ci/playwright": "^1.2.2",
-    "@docusaurus/module-type-aliases": "3.1.0",
-    "@docusaurus/tsconfig": "3.1.0",
+    "@docusaurus/module-type-aliases": "3.1.1",
+    "@docusaurus/tsconfig": "3.1.1",
     "@playwright/test": "^1.40.1",
     "cheerio": "^1.0.0-rc.12",
     "typescript": "^5.3.3"
