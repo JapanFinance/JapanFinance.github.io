@@ -160,6 +160,8 @@ Declaring a [foreign dependent](https://www.nta.go.jp/taxes/shiraberu/taxanswer/
 
 ### Deduction for Medical expenses above 100kJPY/year
 
-Deduction of health related expenses above 100kJPY [NTA english guide PDF, p39-41](https://www.nta.go.jp/english/taxes/individual/pdf/incometax_2022/01.pdf) and [detailed NTA page in Japanese](https://www.nta.go.jp/taxes/shiraberu/shinkoku/tebiki/2022/pdf/008.pdf)
+Deduction of health related expenses above 100kJPY and up to 2000kJPY per filer [NTA english guide PDF, p39-41](https://www.nta.go.jp/english/taxes/individual/pdf/incometax_2022/01.pdf) and [detailed NTA page in Japanese](https://www.nta.go.jp/taxes/shiraberu/shinkoku/tebiki/2022/pdf/008.pdf)
 
-Note that fees for annual health checkups and related options do not count toward the medical expenses deduction. See [this NTA answer](https://www.nta.go.jp/law/shitsugi/shotoku/05/09.htm).
+Note that fees for annual health checkups including "*ningen dock*" and all elective tests do not count toward the medical expenses deduction. *If, however, a medical problem is discovered from these sorts of tests, they then do qualify for the medical expenses deduction.* [this NTA answer](https://www.nta.go.jp/law/shitsugi/shotoku/05/09.htm).
+
+This deduction is per filer and you can pay for the medical expenses of a family member as long as you paid for the expenses.
