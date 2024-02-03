@@ -2,6 +2,9 @@ name: Sync from Reddit
 
 on:
   workflow_dispatch:
+  schedule:
+    # run twice per hour at arbitrary minutes, avoiding busy top of hour
+    - cron: 17,47 * * * *
 
 jobs:
   sync-from-reddit:
@@ -48,3 +51,14 @@ jobs:
           if [ "$GITHUB_SHA" != "$(git rev-parse HEAD)" ]; then
             echo "commit=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
           fi
+
+  # Pushes from GitHub Actions do not trigger further actions; manually call deploy
+  deploy:
+    name: Deploy site
+    needs: sync-from-reddit
+    if: "${{ needs.sync-from-reddit.outputs.new-commit != '' }}"
+    permissions:
+      contents: write
+    uses: ./.github/workflows/deploy.yml
+    with:
+      new-commit: ${{ needs.sync-from-reddit.outputs.new-commit }}

@@ -29,9 +29,9 @@ In Japanese :
 
 ### Browsing the market
 
-Offers on the market are available to all real estate professionals through a shared database called REINS, for both renting and selling.
+Properties on the market are available to all real estate professionals through a shared database called REINS, for both renting and selling.
 
-Several companies offer tools to search the database, such as [Homes.co.jp](https://www.homes.co.jp/kodate/tokyo/map/) or [Suumo](https://suumo.jp/jj/bukken/ichiran/JJ010FC003/?ar=060&bs=021), by map, train line/station etc.
+Several companies offer tools to search available properties/rentals, such as [Homes.co.jp](https://www.homes.co.jp/), [Suumo](https://suumo.jp/), and [at home](https://www.athome.co.jp/), by map, train line/station etc.
 
 ### Specific market niches
 
@@ -49,7 +49,7 @@ Records are normally available [source/details needed] but can also [be purchase
 
 ### Buying Process
 
-### Cost and fees, prices, negotiation
+### Prices
 
 - The MLIT offers a view of market prices via the Land General Information System, an [open database](https://www.land.mlit.go.jp/webland/) in [english](https://www.land.mlit.go.jp/webland_english/servlet/MainServlet) of anonymized, past transactions. However, submission is not mandatory so the data does not fully reflect the market.
 
@@ -64,6 +64,10 @@ Note there are [different types of land valuation](https://japanpropertycentral.
 Japan population is dropping sharply and this is why house prices are going down and will go down in most of the country. However, there are places where population is projected to increase, as people are predicted to continue to move into desirable cities with jobs, amenities and growth prospects.
 
 [MLIT has done a very detailed study on this, and one of the reports shows population projections in 2050 with a 1km x 1km granularity](https://www.mlit.go.jp/common/001046872.pdf). Those areas projected to increase or remain steady in population probably won't see property values fall too much because there's going to be sustained demand (and they're also likely more desirable areas to live in in the first place.)
+
+### Brokerage fee
+
+Real estate agencies charge a brokerage fee (仲介手数料) for facilitating real estate deals. The law ([宅地建物取引業法第46条](https://elaws.e-gov.go.jp/document?lawid=327AC1000000176)) stipulates that there is a maximum amount that brokers are allowed to charge for this. For real estate purchase transactions of 4 million JPY or higher, the legal maximum is 3% + 60,000 yen (+ consumption tax). Most brokers make this legal maximum their standard fee, and many people who are willing to search for properties themselves want to find ways to save on this fee. One way is to find a broker that charges less than the legal maximum. [REDS](https://www.reds.co.jp/) is one such broker, and they also offer services [in English](https://www.reds.co.jp/lp/pkn_en/).
 
 ### Individual vs corporate ownership
 
@@ -208,9 +212,9 @@ A basic estimate would be about 7-8 times your income from the past year.
 Online simulators from [Shinsei](https://www.shinseibank.com/powerflex/housing/simulation/) and [MUFG](https://homeloan.bk.mufg.jp/sim/shinki). 
 The [AtHome simulator](https://www.athome.co.jp/kariiregaku_simulation/) is capped at 82M. General loan checker [1](https://mogecheck.jp/simulation/borrowing-possibility) or [2](https://0systems.com/score/index.php)can also help get an idea.
 
-### House loan tax deduction
+### Home loan tax credit
 
-See income tax section for the possibility to reduce your taxes if you have an outstanding home loan.
+The home loan tax credit (住宅ローン控除) is a tax credit based on the remaining amount of your home loan each year up to a limit. Some restrictions apply based on things such as size, net income, and energy efficiency of the home. The rules that apply are the ones that were in effect when you started living in the home. The rules for recent years can be found in Japanese at the [MLIT's website](https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk2_000017.html).
 
 ### Getting funds from parents
 

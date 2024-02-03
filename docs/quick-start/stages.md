@@ -2,6 +2,10 @@
 
 Quick checklist of things you may want to have on your radar, linking to other parts of the wiki. The stages are purely indicative.
 
+## Before you move
+
+- [Name yourself wisely](/quick-start/stages/names)
+
 ## Fresh off the boat (not especially in scope of this sub)
 
 - getting cash

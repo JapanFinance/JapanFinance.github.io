@@ -26,3 +26,7 @@
 * National Tax Agency 国税庁 (こくぜいちょう)
 * Amount of tax 税額 (ぜいがく)
 * Tax rate 税率 (ぜいりつ)
+
+## Other 等 (ひとし)
+
+* Furusato Nozei ふるさと納税 (ふるさとのうぜい)
