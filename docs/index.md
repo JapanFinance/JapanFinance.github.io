@@ -22,7 +22,7 @@ Note that we are currently using a traffic light system to indicate the complete
 - [Cost of living](/quick-start/cost-of-living)　🟡
 - [Stages of residence](/quick-start/stages)　🔴
 
-<TEST CHANGE>
+TEST CHANGE
 
 ## Handling Money
 - [Cash](/handling/cash) 🔴
