@@ -22,12 +22,7 @@ Note that we are currently using a traffic light system to indicate the complete
 - [Cost of living](/quick-start/cost-of-living)　🟡
 - [Stages of residence](/quick-start/stages)　🔴
 
-## Earning Money
-- [Employment](/earning/employment)　🟡
-- [Running a business](/earning/business)　🟡
-- [Side income](/earning/side) 🟡
-- [Other income streams](/earning/other)　🔴
-- [Government benefits](/earning/welfare)　🔴
+<TEST CHANGE>
 
 ## Handling Money
 - [Cash](/handling/cash) 🔴
