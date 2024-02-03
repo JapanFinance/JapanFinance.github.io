@@ -12,3 +12,13 @@ The "useful life" figures that are used to calculate amortization/depreciation p
 ## Tax optimization
 
 [About optimizing Tax](https://www.reddit.com/r/JapanFinance/comments/n5brp9/small_business_owner_tax_strategies/)
+
+## Accounting
+
+When running a business, some people choose to hire an accountant. If your business is very complex or you have no interest in the accounting side of the business, this is one viable option. However, it is quite expensive, both on a monthly basis and especially around tax filing season. 
+
+One alternative is to do your accounting, payroll and tax filing by yourself using cloud based accounting software such as [Freee](https://www.freee.co.jp). This is a much cheaper alternative for both sole proprietors (個人事業主) and corporations (株式会社 or 合同会社). It’s also a good way to be more involved in the financial side of your business. However, it necessitates some knowledge of basic accounting.
+
+Such services are aimed at the Japanese market, and therefore are all in Japanese. It can take a little while to get used to all of the accounting terminology, but once you get used it then many types of expenses and income fall under the same categories.
+
+One company which offers consulting and coaching for how to use such software is [Marigold KK](https://www.marigold-japan.com/information). They have a native English speaker who is familiar with how to use the software and can guide you through the functions. Note that this is not a tax accounting service and so can’t provide tax advice, but can support you in using software to do your own accounting and file your taxes by yourself.
