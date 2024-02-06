@@ -23,6 +23,13 @@ jobs:
       new-commit: ${{ steps.push.outputs.commit }}
     permissions:
       contents: write
+    strategy:
+      matrix:
+        branch: [ 'main', 'qa' ]
+        deploy: [ 'yes', 'no' ]
+        exclude:
+          - branch: 'qa'
+          - deploy: 'yes'
     steps:
       - uses: actions/checkout@v4
         with:
