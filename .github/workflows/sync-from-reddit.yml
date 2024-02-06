@@ -54,10 +54,12 @@ jobs:
           fi
 
   # Pushes from GitHub Actions do not trigger further actions; manually call deploy
+  # we will need to do this to get the matrix to work:  https://github.com/orgs/community/discussions/26284
+  # :(
   deploy:
     name: Deploy site
     needs: sync-from-reddit
-    if: "${{ ( needs.sync-from-reddit.outputs.new-commit != '' ) && ( matrix.deploy != 'no' ) }}"
+    if: "${{ ( needs.sync-from-reddit.outputs.new-commit != '' ) && ( needs.sync-from-reddit.matrix.deploy != 'no' ) }}"
     permissions:
       contents: write
     uses: ./.github/workflows/deploy.yml
