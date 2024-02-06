@@ -14,13 +14,19 @@ Inheritance tax can generate significant concern at first, especially when looki
 
 Japan has a pretty wide inheritance taxation and one might be concerned when first hearing they might be subject to tax both in Japan and abroad. However in practice, only a small portion of estate actually end up paying large inheritance tax due to the deductions and progressive rates. It's worth noting that [only around 9% of all estates are subject to inheritance tax](https://www.reddit.com/r/JapanFinance/comments/116zspt/comment/j99gdsu/?utm_source=share&utm_medium=web2x&context=3) and only around 0.07% of estates are large enough to be subject to an effective tax rate (tax as a proportion of the estate) of more than 25%.
 
-Japan taxation do not apply by default to the total estate, it focuses only on assets in Japan or gifted to people that are relevant from Japan tax perspective, and ignore the rest of the assets. This is described in the first step of Calculation section below. 
+Japan taxation does not apply by default to the total estate, it focuses only on assets in Japan or gifted to people that are relevant from Japan tax perspective, and ignore the rest of the assets. This is described in the first step of Calculation section below. 
 
-People who owe inheritance tax must file an [inheritance tax return](https://www.nta.go.jp/publication/pamph/sozoku/shikata-sozoku2022/index.htm) within 10 months of the relevant death. No declaration is needed if no tax is due.
 
-In case there are debt, or assets than you do not want to manage (such as remote land that you won't find buyer for, but need to pay tax on), you [can refuse the whole inheritance, but must do so quickly](https://www.reddit.com/r/JapanFinance/comments/z5bi5w/can_mils_debt_fall_to_us/).
+(Ref 1 - https://www.nta.go.jp/publication/pamph/sozoku/shikata-sozoku2022/index.htm) 
 
-Asset ownership changes [at the time of death](https://www.reddit.com/r/JapanFinance/comments/zng4ff/comment/j0jalpv/?utm_source=share&utm_medium=web2x&context=3), even if the inheritance is only accepted latter. The acquisition value is therefore the one at time of death.
+| Question | Answer |
+| ------ | ----------- |
+| Who must file? |  People who owe inheritance tax (Ref 1). | 
+| When do they have to file? | within 10 months of the relevant death (Ref 1). |
+| Must inheritance taxes be filed if no tax is due? | No (Ref 1). |
+| When do assets change hands for Japanese tax purposes? | Regardless of inheritance systems elsewhere, immediately [at the time of death](https://www.reddit.com/r/JapanFinance/comments/zng4ff/comment/j0jalpv/?utm_source=share&utm_medium=web2x&context=3), even if the inheritance is only accepted latter.  |
+| Can someone reject an inheritance? |  In case there are debt, or assets than you do not want to manage (such as remote land that you won't find buyer for, but need to pay tax on), you [can refuse the whole inheritance, but must do so quickly](https://www.reddit.com/r/JapanFinance/comments/z5bi5w/can_mils_debt_fall_to_us/). |
+
 
 Surviving spouses have [large tax credit](https://www.reddit.com/r/JapanFinance/comments/102tp6r/comment/j2vc5p1/?utm_source=share&utm_medium=web2x&context=3). Basically you find out how much inheritance tax the spouse is theoretically supposed to pay, and then you reduce that bill to the extent that it corresponds to an inheritance valued at less than 160 million yen (or 50% of the estate, whichever is larger).
 
@@ -53,6 +59,16 @@ Once you know the total value of the estate for Japanese inheritance-tax purpose
 3/ Then the crucial final step is to add all the tax liabilities together (770万円 in our example) and distribute them proportionally according to the *actual* distribution of the assets that are subject to Japanese inheritance tax.
 
 In the 1億円 example, the total Japanese inheritance-tax liability is 770万円. If the Japan-resident sibling inherits all assets included in the "total value of the estate", the Japan-resident sibling would be assigned the entire Japanese tax liability, thus they would owe 770万円 on their 1億円 inheritance.  The non-Japanese resident sibling, regardless of what they received, would not be taxed.
+
+Above but as a table:
+
+| Step | Calculation | Outcome | 
+| ------ | ------------ | ----- |
+| 1. Determine Total Value of Japan-Visible Estate | 10,000万円 from someone not in Japan to 1 recipient in Japan a = 10,000万円  | 10,000万円 |
+| 2. Apply Basic Deduction to Japan-Visible Estate |(1億円 - 3,000万円 - 2⨉600万円)/2 | 2,900万円 expected share/heir | 
+| 3. Calculate owed tax per expected heir | 100万円 + （(2600万 - 1000万)*15%)  | 385万円 |  
+| 4. Calculate full estate tax | 2 expected heirs * 385万円 | 770万円 |
+| 5. Distribute based on received part  | 770万円 * 100% | 770万円　|
 
 Special note: if the actual recipient is not a statutory heir (e.g. is a friend of the deceased, a spouse of a statutory heir, etc.), the final tax burden for that person is increased by 20%.  In our example above, if instead of "Japanese-resident child bequeathed 1億円" it was "Japanese-resident child and their spouse each bequeathed 5,000万円", the tax liability calculated in steps 1 and 2 above would not change, as the spouse is not a statutory heir and therefor not included in those calculations.  However, in step 3, the 770万円 liability would be applied proportionally to the child and their spouse (385万円 each), but the spouse, not being a statutory heir, gets a 20% surcharge, meaning that their final tax is 385万円*1.2 = 462万円. 
 
