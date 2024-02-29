@@ -204,17 +204,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@argos-ci/cli@npm:^1.0.9":
-  version: 1.0.9
-  resolution: "@argos-ci/cli@npm:1.0.9"
+"@argos-ci/cli@npm:^1.0.11":
+  version: 1.0.11
+  resolution: "@argos-ci/cli@npm:1.0.11"
   dependencies:
-    "@argos-ci/core": "npm:1.5.2"
+    "@argos-ci/core": "npm:1.5.4"
     commander: "npm:^11.0.0"
     ora: "npm:^7.0.1"
     update-notifier: "npm:^6.0.2"
   bin:
     argos: bin/argos-cli.js
-  checksum: 0b0d514ba266dcf2d14819ea85ed7b267bd346bc2d3caae605ba4fc0cbf56383eda9c7ff2e171921670b138676e3d3ffccb3eb636b86fdc47d524cff471abd06
+  checksum: fd47ea3a26e0e8387213b33a5f9f2f11215640390a060166ed5765d6af861fb109644d122f2ca66bc6a97d62f2877a49c5c8bb1fd880bc5fe9efcc9feec21803
   languageName: node
   linkType: hard
 
@@ -230,6 +230,21 @@ __metadata:
     sharp: "npm:^0.32.5"
     tmp: "npm:^0.2.1"
   checksum: 6097060ee7e4c81661f76edad4e7029b5450d73b38e5fcd97dc4fb7db1f75993d1b291b6025cf1cad3610d3ac69453eec368fa6642b700368f2286bf1b06c716
+  languageName: node
+  linkType: hard
+
+"@argos-ci/core@npm:1.5.4":
+  version: 1.5.4
+  resolution: "@argos-ci/core@npm:1.5.4"
+  dependencies:
+    "@argos-ci/util": "npm:1.2.1"
+    axios: "npm:^1.5.0"
+    convict: "npm:^6.2.4"
+    debug: "npm:^4.3.4"
+    fast-glob: "npm:^3.3.1"
+    sharp: "npm:^0.32.5"
+    tmp: "npm:^0.2.1"
+  checksum: 5625a5f852022d78537ffff7d98063e7b9558b29f36e630bdd66e595df526631ae68008c7839a57366e2374fd73f6fe08419cebd40082c06c6eef59be9400bcd
   languageName: node
   linkType: hard
 
@@ -249,6 +264,13 @@ __metadata:
   version: 1.2.0
   resolution: "@argos-ci/util@npm:1.2.0"
   checksum: d9485db23408eb0b2c31c2c91251d01d76b3d15534ed2fde6683ceaaa9498c455d107668addf003a720c15253b7d6d90a8761562812858f3105a040c0f875d42
+  languageName: node
+  linkType: hard
+
+"@argos-ci/util@npm:1.2.1":
+  version: 1.2.1
+  resolution: "@argos-ci/util@npm:1.2.1"
+  checksum: 31285d6e44dde327d62d0d8acff8de1b404b857dff6e9f4b5932159682f9d370a226c370ee0cc6385f363f22a21663aa171c22b3b02f7fa981770076cbce066e
   languageName: node
   linkType: hard
 
@@ -9089,7 +9111,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "japanfinance-wiki@workspace:."
   dependencies:
-    "@argos-ci/cli": "npm:^1.0.9"
+    "@argos-ci/cli": "npm:^1.0.11"
     "@argos-ci/playwright": "npm:^1.9.0"
     "@docusaurus/core": "npm:3.1.1"
     "@docusaurus/module-type-aliases": "npm:3.1.1"
