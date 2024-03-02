@@ -4067,18 +4067,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@mdx-js/react@npm:^3.0.1":
-  version: 3.0.1
-  resolution: "@mdx-js/react@npm:3.0.1"
-  dependencies:
-    "@types/mdx": "npm:^2.0.0"
-  peerDependencies:
-    "@types/react": ">=16"
-    react: ">=16"
-  checksum: d210d926ef488d39ad65f04d821936b668eadcdde3b6421e94ec4200ca7ad17f17d24c5cbc543882586af9f08b10e2eea715c728ce6277487945e05c5199f532
-  languageName: node
-  linkType: hard
-
 "@node-rs/jieba-android-arm-eabi@npm:1.7.2":
   version: 1.7.2
   resolution: "@node-rs/jieba-android-arm-eabi@npm:1.7.2"
@@ -9096,7 +9084,7 @@ __metadata:
     "@docusaurus/preset-classic": "npm:3.1.1"
     "@docusaurus/tsconfig": "npm:3.1.1"
     "@easyops-cn/docusaurus-search-local": "npm:^0.40.1"
-    "@mdx-js/react": "npm:^3.0.1"
+    "@mdx-js/react": "npm:^3.0.0"
     "@playwright/test": "npm:^1.42.0"
     cheerio: "npm:^1.0.0-rc.12"
     clsx: "npm:^2.1.0"
