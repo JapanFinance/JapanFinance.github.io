@@ -4,7 +4,7 @@ Quick checklist of things you may want to have on your radar, linking to other p
 
 ## Before you move
 
-- [Name yourself wisely](/quick-start/stages/names)
+- [Name yourself wisely](/quick-start/stages/name)
 
 ## Fresh off the boat (not especially in scope of this sub)
 
