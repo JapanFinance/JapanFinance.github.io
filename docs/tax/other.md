@@ -22,7 +22,7 @@ Stamp duty is assessed on physical sales contracts and receipts. The amount of t
 
 ## NHK
 
-NHK has an explanation of their fee system on their website in English [here](https://www.nhk.or.jp/corporateinfo/english/receivingfee/index.html).
+NHK has an explanation of their fee system on their website in English [here](https://www.nhk.or.jp/corporateinfo/viewer/receivingfee/).
 
 [This article](https://www.loc.gov/law/foreign-news/article/japan-supreme-court-rules-obligatory-contracts-with-public-broadcasting-corporation-for-reception-equipment-are-constitutional/) provides a nice summary of the most-recent Supreme Court case regarding the Broadcasting Law.
 
