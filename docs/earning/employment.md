@@ -27,6 +27,10 @@ Salaries per job category :
 
 [OpenSalary](https://opensalary.jp/en/) for Software Engineering jobs
 
+## The "five-year rule" for conversion to indefinite-term employment
+
+- [Does the rule apply to employees of universities?](https://www.reddit.com/r/JapanFinance/comments/1breele/comment/kx8ug81/)
+
 ## Visa
 
 Some Visa [restrict you to an employer in Japan](https://www.reddit.com/r/JapanFinance/comments/n9nr2m/income_from_overseas/) or to [do business outside Japan](https://www.reddit.com/r/JapanFinance/comments/nbwbr2/permission_to_sell_apps_on_engineer_visa/).
