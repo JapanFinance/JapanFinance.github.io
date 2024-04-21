@@ -14,10 +14,10 @@
 
 ## Interest rate
 
-The standard interest rate for regular bank accounts (普通預金) in Japan is 0.001%, but some banks offer higher interest rates. See the following banks for details:
+The standard interest rate for regular bank accounts (普通預金) in Japan is 0.02%, but some banks offer higher interest rates. See the following banks for details:
 
 * [Aozora Bank 0.2%](https://www.aozorabank.co.jp/bank/kinri/index.html)
-* [auじぶん銀行 0.2%](https://www.jibunbank.co.jp/interest_and_commission/interest/) (must use other AU services to get the higher rate)
+* [auじぶん銀行 up to 0.33%](https://www.jibunbank.co.jp/interest_and_commission/interest/) (must use other AU services to get the higher rate)
 * [Rakuten Bank 0.1%](https://www.rakuten-bank.co.jp/interest/details.html#anchor-02) (on the first 3,000,000 yen; 0.04% beyond that)
 
 
