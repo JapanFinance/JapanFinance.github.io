@@ -66,7 +66,7 @@ Above but as a table:
 | ------ | ------------ | ----- |
 | 1. Determine Total Value of Japan-Visible Estate | 10,000万円 from someone not in Japan to 1 recipient in Japan a = 10,000万円  | 10,000万円 |
 | 2. Apply Basic Deduction to Japan-Visible Estate |(1億円 - 3,000万円 - 2⨉600万円)/2 | 2,900万円 expected share/heir | 
-| 3. Calculate owed tax per expected heir | 100万円 + （(2600万 - 1000万)*15%)  | 385万円 |  
+| 3. Calculate owed tax per expected heir | 100万円 + （(2900万 - 1000万)*15%)  | 385万円 |  
 | 4. Calculate full estate tax | 2 expected heirs * 385万円 | 770万円 |
 | 5. Distribute based on received part  | 770万円 * 100% | 770万円　|
 
@@ -76,10 +76,10 @@ Special note: if the actual recipient is not a statutory heir (e.g. is a friend 
 
 As described above, an entire estate is not taxed as a lump sum, but rather, tax is calculated on what each statutory heir would in theory receive from that part of the estate subject to Japanese inheritance tax (minus standard deduction), and those taxes are then summed.
 
-As of April 2023, the per-statutory heir tax is as follows:
+As of April 2023, the per-statutory heir tax is as follows (https://www.nta.go.jp/taxes/shiraberu/taxanswer/sozoku/4155.htm):
 
-| Amount | Tax |
-| --- | ----------- |
+| Amount | Tax - Deduction (to make it progressive) | 
+| --- | ----------- | ---- |
 | less than 1,000万円 | 10% |
 | less than 3,000万円 | 15% - 50万円 |
 | less than 5,000万円 | 20% - 200万円 |
@@ -89,6 +89,10 @@ As of April 2023, the per-statutory heir tax is as follows:
 | less than 6億円 | 50% - 4,200万円 |
 | 6億円 or greater | 55% - 7,200万円 |
 
+
+The 50万円 deduction for > 1000万円 but less than 3000万円 makes it so that the first 1000万円 is only taxed at 10% (15% * 1000万円= 150万円 vs 10% * 1000万円 = 100万円, providing a difference of 50万円). So you can just multiply the full value times 15% and then subtract 50万円 to adjust the bottom part's rate.  
+
+(Again but for the next spot, 3000万円 * 20% = 600万円, but 3000万円 * 15% = 450万円, so there's a difference of 150万円 ... plus the difference between taxing the first 1000万円 at 15% vs 10% = 200万円)
 
 ### Discussions on proper calculations :
 
