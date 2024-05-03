@@ -79,7 +79,7 @@ As described above, an entire estate is not taxed as a lump sum, but rather, tax
 As of April 2023, the per-statutory heir tax is as follows (https://www.nta.go.jp/taxes/shiraberu/taxanswer/sozoku/4155.htm):
 
 | Amount | Tax - Deduction (to make it progressive) | 
-| --- | ----------- | ---- |
+| --- | ----------- |
 | less than 1,000万円 | 10% |
 | less than 3,000万円 | 15% - 50万円 |
 | less than 5,000万円 | 20% - 200万円 |
