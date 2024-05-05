@@ -51,8 +51,10 @@
     ]
   },
   "engines": {
-    "node": ">=18.0"
+    "node": ">=18.0",
+    "npm": "use yarn instead",
+    "yarn": "4.2.1"
   },
   "description": "Website for r/JapanFinance wiki",
-  "packageManager": "yarn@4.0.2"
+  "packageManager": "yarn@4.2.1"
 }
