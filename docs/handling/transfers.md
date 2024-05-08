@@ -40,7 +40,7 @@ Once again, the Schwab transfer method does **not** work to directly transfer to
 
 There can be no perfectly accurate comparison of the cost of the various options for sending money overseas, because there are too many variables and unknowns. But it is possible to roughly calculate which options are generally cheap, which options are generally expensive, and which options are somewhere in-between.
 
-To this end, I (u/starkimpossibility) have prepared the following tables, using the websites of the listed institutions to combine their published currency exchange commission (where a commission is variable or unpublished it has been estimated) with their published flat fees for an international wire transfer (again, estimated where necessary). 
+To this end, we have prepared the following tables, using the websites of the listed institutions to combine their published currency exchange commission (where a commission is variable or unpublished it has been estimated) with their published flat fees for an international wire transfer (again, estimated where necessary). 
 
 Note that it would be overly simplistic to use these tables to say that one institution or service is definitively cheaper than another, especially where one or both have variable fees or commissions. But the tables should give people an idea of roughly what sending money overseas should cost, and which services are likely to end up cheaper than others.
 
