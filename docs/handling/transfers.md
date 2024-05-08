@@ -1,5 +1,47 @@
 # Transfers
 
+## Thread archive
+
+Click on the country to see a list of past threads on the topic of remittances to/from the relevant country.
+
+- [Australia](https://www.reddit.com/r/japanfinance/search/?q=selftext%3A%28%22transfer%22OR%22send%22OR%22remit%22%29AND%22Australia%22)
+- [Austria](https://www.reddit.com/r/japanfinance/search/?q=selftext%3A%28%22transfer%22OR%22send%22OR%22remit%22%29AND%22Austria%22)
+- [Belgium](https://www.reddit.com/r/japanfinance/search/?q=selftext%3A%28%22transfer%22OR%22send%22OR%22remit%22%29AND%22Belgium%22)
+- [Canada](https://www.reddit.com/r/japanfinance/search/?q=selftext%3A%28%22transfer%22OR%22send%22OR%22remit%22%29AND%22Canada%22)
+- [Chile](https://www.reddit.com/r/japanfinance/search/?q=selftext%3A%28%22transfer%22OR%22send%22OR%22remit%22%29AND%22Chile%22)
+- [Colombia](https://www.reddit.com/r/japanfinance/search/?q=selftext%3A%28%22transfer%22OR%22send%22OR%22remit%22%29AND%22Colombia%22)
+- [Czech Republic](https://www.reddit.com/r/japanfinance/search/?q=selftext%3A%28%22transfer%22OR%22send%22OR%22remit%22%29AND%22Czech%20Republic%22)
+- [Denmark](https://www.reddit.com/r/japanfinance/search/?q=selftext%3A%28%22transfer%22OR%22send%22OR%22remit%22%29AND%22Denmark%22)
+- [Estonia](https://www.reddit.com/r/japanfinance/search/?q=selftext%3A%28%22transfer%22OR%22send%22OR%22remit%22%29AND%22Estonia%22)
+- [Finland](https://www.reddit.com/r/japanfinance/search/?q=selftext%3A%28%22transfer%22OR%22send%22OR%22remit%22%29AND%22Finland%22)
+- [France](https://www.reddit.com/r/japanfinance/search/?q=selftext%3A%28%22transfer%22OR%22send%22OR%22remit%22%29AND%22France%22)
+- [Germany](https://www.reddit.com/r/japanfinance/search/?q=selftext%3A%28%22transfer%22OR%22send%22OR%22remit%22%29AND%22Germany%22)
+- [Greece](https://www.reddit.com/r/japanfinance/search/?q=selftext%3A%28%22transfer%22OR%22send%22OR%22remit%22%29AND%22Greece%22)
+- [Hungary](https://www.reddit.com/r/japanfinance/search/?q=selftext%3A%28%22transfer%22OR%22send%22OR%22remit%22%29AND%22Hungary%22)
+- [Iceland](https://www.reddit.com/r/japanfinance/search/?q=selftext%3A%28%22transfer%22OR%22send%22OR%22remit%22%29AND%22Iceland%22)
+- [Ireland](https://www.reddit.com/r/japanfinance/search/?q=selftext%3A%28%22transfer%22OR%22send%22OR%22remit%22%29AND%22Ireland%22)
+- [Israel](https://www.reddit.com/r/japanfinance/search/?q=selftext%3A%28%22transfer%22OR%22send%22OR%22remit%22%29AND%22Israel%22)
+- [Italy](https://www.reddit.com/r/japanfinance/search/?q=selftext%3A%28%22transfer%22OR%22send%22OR%22remit%22%29AND%22Italy%22)
+- [South Korea](https://www.reddit.com/r/japanfinance/search/?q=selftext%3A%28%22transfer%22OR%22send%22OR%22remit%22%29AND%22South%20Korea%22)
+- [Latvia](https://www.reddit.com/r/japanfinance/search/?q=selftext%3A%28%22transfer%22OR%22send%22OR%22remit%22%29AND%22Latvia%22)
+- [Lithuania](https://www.reddit.com/r/japanfinance/search/?q=selftext%3A%28%22transfer%22OR%22send%22OR%22remit%22%29AND%22Lithuania%22)
+- [Luxembourg](https://www.reddit.com/r/japanfinance/search/?q=selftext%3A%28%22transfer%22OR%22send%22OR%22remit%22%29AND%22Luxembourg%22)
+- [Mexico](https://www.reddit.com/r/japanfinance/search/?q=selftext%3A%28%22transfer%22OR%22send%22OR%22remit%22%29AND%22Mexico%22)
+- [Netherlands](https://www.reddit.com/r/japanfinance/search/?q=selftext%3A%28%22transfer%22OR%22send%22OR%22remit%22%29AND%22Netherlands%22)
+- [New Zealand](https://www.reddit.com/r/japanfinance/search/?q=selftext%3A%28%22transfer%22OR%22send%22OR%22remit%22%29AND%22New%20Zealand%22)
+- [Norway](https://www.reddit.com/r/japanfinance/search/?q=selftext%3A%28%22transfer%22OR%22send%22OR%22remit%22%29AND%22Norway%22)
+- [Philippines](https://www.reddit.com/r/japanfinance/search/?q=selftext%3A%28%22transfer%22OR%22send%22OR%22remit%22%29AND%22Philippines%22)
+- [Poland](https://www.reddit.com/r/japanfinance/search/?q=selftext%3A%28%22transfer%22OR%22send%22OR%22remit%22%29AND%22Poland%22)
+- [Portugal](https://www.reddit.com/r/japanfinance/search/?q=selftext%3A%28%22transfer%22OR%22send%22OR%22remit%22%29AND%22Portugal%22)
+- [Slovakia](https://www.reddit.com/r/japanfinance/search/?q=selftext%3A%28%22transfer%22OR%22send%22OR%22remit%22%29AND%22Slovakia%22)
+- [Slovenia](https://www.reddit.com/r/japanfinance/search/?q=selftext%3A%28%22transfer%22OR%22send%22OR%22remit%22%29AND%22Slovenia%22)
+- [Spain](https://www.reddit.com/r/japanfinance/search/?q=selftext%3A%28%22transfer%22OR%22send%22OR%22remit%22%29AND%22Spain%22)
+- [Sweden](https://www.reddit.com/r/japanfinance/search/?q=selftext%3A%28%22transfer%22OR%22send%22OR%22remit%22%29AND%22Sweden%22)
+- [Switzerland](https://www.reddit.com/r/japanfinance/search/?q=selftext%3A%28%22transfer%22OR%22send%22OR%22remit%22%29AND%22Switzerland%22)
+- [Turkey](https://www.reddit.com/r/japanfinance/search/?q=selftext%3A%28%22transfer%22OR%22send%22OR%22remit%22%29AND%22Turkey%22)
+- [United Kingdom](https://www.reddit.com/r/japanfinance/search/?q=selftext%3A%28%22transfer%22OR%22send%22OR%22remit%22%29AND%22United%20Kingdom%22)
+- [United States](https://www.reddit.com/r/japanfinance/search/?q=selftext%3A%28%22transfer%22OR%22send%22OR%22remit%22%29AND%28%22US%22OR%22America%22OR%22USA%22%29)
+
 ## Sending money overseas
 
 ### Types of services
