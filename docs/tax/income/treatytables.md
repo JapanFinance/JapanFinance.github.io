@@ -27,7 +27,7 @@ Applying the [US-Japan tax treaty (PDF)](https://www.mof.go.jp/tax_policy/summar
 ### Non-US citizen
 
 |**Income**|**Who can tax it?**|**Who must provide FTC?**|**Treaty Article**|
-:--|:--|:--|:--|:--|
+:--|:--|:--|:--|
 |Employment|Japan|-|14(1)|
 |Capital gains (US shares)|Japan|-|13(7)|
 |Capital gains (US real estate)|Both|Japan|13(1)|
@@ -44,7 +44,7 @@ Applying the [US-Japan tax treaty (PDF)](https://www.mof.go.jp/tax_policy/summar
 ### US citizen
 
 |**Income**|**Who can tax it?**|**Who must provide FTC?**|**Treaty Article**|
-:--|:--|:--|:--|:--|
+:--|:--|:--|:--|
 |Employment|Both|US (FEIE also possible)|14(1)|
 |Capital gains (US shares)|Both|US|13(7)|
 |Capital gains (US real estate)|Both|Japan|13(1)|
@@ -63,7 +63,7 @@ Applying the [US-Japan tax treaty (PDF)](https://www.mof.go.jp/tax_policy/summar
 The current UK-Japan tax treaty is available as a PDF [here](https://www.mof.go.jp/tax_policy/summary/international/press_release/SynthesizedTextforJapan-UKEN.pdf).
 
 |**Income**|**Who can tax it?**|**Who must provide FTC?**|**Treaty Article**|
-:--|:--|:--|:--|:--|
+:--|:--|:--|:--|
 |Employment|Japan|-|14(1)|
 |Capital gains (UK shares)|Japan|-|13(6)|
 |Capital gains (UK real estate)|Both|Japan|13(1)|
@@ -81,7 +81,7 @@ The current UK-Japan tax treaty is available as a PDF [here](https://www.mof.go.
 The current Canada-Japan tax treaty is available as a PDF [here](https://www.mof.go.jp/tax_policy/summary/international/tax_convention/191018canada_e.pdf). Note that the Canada-Japan treaty is quite outdated compared to many of Japan's other treaties, and does not comply to current OECD standards. It also lacks any clauses dealing with pensions or annuities. 
 
 |**Income**|**Who can tax it?**|**Who must provide FTC?**|**Treaty Article**|
-:--|:--|:--|:--|:--|
+:--|:--|:--|:--|
 |Employment|Japan|-|15(1)|
 |Capital gains (CA shares)|Both|Japan|13(4)|
 |Capital gains (CA real estate)|Both|Japan|13(1)|
@@ -99,7 +99,7 @@ The current Canada-Japan tax treaty is available as a PDF [here](https://www.mof
 The current Australia-Japan tax treaty is available as a PDF [here](https://www.mof.go.jp/tax_policy/summary/international/press_release/SynthesizedTextforJapan-AUEN.pdf).
 
 |**Income**|**Who can tax it?**|**Who must provide FTC?**|**Treaty Article**|
-:--|:--|:--|:--|:--|
+:--|:--|:--|:--|
 |Employment|Japan|-|14(1)|
 |Capital gains (AU shares)|Japan|-|13(6)|
 |Capital gains (AU real estate)|Both|Japan|13(1)|
@@ -117,7 +117,7 @@ The current Australia-Japan tax treaty is available as a PDF [here](https://www.
 The current New Zealand-Japan tax treaty is available as a PDF [here](https://www.mof.go.jp/tax_policy/summary/international/press_release/SynthesizedTextforJapan-NZEN.pdf).
 
 |**Income**|**Who can tax it?**|**Who must provide FTC?**|**Treaty Article**|
-:--|:--|:--|:--|:--|
+:--|:--|:--|:--|
 |Employment|Japan|-|14(1)|
 |Capital gains (NZ shares)|Japan|-|13(6)|
 |Capital gains (NZ real estate)|Both|Japan|13(1)|
