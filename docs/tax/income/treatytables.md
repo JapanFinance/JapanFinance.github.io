@@ -130,6 +130,24 @@ The current New Zealand-Japan tax treaty is available as a PDF [here](https://ww
 |Pension (NZ Super)|Japan|-|17(1)|
 |Pension (NZ Government)|NZ[^gpfn]|-|18(2)|
 
+## Taiwan
+
+Due to the fact that Japan does not officially recognize Taiwan (Republic of China) and there are no formal diplomatic relations between these two nations, there is no tax treaty between them. Instead, there is a "tax agreement" signed by two goverment-related associations which is essentially a tax treaty in practice.
+The current Taiwan-Japan tax agreement is available as a PDF [here](https://www.koryu.or.jp/Portals/0/images/news/20160615/sozei-E.pdf).
+
+|**Income**|**Who can tax it?**|**Who must provide FTC?**|**Treaty Article**|
+:--|:--|:--|:--|
+|Employment|Japan|-|15(1)|
+|Capital gains (TW shares)|Japan|-|13(5)|
+|Capital gains (TW real estate)|Both|Japan|13(1)|
+|Dividends (TW company)|Both|Japan up to 10%, then TW|10(1)|
+|Interest (TW bank)|Both|Japan up to 10%, then TW|11(1)|
+|Royalties (TW payer)|Both|Japan up to 10%, then TW|12(1)|
+|Director's fees (TW company)|Both|Japan|16|
+|Annuities (TW payer)|-|-|-|
+|Pension (Japanese)|Both|-|18|
+|Pension (TW Government)|Both|-|18|
+
 [^gpfn]: Japan has sole taxation rights if the recipient is a Japanese citizen.
 
 [^usgpfn]: The US has sole taxation rights with respect to US government pensions (excluding social security) unless the recipient holds Japanese citizenship. Thus, people who hold both US and Japanese citizenship will be subject to tax in both countries and must claim a FTC in the US.
