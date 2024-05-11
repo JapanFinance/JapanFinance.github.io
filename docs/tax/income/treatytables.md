@@ -145,8 +145,10 @@ The current Taiwan-Japan tax agreement is available as a PDF [here](https://www.
 |Royalties (TW payer)|Both|Japan up to 10%, then TW|12(1)|
 |Director's fees (TW company)|Both|Japan|16|
 |Annuities (TW payer)|-|-|-|
-|Pension (Japanese)|Both|-|18|
-|Pension (TW Government)|Both|-|18|
+|Pension (Japanese)|Japan|-|18|
+|Pension (TW Public Service Pension)|Taiwan[^gpfn]|-|19(2)|
+|Pension (TW Labor Pension)|Both|-|18|
+|Pension (TW National Pension)|Both|-|18|
 
 [^gpfn]: Japan has sole taxation rights if the recipient is a Japanese citizen.
 
