@@ -147,8 +147,8 @@ The current Taiwan-Japan tax agreement is available as a PDF [here](https://www.
 |Annuities (TW payer)|-|-|-|
 |Pension (Japanese)|Japan|-|18|
 |Pension (TW Public Service Pension)|Taiwan[^gpfn]|-|19(2)|
-|Pension (TW Labor Pension)|Both|-|18|
-|Pension (TW National Pension)|Both|-|18|
+|Pension (TW Labor Pension)|Both|Japan|18|
+|Pension (TW National Pension)|Both|Japan|18|
 
 [^gpfn]: Japan has sole taxation rights if the recipient is a Japanese citizen.
 
