@@ -68,9 +68,11 @@ Above but as a table:
 | 2. Apply Basic Deduction to Japan-Visible Estate |(1億円 - 3,000万円 - 2⨉600万円)/2 | 2,900万円 expected share/heir | 
 | 3. Calculate owed tax per expected heir | 100万円 + （(2900万 - 1000万)*15%)  | 385万円 |  
 | 4. Calculate full estate tax | 2 expected heirs * 385万円 | 770万円 |
-| 5. Distribute based on received part  | 770万円 * 100% | 770万円　|
+| 5. Distribute based on received part  | 770万円 * 100% | 770万円 |
 
 Special note: if the actual recipient is not a statutory heir (e.g. is a friend of the deceased, a spouse of a statutory heir, etc.), the final tax burden for that person is increased by 20%.  In our example above, if instead of "Japanese-resident child bequeathed 1億円" it was "Japanese-resident child and their spouse each bequeathed 5,000万円", the tax liability calculated in steps 1 and 2 above would not change, as the spouse is not a statutory heir and therefor not included in those calculations.  However, in step 3, the 770万円 liability would be applied proportionally to the child and their spouse (385万円 each), but the spouse, not being a statutory heir, gets a 20% surcharge, meaning that their final tax is 385万円*1.2 = 462万円. 
+
+These same steps can be quickly applied to different scenarios using [this online inheritance tax calculator](https://w00kie.github.io/jpn-inheritance-tax/) which was built by a Redditor following this guide. Note that this calculator only works in a similar case to the above scenario, i.e. an heir living in Japan while the deceased, their estate and all other heirs are non-Japanese resident.
 
 ### Inheritance Tax Rates.
 
