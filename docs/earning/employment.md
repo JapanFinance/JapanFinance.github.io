@@ -59,4 +59,4 @@ Please refer to the [Income Tax page](/tax/income) for details. Based on number 
 
 Commuting allowance is normally considered tax free.
 
-Insurance coverage while going to work : https://www.reddit.com/r/japanlife/comments/mg9orv/work_commuting_rules_law/gssz5n0/
+Insurance coverage while going to work: https://www.reddit.com/r/japanlife/comments/mg9orv/work_commuting_rules_law/gssz5n0/
