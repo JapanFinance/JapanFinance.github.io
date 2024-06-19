@@ -14,6 +14,13 @@ Of the major banks, only Prestia will still do it (see https://yatsuyaku.com/cle
 
 * SMBC Prestia - https://faq.smbctb.co.jp/faq/show/177?site_domain=smbctbjp ​
 
+Starting in 2025, they will only support:
+
+* US Dollar	USD
+* Hong Kong Dollar	HKD
+* Canadian Dollar	CAD
+* Thai Baht	THB
+
 Mizuho bank will cash their own checks where they are the payee:
 
 * https://www.faq.mizuhobank.co.jp/faq/show/7383
