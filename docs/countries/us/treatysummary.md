@@ -15,7 +15,7 @@ Disclaimer: the following information is intended as a summary. The treaty conta
 |**Income**|**Where taxable?**|**Who will provide FTC?**|**Eligible for RBT?**|**Treaty Article**|
 :--|:--|:--|:--|:--|
 |Employment|Both|US (FEIE also possible)|No|14|
-|Capital gains (shares, etc.)|Both|US|No[^1]|13|
+|Capital gains (shares, etc.)|Both|US|No^*|13|
 |Dividends (including CG distributions)|Both|Japan up to 10%, then US|Yes|10|
 |Capital gains (real estate)|Both|Japan|Yes|13|
 |Interest on US bank deposits|Both|US|Yes|11|
@@ -24,11 +24,11 @@ Disclaimer: the following information is intended as a summary. The treaty conta
 |US Social Security Benefits|Both|US|Yes|17|
 |Annuities (US payer)|Both|US|Yes|17|
 |Japanese Pension|Both|US|No|17|
-|US Government Pension|US[^2]|n/a|n/a|18|
-|US Retirement Scheme (IRA, 401(k), etc.)|Both|US|Yes|17[^3]|
+|US Government Pension|US^†|n/a|n/a|18|
+|US Retirement Scheme (IRA, 401(k), etc.)|Both|US|Yes|17^‡|
 
-[^1]: Capital gains derived from the sale of shares are not typically "foreign-source" under Japan's conventional definition, unless the shares are in a real-estate holding company. However, capital gains derived from the sale of shares are allowed to be treated *as if they were foreign-source* for RBT purposes if the sale is executed by an overseas brokerage and the shares were purchased before the seller moved to Japan.
+^* Capital gains derived from the sale of shares are not typically "foreign-source" under Japan's conventional definition, unless the shares are in a real-estate holding company. However, capital gains derived from the sale of shares are allowed to be treated *as if they were foreign-source* for RBT purposes if the sale is executed by an overseas brokerage and the shares were purchased before the seller moved to Japan.
 
-[^2]: The US has sole taxation rights with respect to US government pensions (excluding social security) unless the recipient holds Japanese citizenship. Thus, people who hold both US and Japanese citizenship will be subject to tax in both countries and must claim a FTC in the US.
+^† The US has sole taxation rights with respect to US government pensions (excluding social security) unless the recipient holds Japanese citizenship. Thus, people who hold both US and Japanese citizenship will be subject to tax in both countries and must claim a FTC in the US.
 
-[^3]: The Japanese tax treatment of US tax-advantaged retirement schemes is somewhat unresolved, as discussed [here](https://www.reddit.com/r/JapanFinance/comments/zlaiqx/us_ira_reporting_obligations_in_japan/) and [here](https://www.reddit.com/r/JapanFinance/comments/m4vpfx/most_definitive_answer_on_401kira_treatment_as/). But at this stage Article 17 seems the most likely to apply.
+^‡ The Japanese tax treatment of US tax-advantaged retirement schemes is somewhat unresolved, as discussed [here](https://www.reddit.com/r/JapanFinance/comments/zlaiqx/us_ira_reporting_obligations_in_japan/) and [here](https://www.reddit.com/r/JapanFinance/comments/m4vpfx/most_definitive_answer_on_401kira_treatment_as/). But at this stage Article 17 seems the most likely to apply.
