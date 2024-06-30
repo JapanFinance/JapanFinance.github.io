@@ -44,12 +44,12 @@ Gold card (AmEx option NOT available):
 Premium card: 
 
 * 11000 yen annual fee
-* earns 1 Rakuten point per 100 yen, year-round +2 point multiplier on Rakuten Ichiba as well as +1 multiplier on birthday month
-* Includes unlimited access to credit card airport lounges in Japan and free Priority Pass membership (access to airport lounges while abroad)
+* earns 1 Rakuten point per 100 yen, year-round +2 point multiplier on Rakuten Ichiba (caps at 5000 points) as well as +1 multiplier on birthday month
+* Includes unlimited access to credit card airport lounges in Japan and free Priority Pass membership (access to airport lounges while abroad, currently unlimited, will be limited to 5 visits a year in 2025)
 * Included travel insurance covers individually purchased travel as well as package holidays both within and outside Japan **if** flights and hotel (for international travel) are paid for **before** departing Japan (up to 3 million yen per injury or illness incurred while abroad, 30 million yen in liability insurance if you injure someone else, 500k yen if your personal items are damaged or stolen while traveling abroad)
 * Includes purchase protection against damage or theft for 90 days after purchase (up to 3 million yen a year, 3000 yen deductible per claim, excludes portable electronics and RC toys among some other things)
 
-They also have an ANA co-branded card, but it's not recommended except in certain circumstances (the ANA card can directly earn ANA miles at a rate of 1 per 200 yen, but Rakuten points are transferable to ANA miles at a 2:1 ratio which means all Rakuten cards earn at the same rate, *except* there's a transfer limit of 20k points per month so if you expect to earn and convert more than 20k Rakuten points per month to ANA, the Rakuten/ANA card can be recommended instead) There's also a "Rakuten Bank Card" available if you have a Rakuten Bank account, which combines the cash card with a JCB credit card, however this is less flexible than having a separate Rakuten Bank debit card and credit card (on their own, you have a choice of card networks, as a combined card your only choice of card network is JCB), so it's not recommended.
+They also have an ANA co-branded card, and since the Rakuten to ANA point transfer system has been "under maintenance" for the last two months with no sign of ending, it's the only way to earn ANA miles on a Rakuten card for now (if you can't get approved for a standard ANA card, for instance). There's also a "Rakuten Bank Card" available if you have a Rakuten Bank account, which combines the cash card with a JCB credit card, however this is less flexible than having a separate Rakuten Bank debit card and credit card (on their own, you have a choice of card networks, as a combined card your only choice of card network is JCB), so it's not recommended.
 
 ### iD/QuiCPay
 
