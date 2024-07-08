@@ -233,16 +233,31 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@argos-ci/playwright@npm:^3.3.0":
-  version: 3.3.0
-  resolution: "@argos-ci/playwright@npm:3.3.0"
+"@argos-ci/core@npm:2.4.0":
+  version: 2.4.0
+  resolution: "@argos-ci/core@npm:2.4.0"
+  dependencies:
+    "@argos-ci/util": "npm:2.1.0"
+    axios: "npm:^1.6.8"
+    convict: "npm:^6.2.4"
+    debug: "npm:^4.3.4"
+    fast-glob: "npm:^3.3.2"
+    sharp: "npm:^0.33.3"
+    tmp: "npm:^0.2.3"
+  checksum: 10c0/631a821819f4d7f8e294f1028467eb87a641adda70bf7c061605ca69b1f36c5f6049fc570136dbffb09dd236982e81e6f2e9b784a89c0cacd369de88a267890b
+  languageName: node
+  linkType: hard
+
+"@argos-ci/playwright@npm:^3.4.0":
+  version: 3.4.0
+  resolution: "@argos-ci/playwright@npm:3.4.0"
   dependencies:
     "@argos-ci/browser": "npm:2.1.2"
-    "@argos-ci/core": "npm:2.3.0"
-    "@argos-ci/util": "npm:2.0.0"
+    "@argos-ci/core": "npm:2.4.0"
+    "@argos-ci/util": "npm:2.1.0"
     chalk: "npm:^5.3.0"
     debug: "npm:^4.3.4"
-  checksum: 10c0/c8c45b405fba3710bf3d27d0d21d8d5ffa2904e988ef0ba9f6e38d158ddaee25eb1654ee76d9d4f0f01c6eacce6b4e642e0c85aad1436498ed52bef95a25df57
+  checksum: 10c0/058c9b4dd9aae0bc5f13bb0c0d730f154119f43852c979b486a9f26abc890f624bebe7d0a25715c7a7ac057200d6e2d1c8db97696e488e2733c76b7340b9eef8
   languageName: node
   linkType: hard
 
@@ -250,6 +265,13 @@ __metadata:
   version: 2.0.0
   resolution: "@argos-ci/util@npm:2.0.0"
   checksum: 10c0/59d45826675199848d3dfab6dd8fca351061e93eb75ec4499cb82301ecc59020cc02277f65cc4d3d42b96496b8455f9963fcfd7a75cfe77116d804810c61a397
+  languageName: node
+  linkType: hard
+
+"@argos-ci/util@npm:2.1.0":
+  version: 2.1.0
+  resolution: "@argos-ci/util@npm:2.1.0"
+  checksum: 10c0/9df32687a3ebc110516851ea4f12251ca2b556bafdd62b1edcb4936631ffe84bdc4678185f1e1afe4772969eec8a7668017bc3462e9bd1ed7309f7cccb281bf6
   languageName: node
   linkType: hard
 
@@ -9182,7 +9204,7 @@ __metadata:
   resolution: "japanfinance-wiki@workspace:."
   dependencies:
     "@argos-ci/cli": "npm:^2.2.0"
-    "@argos-ci/playwright": "npm:^3.3.0"
+    "@argos-ci/playwright": "npm:^3.4.0"
     "@docusaurus/core": "npm:3.2.1"
     "@docusaurus/module-type-aliases": "npm:3.2.1"
     "@docusaurus/preset-classic": "npm:3.2.1"
