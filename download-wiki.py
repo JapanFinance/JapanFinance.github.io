@@ -5,6 +5,8 @@ import os
 DOCS_DIR="docs"
 NONDOCS_DIR="archive"
 SUBREDDIT="JapanFinance"
+# extra page not made under /index
+SKIP_PAGE_NAMES = [ "countries/us/treatysummary" ]
 
 CLIENT_ID       = os.getenv( "REDDIT_CLIENT_ID" )
 CLIENT_SECRET   = os.getenv( "REDDIT_CLIENT_SECRET" )
@@ -25,6 +27,9 @@ for wikipage in subreddit.wiki:
     name = wikipage.name
     author = 'unknown' if wikipage.revision_by is None else wikipage.revision_by.name
     reason = wikipage.reason
+
+    if name in SKIP_PAGE_NAMES:
+        continue
 
     # strip index/ from beginning of page path
     target_page_md = "./{}/{}.md".format(DOCS_DIR, name.replace('index/','', 1))
