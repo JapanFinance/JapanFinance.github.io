@@ -4,9 +4,9 @@
 
 ## Moving out
 
-While it is usual to be presented with a large bill when moving out, it is wise to take the time to check your prefecture rules before singing - it is not mandatory to sign on the spot even if pressured to do so.
+While it is usual to be presented with a large bill when moving out, it is wise to take the time to check your prefecture rules before signing - it is not mandatory to sign on the spot even if pressured to do so.
 
-There are rules regarding how much your landlord can actually charge you when moving out. However those rules may differ slightly by location, and some offer an english translation such as [Tokyo Metropolitan Government's "Guidelines for Preventing Tenant-Landlord Disputes" (PDF)](https://www.juutakuseisaku.metro.tokyo.lg.jp/juutaku_seisaku/tintai/pdf/310-6-jyuutaku_eng.pdf). 
+There are rules regarding how much your landlord can actually charge you when moving out. However those rules may differ slightly by location, and some offer an English translation such as [Tokyo Metropolitan Government's "Guidelines for Preventing Tenant-Landlord Disputes" (PDF)](https://www.juutakuseisaku.metro.tokyo.lg.jp/juutaku_seisaku/tintai/pdf/310-6-jyuutaku_eng.pdf). 
 
 Below is the list of available links :
 
