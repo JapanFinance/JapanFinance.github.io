@@ -3,6 +3,7 @@
 ## Alias/通称名
 ### Allowed
 * Rakuten Bank
+   * At least for JRE Bank, a justification/rationale for using your 通称名 is required
 * PayPay Bank (paper application)
 * SMBC Bank (have to visit counter)
 * Aeon Bank (no online application, have to visit counter or apply by post)
