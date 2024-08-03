@@ -218,21 +218,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@argos-ci/core@npm:2.3.0":
-  version: 2.3.0
-  resolution: "@argos-ci/core@npm:2.3.0"
-  dependencies:
-    "@argos-ci/util": "npm:2.0.0"
-    axios: "npm:^1.6.8"
-    convict: "npm:^6.2.4"
-    debug: "npm:^4.3.4"
-    fast-glob: "npm:^3.3.2"
-    sharp: "npm:^0.33.3"
-    tmp: "npm:^0.2.3"
-  checksum: 10c0/f7903b76ffa55cc88a331055a1a9f0d4f66dfcac245267d45829bbf50cecba7b4d6de6b8ba1ef3290c61d94da484f791281e89f683a4f4abd4ed61396fca9562
-  languageName: node
-  linkType: hard
-
 "@argos-ci/core@npm:2.4.1":
   version: 2.4.1
   resolution: "@argos-ci/core@npm:2.4.1"
@@ -248,23 +233,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@argos-ci/playwright@npm:^3.3.0":
-  version: 3.3.0
-  resolution: "@argos-ci/playwright@npm:3.3.0"
+"@argos-ci/playwright@npm:^3.4.1":
+  version: 3.4.1
+  resolution: "@argos-ci/playwright@npm:3.4.1"
   dependencies:
     "@argos-ci/browser": "npm:2.1.2"
-    "@argos-ci/core": "npm:2.3.0"
-    "@argos-ci/util": "npm:2.0.0"
+    "@argos-ci/core": "npm:2.4.1"
+    "@argos-ci/util": "npm:2.1.0"
     chalk: "npm:^5.3.0"
     debug: "npm:^4.3.4"
-  checksum: 10c0/c8c45b405fba3710bf3d27d0d21d8d5ffa2904e988ef0ba9f6e38d158ddaee25eb1654ee76d9d4f0f01c6eacce6b4e642e0c85aad1436498ed52bef95a25df57
-  languageName: node
-  linkType: hard
-
-"@argos-ci/util@npm:2.0.0":
-  version: 2.0.0
-  resolution: "@argos-ci/util@npm:2.0.0"
-  checksum: 10c0/59d45826675199848d3dfab6dd8fca351061e93eb75ec4499cb82301ecc59020cc02277f65cc4d3d42b96496b8455f9963fcfd7a75cfe77116d804810c61a397
+  checksum: 10c0/e214d4b33838b5d98ccb95628195c639a4dd05622426c979c63e94e36851ce14cc45c487915af3238d18357fda85eeeba2e08f866b35b21058891c9835d63383
   languageName: node
   linkType: hard
 
@@ -10833,7 +10811,7 @@ __metadata:
   resolution: "japanfinance-wiki@workspace:."
   dependencies:
     "@argos-ci/cli": "npm:^2.3.1"
-    "@argos-ci/playwright": "npm:^3.3.0"
+    "@argos-ci/playwright": "npm:^3.4.1"
     "@docusaurus/core": "npm:3.4.0"
     "@docusaurus/module-type-aliases": "npm:3.4.0"
     "@docusaurus/preset-classic": "npm:3.4.0"
