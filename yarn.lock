@@ -5025,9 +5025,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@easyops-cn/docusaurus-search-local@npm:^0.44.4":
-  version: 0.44.4
-  resolution: "@easyops-cn/docusaurus-search-local@npm:0.44.4"
+"@easyops-cn/docusaurus-search-local@npm:^0.44.5":
+  version: 0.44.5
+  resolution: "@easyops-cn/docusaurus-search-local@npm:0.44.5"
   dependencies:
     "@docusaurus/plugin-content-docs": "npm:^2 || ^3"
     "@docusaurus/theme-translations": "npm:^2 || ^3"
@@ -5036,7 +5036,7 @@ __metadata:
     "@docusaurus/utils-validation": "npm:^2 || ^3"
     "@easyops-cn/autocomplete.js": "npm:^0.38.1"
     "@node-rs/jieba": "npm:^1.6.0"
-    cheerio: "npm:^1.0.0-rc.3"
+    cheerio: "npm:^1.0.0"
     clsx: "npm:^1.1.1"
     debug: "npm:^4.2.0"
     fs-extra: "npm:^10.0.0"
@@ -5049,7 +5049,7 @@ __metadata:
     "@docusaurus/theme-common": ^2 || ^3
     react: ^16.14.0 || ^17 || ^18
     react-dom: ^16.14.0 || 17 || ^18
-  checksum: 10c0/199848f7d3c53ffc188ce4d481be6c66688268870fb28d34243a6ac903b248eaeafb7bb787a20de8fec95fe4b0c9968906d987e54242bbfa28cc5f4ca262ae2f
+  checksum: 10c0/b9bcfcee0f62153e6a745327f30e2662a958821f6aff54639e590fceb4af88542f409410080dffc7645d0129b0865b60fd7038b851a97bb956d8d2cc9082a820
   languageName: node
   linkType: hard
 
@@ -7609,7 +7609,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"cheerio@npm:1.0.0-rc.12, cheerio@npm:^1.0.0-rc.3":
+"cheerio@npm:1.0.0-rc.12":
   version: 1.0.0-rc.12
   resolution: "cheerio@npm:1.0.0-rc.12"
   dependencies:
@@ -10858,7 +10858,7 @@ __metadata:
     "@docusaurus/module-type-aliases": "npm:3.5.1"
     "@docusaurus/preset-classic": "npm:3.5.1"
     "@docusaurus/tsconfig": "npm:3.5.1"
-    "@easyops-cn/docusaurus-search-local": "npm:^0.44.4"
+    "@easyops-cn/docusaurus-search-local": "npm:^0.44.5"
     "@mdx-js/react": "npm:^3.0.0"
     "@playwright/test": "npm:^1.46.0"
     cheerio: "npm:^1.0.0"
