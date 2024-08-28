@@ -30,6 +30,5 @@ jobs:
       - name: Take screenshots with Playwright
         run: yarn playwright test
 
-      # We reached the limit on our free plan.
-      # - name: Upload screenshots to Argos
-      #   run: yarn argos upload ./screenshots
+      - name: Upload screenshots to Argos
+        run: yarn argos upload ./screenshots
