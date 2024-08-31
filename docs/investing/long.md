@@ -2,9 +2,11 @@
 
 ## Strategy
 
-[Bogleheads](https://www.bogleheads.org/wiki/Bogleheads%C2%AE_investment_philosophy_for_non-US_investors) is a popular recommendation for approaching a long term investment strategy.
+[Bogleheads](https://www.bogleheads.org/wiki/Bogleheads%C2%AE_investment_philosophy_for_non-US_investors) is a popular recommendation for approaching 
+a long term investment strategy.
 
-Several studies shows that lump-sum ("LS" ie investing all funds as soon as funds are available) is a significantly better way to invest money on the world equities markets than voluntary spreading the amount over a period of time ("DCA" aka dollar cost averaging). 
+Several studies shows that lump-sum ("LS" ie investing all funds as soon as funds are available) is a significantly better way to invest money on the world equities 
+markets than voluntary spreading the amount over a period of time ("DCA" aka dollar cost averaging). 
 
 - [2020 'of Dollars and Data article'](https://ofdollarsanddata.com/dollar-cost-averaging-vs-lump-sum/).
 
@@ -14,17 +16,20 @@ Several studies shows that lump-sum ("LS" ie investing all funds as soon as fund
 
 [2022-04 Do I need a Financial Advisor ?](https://www.reddit.com/r/JapanFinance/comments/uc02r6/financial_advisor_recommendations/)
 
-## Long-term/low-risk investing
+## Long-term/risk-adjusted investing
 
 ### Tax advantaged Accounts : iDeCo
 
 [iDeco](https://www.ideco-koushiki.jp/english/) is a very popular, heavily tax-advantaged investment account.
 
-Disadvantages includes funds locked until 60 years old, and the fund choices are usually relatively few.
+Disadvantages includes funds locked until 60 years old, and the fund choices are restricted per provider. As of time of writing, the popular eMaxis Slim All Country fund is available
+on Monex iDeCo. Various other iDeCo providers have their own globally diversified mutual funds.
 
 Contributions are tax free, and gains are also tax free for several years. Contributions maximum varies between 0.1 and 0.8 MJPY per year depending on eligibility.
 
-Note that some company DC or DB pension plan interfere with eligibility for iDeco. Your ability to use the iDeco will depend on the implementation done by your employer, and opening an iDeco normally requires asking your employer HR to fill paperwork.
+Note that some company DC or DB pension plan interfere with eligibility for iDeCo. Your ability to use the iDeCo will depend on the implementation done by your employer, 
+and opening an iDeCo normally requires asking your employer HR to fill paperwork. Depending on your DC plan, it might also not be beneficial to change from a corporate 
+DC to an iDeCo. 
 
 iDeco [will be changed from 2022](https://www.aon.com/getmedia/bdedf2c7-4338-4dee-bec4-48cfcd303ffc/20200828.aspx), extending age and contributions.
 
@@ -32,25 +37,40 @@ See [this post](https://www.reddit.com/r/JapanFinance/comments/16d3n78/death_and
 
 ### Tax advantaged  Accounts : NISA
 
-NISA is a popular tax advantaged investment account. 
+[NISA](https://www.jsda.or.jp/en/activities/research-studies/html/2024nisa.html) ([see also, old NISA](https://www.jsda.or.jp/en/activities/research-studies/html/NISA.html)) is 
+a popular tax advantaged investment account. It is modeled after the UK's ISA accounts. 
 
-It allows a fixed amount of purchase per year, and those assets gains will then be tax free for several years. Unlike iDeco, contributions are not tax free. As of 2023, an adult can have one NISA account (either regular or tsumitate) while minors can use the Junior NISA.
+It allows a fixed amount of purchase per year, and those assets gains will then be tax free until sale. As of 2024, an adult can have one NISA account. Previously a choice had 
+to be made between a "regular" (aka General) NISA and a "tsumitate" NISA. These options have have both been merged intoa single "new" (aka "shin NISA", "atarashii NISA") 
+NISA. As of 2024, the Junior NISA (for children under 18 years old) has also been suspended. 
 
-It is popular with those who want to invest more than the iDeco allows, or do not want the 60 years old constrain of the iDeco.
+NISA is popular with those who want to invest more than the iDeCo allows, or do not want the 60 years old age lock-in of the iDeCo.
 
-Disadvantages include the losses not being able to offset gains made in other accounts, and losses may be reset at some point - with future gains being taxed.
+A NISA has three contribution limits. 
+- An annual limit on the regular portion of the NISA
+- An annual limit on the tsumitate portion of the NISA
+- A lifetime limit for total contributions in a NISA
 
-### NISA : Regular NISA
+Every year, an investor can contribute upto JPY 2,400,000 in the regular portion of their NISA, as well as upto JPY 1,200,000 in the tsumitate portion of their NISA. The annual limit
+is reset every calendar year. However, the NISA also has a lifetime contribution limit of JPY 12,000,000 for the regular and 6,000,000 for the tsumitate portion.
+
+A NISA can also be switched between different financial institutions. 
+
+
+See the [NISA FAQ Thread](https://www.reddit.com/r/JapanFinance/comments/181kb33/new_nisa_questions_thread/) for details on the NISA.
+
+
+### Old NISA : Regular NISA
 
 As of 2023 the ordinary NISA allows 1.2 MJPY of purchase per year, for 5 years. It will run until the end of 2023.
 
 From 2024  a [new NISA](https://www.fsa.go.jp/policy/nisa2/about/nisa2024/index.html) is planned to run with a purchase allowance of 1.2 MJPY in a Tsumitate bucket and 2.4 MJPY in a growth bucket for a combined total of a 3.6 MJPY maximum limit per year. The contribution would have a lifetime limit of 18 MJPY.
 
-### NISA : Tsumitate NISA
+### Old NISA : Tsumitate NISA
 
 As of 2021 the tsumitate NISA allows 0.4 MJPY of purchase per year, for 20 years. It will end in 2042, final year 2061.
 
-### NISA : Junior NISA
+### Old NISA : Junior NISA
 
 As of 2021 the Junior NISA allows 0.8 MJPY of purchase per year, for children under 20. Is is planned to end in 2023. Funds held in the Junior NISA will remain tax free until the child turns 18.
 
@@ -90,7 +110,7 @@ Rakuten also offers a [credit card](https://www.rakuten-sec.co.jp/web/rfund/guid
 
 ### Providers : Monex
 
-[Monex](https://www.monex.co.jp)　- link to [FAQ](https://info.monex.co.jp/support/index.html).
+[Monex](https://www.monex.co.jp) - link to [FAQ](https://info.monex.co.jp/support/index.html).
 
 Monex also offers a [credit card](https://info.monex.co.jp/service/monex-card/index.html), which as of 2023 provides users with 1.1% of points on up to ¥50,000 of monthly mutual fund purchases.
 
