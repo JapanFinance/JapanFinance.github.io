@@ -1,6 +1,7 @@
 name: Build pull-request
 
 on:
+  merge_group:
   pull_request:
     branches:
       - main
