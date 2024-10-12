@@ -32,7 +32,7 @@
     "@docusaurus/tsconfig": "3.5.2",
     "@playwright/test": "^1.47.2",
     "cheerio": "^1.0.0",
-    "typescript": "^5.6.2"
+    "typescript": "^5.6.3"
   },
   "resolutions": {
     "trim": "^0.0.3",
