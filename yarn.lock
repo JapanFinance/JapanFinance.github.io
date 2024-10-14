@@ -207,10 +207,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@argos-ci/browser@npm:2.1.4":
-  version: 2.1.4
-  resolution: "@argos-ci/browser@npm:2.1.4"
-  checksum: 10c0/98b039db6403acfdbaf9ab714ec32c1b22073f86ec6e5113d00c5f8afd3d31807bc0aaeab7ca546d556bf3095dd04d7666a53307a96221e12eed106502c41e5e
+"@argos-ci/browser@npm:2.1.5":
+  version: 2.1.5
+  resolution: "@argos-ci/browser@npm:2.1.5"
+  checksum: 10c0/338ecb68042afc7c065dd5869c4f04dc3517e0d381676cf1f8d44f32a8936c32efec8e03cf8646884ee04a54bb0e19a89b35bb709fbe388922c16fdfd2d973c4
   languageName: node
   linkType: hard
 
@@ -244,16 +244,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@argos-ci/playwright@npm:^3.7.0":
-  version: 3.7.0
-  resolution: "@argos-ci/playwright@npm:3.7.0"
+"@argos-ci/playwright@npm:^3.7.1":
+  version: 3.7.1
+  resolution: "@argos-ci/playwright@npm:3.7.1"
   dependencies:
-    "@argos-ci/browser": "npm:2.1.4"
+    "@argos-ci/browser": "npm:2.1.5"
     "@argos-ci/core": "npm:2.9.0"
     "@argos-ci/util": "npm:2.1.1"
     chalk: "npm:^5.3.0"
     debug: "npm:^4.3.6"
-  checksum: 10c0/536aabe41325635e16a73d377cf9f13ce8ebe541b111e81a1a63cc10c43a6a0f979cefc10b302e07c7fff618bd14f4b3245e2381fa2aa6c710b6bce8b0b4d7cc
+  checksum: 10c0/54a6a23cbd665998d6806243b0eafe96af45e50c808b8053f4f59efa7ba29d24841a08ccb4bc91de39601cabdd1c86e3695585e5d5430e0cfaae4297810ca917
   languageName: node
   linkType: hard
 
@@ -11033,7 +11033,7 @@ __metadata:
   resolution: "japanfinance-wiki@workspace:."
   dependencies:
     "@argos-ci/cli": "npm:^2.4.5"
-    "@argos-ci/playwright": "npm:^3.7.0"
+    "@argos-ci/playwright": "npm:^3.7.1"
     "@docusaurus/core": "npm:3.5.2"
     "@docusaurus/module-type-aliases": "npm:3.5.2"
     "@docusaurus/preset-classic": "npm:3.5.2"
