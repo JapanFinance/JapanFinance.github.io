@@ -34,10 +34,7 @@ See also the [Tax-treaty treatment of US 401(k) and IRAs](/countries/us/401ks-an
 
 ## US tax professionals
 
-The following businesses/professionals appear to be specifically focused on helping Japanese residents with their US tax issues:
-
-- [Kenneth Guilfoyle, CPA LLC](https://globaltaxsolutionsforamericans.com/)
-    - Added by u/starkimpossibility in February 2021 after u/kenguilfoylecpa posted in the sub promoting their services. The linked business has not been vetted and this is not a recommendation.
+The IRS provides [a search tool](https://irs.treasury.gov/rpo/rpo.jsf) for finding US tax professionals in specific areas. You can use this to search for US tax professionals in Japan.
 
 ## Opening a US Brokerage Account
 Most Japanese brokerages will not allow US taxpayers to trade US securities due to the presence of a [Qualified Intermediary (QI) agreement](https://www.pwc.nl/en/services/tax/us-withholding-and-reporting/what-is-the-qualified-intermediary-regime.html) between the brokerage and the IRS that stipulates they must treat all of their customers as if they are NOT US taxpayers, for the purposes of withholding US taxes correctly. See, for example, [Rakuten](https://www.rakuten-sec.co.jp/web/domestic/stock/rule/us_citizenship_caution.html) and [SBI's](https://search.sbisec.co.jp/v2/popwin/info/home/pop6040_kokuseki_02.html) statement on the matter.
