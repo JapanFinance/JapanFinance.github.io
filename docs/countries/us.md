@@ -10,7 +10,7 @@ If you are a US taxpayer, you should be aware of the [IRS concept of PFICs](http
 
 An individual company may also meet the definition of a PFIC, so care needs to be taken when investing in Japanese companies.
 
-Accounts tax-favored in Japan such as NISA and iDeCo do not shield US taxpayers from PFIC filing requirements or taxation imposed by the US. Therefore, US taxpayers can generally only park cash in iDeCo or buy individual (non-PFIC) Japanese company stock in a regular NISA account to get any tax benefit while avoiding PFICs.
+Accounts tax-favored in Japan such as NISA and iDeCo do not shield US taxpayers from PFIC filing requirements or taxation imposed by the US. Therefore, US taxpayers can generally only park cash in iDeCo or buy individual (non-PFIC) Japanese company stock in a regular NISA account to get any tax benefit while avoiding PFICs. For NISA, this is because most financial institutions that offer NISA restrict US taxpayers trading to Japanese securities, preventing you from investing in US-domiciled ETFs, which are not PFICs. This is due to the QI agreement mentioned in the following section titled "Opening a US Brokerage Account". A notable exception to this was reported in [this post](https://www.reddit.com/r/JapanFinance/comments/1eappjf/us_citizen_nomura_nisa_account_purchased_spdr/) talking about purchasing an S&P 500 ETF in NISA at Nomura Securities as a US citizen.
 
 ## US-Japan tax treaty
 
