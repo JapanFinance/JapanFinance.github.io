@@ -5070,9 +5070,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@easyops-cn/docusaurus-search-local@npm:^0.45.0":
-  version: 0.45.0
-  resolution: "@easyops-cn/docusaurus-search-local@npm:0.45.0"
+"@easyops-cn/docusaurus-search-local@npm:^0.46.1":
+  version: 0.46.1
+  resolution: "@easyops-cn/docusaurus-search-local@npm:0.46.1"
   dependencies:
     "@docusaurus/plugin-content-docs": "npm:^2 || ^3"
     "@docusaurus/theme-translations": "npm:^2 || ^3"
@@ -5083,6 +5083,7 @@ __metadata:
     "@node-rs/jieba": "npm:^1.6.0"
     cheerio: "npm:^1.0.0"
     clsx: "npm:^1.1.1"
+    comlink: "npm:^4.4.2"
     debug: "npm:^4.2.0"
     fs-extra: "npm:^10.0.0"
     klaw-sync: "npm:^6.0.0"
@@ -5094,7 +5095,7 @@ __metadata:
     "@docusaurus/theme-common": ^2 || ^3
     react: ^16.14.0 || ^17 || ^18
     react-dom: ^16.14.0 || 17 || ^18
-  checksum: 10c0/a85d5c15e917df7d954c79beb069462d6af440b4cd2b1108144e2fc1dd8ac0311539d5bdcc545755eeb7e4f182bef7606ab393cc31a6c08f09d566b9731f9372
+  checksum: 10c0/6dc0fe64e53446b04591bf08fa4e7e16fa2c013d559244fded22a15ca687d222016fe20b79b80842850f1740d4fa3dd599f822cce37c1e393f94a464be0fa0c6
   languageName: node
   linkType: hard
 
@@ -7943,6 +7944,13 @@ __metadata:
   dependencies:
     delayed-stream: "npm:~1.0.0"
   checksum: 10c0/0dbb829577e1b1e839fa82b40c07ffaf7de8a09b935cadd355a73652ae70a88b4320db322f6634a4ad93424292fa80973ac6480986247f1734a1137debf271d5
+  languageName: node
+  linkType: hard
+
+"comlink@npm:^4.4.2":
+  version: 4.4.2
+  resolution: "comlink@npm:4.4.2"
+  checksum: 10c0/38aa1f455cf08e94aaa8fc494fd203cc0ef02ece6c21404b7931ce17567e8a72deacddab98aa5650cfd78332ff24c34610586f6fb27fd19dc77e753ed1980deb
   languageName: node
   linkType: hard
 
@@ -11095,7 +11103,7 @@ __metadata:
     "@docusaurus/module-type-aliases": "npm:3.5.2"
     "@docusaurus/preset-classic": "npm:3.5.2"
     "@docusaurus/tsconfig": "npm:3.5.2"
-    "@easyops-cn/docusaurus-search-local": "npm:^0.45.0"
+    "@easyops-cn/docusaurus-search-local": "npm:^0.46.1"
     "@mdx-js/react": "npm:^3.1.0"
     "@playwright/test": "npm:^1.49.0"
     cheerio: "npm:^1.0.0"
