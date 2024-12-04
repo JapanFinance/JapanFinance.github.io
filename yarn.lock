@@ -197,16 +197,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@argos-ci/api-client@npm:0.7.0":
-  version: 0.7.0
-  resolution: "@argos-ci/api-client@npm:0.7.0"
-  dependencies:
-    debug: "npm:^4.3.7"
-    openapi-fetch: "npm:^0.13.0"
-  checksum: 10c0/5ee66ffc01a32291bba10d20acf04e7d5d3e46354e3403cc0fd5923c617f867a068e4d997c818684d7d2d40b6ecb2f5cccb22cbe04ff5e4e6cdb3ba6ee13efd0
-  languageName: node
-  linkType: hard
-
 "@argos-ci/api-client@npm:0.7.1":
   version: 0.7.1
   resolution: "@argos-ci/api-client@npm:0.7.1"
@@ -217,10 +207,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@argos-ci/browser@npm:2.2.0":
-  version: 2.2.0
-  resolution: "@argos-ci/browser@npm:2.2.0"
-  checksum: 10c0/465c37f9ce688322e6a1fdc7a2885e078341fa972890de1ee7b41757cddc3e9c14372f1f6f85436214f5d814636b46a71c01e914b063a01823d082c083988a3b
+"@argos-ci/browser@npm:2.2.1":
+  version: 2.2.1
+  resolution: "@argos-ci/browser@npm:2.2.1"
+  checksum: 10c0/746c4fcfd732cd29b189cdfde6926b74f3dfb7ebab0aa02f937767a9463011080bf3363bb20e135dce9f789c24bd82a2ded74c550d09ab1f749dbc9022a013eb
   languageName: node
   linkType: hard
 
@@ -235,22 +225,6 @@ __metadata:
   bin:
     argos: ./bin/argos-cli.js
   checksum: 10c0/ba49c5fa895eee969b0fa52ef2e40aebcd49a502b7783b3462b0909188dbf45a354d7244800abc016f9a458c9a3460d3ed5bf921eecfd1d1ff58e8c787d55765
-  languageName: node
-  linkType: hard
-
-"@argos-ci/core@npm:2.11.0":
-  version: 2.11.0
-  resolution: "@argos-ci/core@npm:2.11.0"
-  dependencies:
-    "@argos-ci/api-client": "npm:0.7.0"
-    "@argos-ci/util": "npm:2.2.0"
-    axios: "npm:^1.7.7"
-    convict: "npm:^6.2.4"
-    debug: "npm:^4.3.7"
-    fast-glob: "npm:^3.3.2"
-    sharp: "npm:^0.33.5"
-    tmp: "npm:^0.2.3"
-  checksum: 10c0/9850bd8de678fdad779b2ce21e853ba59de5e46ee35d0f6fd206c453c05eae9cf09e9b9d23cc3373f1959079584ecf444b92ef4f806942290833e2a83fb26d00
   languageName: node
   linkType: hard
 
@@ -270,23 +244,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@argos-ci/playwright@npm:^3.9.2":
-  version: 3.9.2
-  resolution: "@argos-ci/playwright@npm:3.9.2"
+"@argos-ci/playwright@npm:^3.9.4":
+  version: 3.9.4
+  resolution: "@argos-ci/playwright@npm:3.9.4"
   dependencies:
-    "@argos-ci/browser": "npm:2.2.0"
-    "@argos-ci/core": "npm:2.11.0"
-    "@argos-ci/util": "npm:2.2.0"
+    "@argos-ci/browser": "npm:2.2.1"
+    "@argos-ci/core": "npm:2.12.0"
+    "@argos-ci/util": "npm:2.2.1"
     chalk: "npm:^5.3.0"
     debug: "npm:^4.3.7"
-  checksum: 10c0/60301dccb227c901fdeee06dd5b8d981e4ed3eb3a4ca14c9b13ada3d5d194845cc97ea8ed3b6509ab540230e110f58aebba852d02e416037733fcddbdfd826e2
-  languageName: node
-  linkType: hard
-
-"@argos-ci/util@npm:2.2.0":
-  version: 2.2.0
-  resolution: "@argos-ci/util@npm:2.2.0"
-  checksum: 10c0/ac7f22c101b855b6ff4063d3e906eff8e75a48ecd3611ee577b03d661fcfdec6fe1381eacd2c9f9c2ad5ad1bec1b99f24d0dbbc8992a783416d5f91e0ff31ea0
+  checksum: 10c0/a3fe95bbdf1fa12e9a2c2b8f548fab78cc4d0f20ab257564fbacb0775eb50b326ddf072dc7a5e5a0806c617462a8ec6f94285622daa79bc7435a369d1c00b5bd
   languageName: node
   linkType: hard
 
@@ -11098,7 +11065,7 @@ __metadata:
   resolution: "japanfinance-wiki@workspace:."
   dependencies:
     "@argos-ci/cli": "npm:^2.5.3"
-    "@argos-ci/playwright": "npm:^3.9.2"
+    "@argos-ci/playwright": "npm:^3.9.4"
     "@docusaurus/core": "npm:3.5.2"
     "@docusaurus/module-type-aliases": "npm:3.5.2"
     "@docusaurus/preset-classic": "npm:3.5.2"
@@ -12977,15 +12944,6 @@ __metadata:
   dependencies:
     openapi-typescript-helpers: "npm:^0.0.15"
   checksum: 10c0/cb8557e461a2480b0907af735e4b2cbb4469838268eca3cd68a64860bc6a2bdcb8531e758a35c7a745e5ccea89dd173ab83956950d020b4006b28e35144c10cf
-  languageName: node
-  linkType: hard
-
-"openapi-fetch@npm:^0.13.0":
-  version: 0.13.0
-  resolution: "openapi-fetch@npm:0.13.0"
-  dependencies:
-    openapi-typescript-helpers: "npm:^0.0.15"
-  checksum: 10c0/675a74102ba2d4433b65c89ec9f5b20254bc399912c069b1b9ca584103992e5eb71680b2b9436fe48eedf4410ad2c2dbead2c5d0c790d5cbc8e16a0b7578879c
   languageName: node
   linkType: hard
 
