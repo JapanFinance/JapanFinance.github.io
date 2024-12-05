@@ -1,1 +1,0 @@
-(self.webpackChunkjapanfinance_wiki=self.webpackChunkjapanfinance_wiki||[]).push([[5741],{5741:()=>{}}]);
