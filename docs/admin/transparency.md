@@ -6,6 +6,7 @@ Every January we will post an annual report, summarizing the activities of the m
 
 These reports will be posted as **unlocked** threads where users will be free to comment, ask questions, and make suggestions. The mods will endeavor to respond to all comments received regarding the moderation of the sub, though where necessary, priority will be given to comments made by users who are regular contributors.
 
+- [2023 Annual Report](https://www.reddit.com/r/JapanFinance/comments/194rckh/2023_annual_report/)
 - [2022 Annual Report](https://www.reddit.com/r/JapanFinance/comments/10bb0wo/2022_annual_report/)
 - [2021 Annual Report](https://www.reddit.com/r/JapanFinance/comments/s3mrsx/2021_annual_report/)
 
