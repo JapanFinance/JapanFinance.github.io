@@ -38,6 +38,10 @@ const config: Config = {
     locales: ['en'],
   },
 
+  markdown: {
+    mermaid: true
+  },
+
   presets: [
     [
       'classic',
@@ -71,6 +75,7 @@ const config: Config = {
         indexBlog: false, // blog is disabled
       } satisfies SearchPluginOptions,
     ],
+    '@docusaurus/theme-mermaid',
   ],
 
   themeConfig:
