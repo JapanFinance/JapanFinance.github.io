@@ -41,7 +41,7 @@ In other words, the penalty for not filing "without good justification" is up to
 
 ### Valuation
 
-Values must be declared as of December 31st of the previous year. Market values at that date should be used.
+Values must be declared as of December 31st of the previous year. Market values at that date should be used. Use the TTB rate on December 31 for converting foreign currency to JPY.
 
 ### Submission
 
@@ -94,7 +94,7 @@ In general, there is no penalty for not filing. However, if you file the Report 
 
 ### Valuation
 
-Values must be declared as of December 31st of the previous year. Market values at that date should be used.
+Values must be declared as of December 31st of the previous year. Market values at that date should be used. When converting foreign currency to JPY, the TTB rate on December 31 should be used for assets, and the TTS rate should be used for liabilities.
 
 ### Submission
 
