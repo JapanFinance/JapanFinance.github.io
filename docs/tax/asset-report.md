@@ -90,7 +90,9 @@ The obligation to file does not generate specific tax or submission costs.
 
 ### Penalties for failure to file
 
-In general, there is no penalty for not filing. However, if you file the Report of Assets and Liabilities on time, you can receive a 5% reduction in the penalty for failing to report income or inheritance related to an asset or liability included on your Report of Assets and Liabilities. To further discourage non-filers, there is an increased 5% penalty for unreported income from assets or liabilities that should have been reported on your Report of Assets and Liabilities but were not reported, or when your filing of the report including such assets/liabilities is late.
+In general, there is no penalty for not filing. However, if you file the Report of Assets and Liabilities on time, you can receive a 5% reduction in the penalty for income or inheritance related to an asset or liability included on your Report of Assets and Liabilities that you failed to report on an income tax return or inheritance tax return. To further discourage non-filers, there is an increased 5% penalty for unreported income from assets or liabilities that should have been reported on your Report of Assets and Liabilities but were not reported, or when your filing of the report including such assets/liabilities is late.
+
+If you hinder the tax authority's investigation or reject their inquiries related to this report when you are obligated to submit it, you may face up to 1 year imprisonment or a fine of up to 500,000 yen.
 
 ### Valuation
 
