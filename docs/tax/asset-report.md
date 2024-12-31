@@ -16,7 +16,7 @@ The deadline to file is the last day of June (if this is a weekend, then the fol
 
 ### References
 
-* [No.7456 国外財産調書の提出義務](https://www.nta.go.jp/taxes/shiraberu/taxanswer/hotei/7456.htm)
+* [No.7456 国外財産調書の提出義務](https://www.nta.go.jp/taxes/shiraberu/taxanswer/hotei/7456.htm)
 * Presentation documents in English from [PWC (2015)(pdf)](https://www.pwc.com/gx/en/hr-management-services/newsletters/global-watch/assets/pwc-new-japanese-assets-liabilities-reporting-requirement.pdf) and [KPMG (2013)(pdf)](https://assets.kpmg.com/content/dam/kpmg/pdf/2016/07/jp-overseas-assets-report-20131126e.pdf) Beware that those have outdated information such as the filling deadline of March in the 2015 PDF (it is now end of June).
 
 ### Who needs to file
@@ -63,7 +63,7 @@ The deadline to file is the last day of June (if this is a weekend, then the fol
 
 ### References
 
-* [No.7457 財産債務調書の提出義務](https://www.nta.go.jp/taxes/shiraberu/taxanswer/hotei/7457.htm)
+* [No.7457 財産債務調書の提出義務](https://www.nta.go.jp/taxes/shiraberu/taxanswer/hotei/7457.htm)
 
 ### Who needs to file
 
@@ -90,7 +90,7 @@ The obligation to file does not generate specific tax or submission costs.
 
 ### Penalties for failure to file
 
-TODO
+In general, there is no penalty for not filing. However, if you file the Report of Assets and Liabilities on time, you can receive a 5% reduction in the penalty for failing to report income or inheritance related to an asset or liability included on your Report of Assets and Liabilities. To further discourage non-filers, there is an increased 5% penalty for unreported income from assets or liabilities that should have been reported on your Report of Assets and Liabilities but were not reported, or when your filing of the report including such assets/liabilities is late.
 
 ### Valuation
 
