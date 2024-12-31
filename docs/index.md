@@ -63,7 +63,7 @@ Note that we are currently using a traffic light system to indicate the complete
 - [Inheritance tax](/tax/inheritance) 🟡
 - [Gift tax](/tax/gift) 🔴
 - [Other taxes](/tax/other) 🔴
-- [Assets reporting requirement](/tax/reporting) 🟡
+- [Asset Reporting](/tax/asset-report) 🟡
 
 ## Life Events
 
