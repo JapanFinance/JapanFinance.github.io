@@ -8,11 +8,11 @@ Separate from filings for income/gifts/inheritance, there are some reports that 
 
 In Japanese, it is 国外財産調書. This report was also formerly often translated as Overseas Asset Report (OAR) in material published by accounting firms. The NTA's English translation is, however, Report of Foreign Assets (RFA).
 
-The deadline to file is the last day of June (if this is a weekend, then the following Monday).
-
 ### Outline
 
 The RFA is an obligation to declare assets located outside of Japan for [tax residents](https://japanfinance.github.io/tax/income/#tax-residency) (other than [non-permanent tax residents](https://japanfinance.github.io/tax/income/#non-permanent-tax-residents)), if they have a value of 50 million yen or more, as of December 31st of the previous year.
+
+The deadline to file is the last day of June (if this is a weekend, then the following Monday).
 
 ### References
 
@@ -55,15 +55,34 @@ In Japanese, it is 財産債務調書. Official NTA English material refers to t
 
 ### Outline
 
-TODO
+The Report of Assets and Liabilities is a report of all your assets and liabilities as of December 31 of the previous year, if you meet the reporting requirements (see the "Who needs to file" section).
+
+If you need to file both the Report of Foreign Assets and the Report of Assets and Liabilities, you can exclude details of items included in your RFA from the ALR, except for the market value of the assets.
+
+The deadline to file is the last day of June (if this is a weekend, then the following Monday).
 
 ### References
 
-TODO
+* [No.7457 財産債務調書の提出義務](https://www.nta.go.jp/taxes/shiraberu/taxanswer/hotei/7457.htm)
 
 ### Who needs to file
 
-TODO
+See the following flowchart. All evaluations of assets' value are as of December 31 of the prior year. Asset valuations do not consider liabilities for determining whether the reporting threshold is met.
+
+```mermaid
+flowchart TD
+    A[Are you a tax resident with assets with a gross market value of 1 billion yen or more?] -->|Yes| B
+    A -->|No| C[Does your net income, excluding retirement income, exceed 20 million yen AND you need to file an income tax return or are eligible to file a return for income tax refund?]
+    B[Need to file]
+    C -->|Yes| E[Do you have assets with a gross market value of 300 million yen or more? Alternatively, do you have 100 million yen or more worth of assets subject to Exit Tax?]
+    E -->|No| D[Do not need to file]
+    C -->|No| D
+    E -->|Yes| B
+```
+
+See [Exit Tax](https://japanfinance.github.io/tax/other/#exit-tax) for info on which assets are subject to the Exit Tax.
+
+See [here](https://japanfinance.github.io/tax/income/returns/#who-must-file) for who must file an income tax return.
 
 ### Tax and cost
 
@@ -79,4 +98,4 @@ Values must be declared as of December 31st of the previous year. Market values 
 
 ### Submission
 
-TODO
+Similar to the Report of Foreign Assets, this can be submitted using e-tax or as a hard copy to your local tax office.
