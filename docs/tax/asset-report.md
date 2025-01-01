@@ -103,4 +103,4 @@ Values must be declared as of December 31st of the previous year. Market values 
 
 ### Submission
 
-Similar to the Report of Foreign Assets, this can be submitted using e-tax or as a hard copy to your local tax office.
+Similar to the Report of Foreign Assets, [this report](https://www.nta.go.jp/taxes/tetsuzuki/shinsei/annai/hotei/2708.htm) can be submitted using the e-tax desktop software or as a hard copy to your local tax office. Unlike the Report of Foreign Assets, this report can be made using the NTA's [tax return preparation tool](https://www.keisan.nta.go.jp/) after you use it to make a tax return with over 20 million yen in net income.
