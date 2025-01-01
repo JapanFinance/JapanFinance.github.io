@@ -59,11 +59,14 @@ The Report of Assets and Liabilities is a report of all your assets and liabilit
 
 If you need to file both the Report of Foreign Assets and the Report of Assets and Liabilities, you can exclude details of items included in your RFA from the ALR, except for the market value of the assets.
 
+For securities held in tax free accounts (e.g. NISA) and designated accounts (特定口座), you may report them summarize by security type (listed shares, mutual funds, etc.) rather than individual holdings as needs to be done for other types of brokerage accounts.
+
 The deadline to file is the last day of June (if this is a weekend, then the following Monday).
 
 ### References
 
 * [No.7457 財産債務調書の提出義務](https://www.nta.go.jp/taxes/shiraberu/taxanswer/hotei/7457.htm)
+* See the FAQ in Japanese linked on [this page](https://www.nta.go.jp/publication/pamph/hotei/zaisan_saimu/index.htm).
 
 ### Who needs to file
 
