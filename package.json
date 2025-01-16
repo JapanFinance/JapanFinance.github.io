@@ -28,7 +28,7 @@
     "react-dom": "^19.0.0"
   },
   "devDependencies": {
-    "@argos-ci/cli": "^2.5.3",
+    "@argos-ci/cli": "^2.5.4",
     "@argos-ci/playwright": "^3.9.4",
     "@docusaurus/module-type-aliases": "3.7.0",
     "@docusaurus/tsconfig": "3.7.0",
