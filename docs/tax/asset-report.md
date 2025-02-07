@@ -27,7 +27,7 @@ The deadline to file is the last day of June (if this is a weekend, then the fol
 
 The obligation to file does not generate specific tax or submission costs.
 
-### Penalties for failure to file
+### Penalties
 
 Please note that if the relevant foreign country exchange financial data with Japan, the NTA likely already have access to your foreign financial accounts. This is part of automated exchange under the [CRS program (pdf)](https://www.nta.go.jp/taxes/shiraberu/kokusai/crs/pdf/02en.pdf). CRS does not include other type of assets (material, real estate) that are in the scope of OAR.
 
@@ -91,7 +91,7 @@ See [here](https://japanfinance.github.io/tax/income/returns/#who-must-file) for
 
 The obligation to file does not generate specific tax or submission costs.
 
-### Penalties for failure to file
+### Penalties
 
 In general, there is no penalty for not filing. However, if you file the Report of Assets and Liabilities on time, you can receive a 5% reduction in the penalty for income or inheritance related to an asset or liability included on your Report of Assets and Liabilities that you failed to report on an income tax return or inheritance tax return. To further discourage non-filers, there is an increased 5% penalty for unreported income from assets or liabilities that should have been reported on your Report of Assets and Liabilities but were not reported, or when your filing of the report including such assets/liabilities is late.
 
