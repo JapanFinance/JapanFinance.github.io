@@ -1,8 +1,21 @@
 # Types of accounts
 
+The so-called 'standard' investment advice :
+
+- follows a Bogleheads approach of investing in low cost passive diversified index funds, 
+
+- prioritize using both the ideco and Nisa tax advantaged accounts, 
+
+- opening them at a low cost brokerage like SBI or Rakuten (instead of with more fees and less products offered),
+
+- and filling them with the widely popular 'eMaxis slim all countries' fund, a global equity fund with low fees (0.05%) {(with the 'eMaxis slim SP500' being also popular)
+
+- does not applies to US Taxpayers
+
+
 ## Strategy
 
-[Bogleheads](https://www.bogleheads.org/wiki/Bogleheads%C2%AE_investment_philosophy_for_non-US_investors) is a popular recommendation for approaching 
+[Bogleheads](https://www.bogleheads.org/wiki/Bogleheads%C2%AE_investment_philosophy_for_non-US_investors) is a well established, well-documented, and globally popular recommendation for approaching 
 a long term investment strategy.
 
 Several studies shows that lump-sum ("LS" ie investing all funds as soon as funds are available) is a significantly better way to invest money on the world equities 
@@ -62,17 +75,19 @@ See the [NISA FAQ Thread](https://www.reddit.com/r/JapanFinance/comments/181kb33
 
 ### Old NISA : Regular NISA
 
-As of 2023 the ordinary NISA allows 1.2 MJPY of purchase per year, for 5 years. It will run until the end of 2023.
+Until the year 2023 included, the 'former' ordinary NISA allowed 1.2 MJPY of purchase per year, for 5 years of tax-free growth. 
 
-From 2024  a [new NISA](https://www.fsa.go.jp/policy/nisa2/about/nisa2024/index.html) is planned to run with a purchase allowance of 1.2 MJPY in a Tsumitate bucket and 2.4 MJPY in a growth bucket for a combined total of a 3.6 MJPY maximum limit per year. The contribution would have a lifetime limit of 18 MJPY.
+After the 5 years are finished, the investments are automatically transferred to your regular investment account, at the market value they have at that time (so any growth during the last five years won't be taxed).
 
 ### Old NISA : Tsumitate NISA
 
-As of 2021 the tsumitate NISA allows 0.4 MJPY of purchase per year, for 20 years. It will end in 2042, final year 2061.
+Until the year 2023 included, the 'former' tsumitate NISA allowed 0.4 MJPY of purchase per year, for 20 years. 
+
+It will end in 2042, final year 2061.
 
 ### Old NISA : Junior NISA
 
-As of 2021 the Junior NISA allows 0.8 MJPY of purchase per year, for children under 20. Is is planned to end in 2023. Funds held in the Junior NISA will remain tax free until the child turns 18.
+As of 2021 the Junior NISA allowed 0.8 MJPY of purchase per year, for children under 20. It ended in 2023. Funds held in the Junior NISA will remain tax free until the child turns 18.
 
 Unlike the regular and tsumitate NISA, the Junior account cannot move between providers and money cannot be taken out before 18 years old in principle.
 
@@ -124,11 +139,13 @@ Kabu.com also offers a [credit card](https://kabu.com/company/lp/lp200.html), wh
 
 ## Products
 
+[2021-05 Popular investment products](https://www.reddit.com/r/JapanFinance/comments/nlukfg/where_you_guys_putting_your_money_right_now/). [eMaxis Slim](https://emaxis.jp/lp/slim/pr1/index.html) is a popular range of product, with the most popular being the [Global Equity (all countries))](https://emaxis.jp/fund/253425.html), based on the MSCI World index (see [comment on index and its currency basket](https://www.reddit.com/r/JapanFinance/comments/r7l9ce/comment/hn6wuzl/?utm_source=share&utm_medium=web2x&context=3) ).
+
+The MSCI World index, that emaxis slim is replicating, has its [factsheet here](https://www.msci.com/indexes/index/990100) showing its top 10 companies and geographical distribution (however most companies are multinationals), and a full list of the companies it includes (1000+) [can be found here](https://www.marketscreener.com/quote/index/MSCI-WORLD-107361487/components/).
+
 [2021-05 Insurance as an investment](https://www.reddit.com/r/JapanFinance/comments/nbeehf/cashvalue_insurance_as_retirement_investment/)
 
 [2021-05 Investing in JPY or USD](https://www.reddit.com/r/JapanFinance/comments/ls1unb/selling_us_stocks_and_currency_choice_implications/gopg48u?utm_source=share&utm_medium=web2x&context=3)
-
-[2021-05 Popular investment products](https://www.reddit.com/r/JapanFinance/comments/nlukfg/where_you_guys_putting_your_money_right_now/). [eMaxis Slim](https://emaxis.jp/lp/slim/pr1/index.html) is a popular range of product, with the most popular being the [Global Equity (all countries))](https://emaxis.jp/fund/253425.html), based on the MSCI World index (see [comment on index and its currency basket](https://www.reddit.com/r/JapanFinance/comments/r7l9ce/comment/hn6wuzl/?utm_source=share&utm_medium=web2x&context=3) ).
 
 ## Short-term/high-risk investing
 
