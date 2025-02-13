@@ -8,7 +8,7 @@ The so-called 'standard' investment advice :
 
 - opening them at a low cost brokerage like SBI or Rakuten (instead of with more fees and less products offered),
 
-- and filling them with the widely popular 'eMaxis slim all countries' fund, a global equity fund with low fees (0.05%) {(with the 'eMaxis slim SP500' being also popular)
+- and filling them with the widely popular 'eMaxis slim all countries' fund, a global equity fund with low fees (0.05%) (with the 'eMaxis slim SP500' being also popular)
 
 - does not applies to US Taxpayers
 
