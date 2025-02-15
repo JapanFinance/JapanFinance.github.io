@@ -45,7 +45,7 @@ Future new developments and specialty products might need to reach out to specif
 
 ### Identifying a property owner
 
-Records are normally available [source/details needed] but can also [be purchased](https://www1.touki.or.jp/service/index.html)
+Records are normally available at the Legal Affairs Bureau but can also [be purchased online](https://www1.touki.or.jp/service/index.html) - [guide here](https://fides-souzoku.com/archives/1719)
 
 ### Buying Process
 
