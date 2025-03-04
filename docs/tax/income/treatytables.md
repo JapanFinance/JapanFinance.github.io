@@ -16,7 +16,7 @@ Also, for the purpose of these tables, the rules for dividends and capital gains
 
 It's important to note that treaties don't *require* countries to tax income merely because they have the right to tax it. Accordingly, the fact that a country has the right to tax particular income under a treaty (as shown in the tables below) does not imply that the country taxes that income.
 
-Some of the formatting in the tables was designed for the GitHub version of this wiki. If you are reading this on the Reddit version, click [here](https://japanfinance.github.io/tax/income/treatytables) for the GitHub version.
+Some of the formatting in the tables was designed for the GitHub version of this wiki. If you are reading this on the Reddit version, click [here](https://japanfinance.github.io/tax/income/treatytables/) for the GitHub version.
 
 The information provided below is intended as a summary. Tax treaties contain exceptions and the tables should not be used as substitutes for reading the text of any relevant treaty. The tables were prepared in May 2024.
 
