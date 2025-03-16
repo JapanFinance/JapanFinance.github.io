@@ -6,7 +6,7 @@ For general topics regarding passing, such as end of life care, making a will et
 
 **Fair warning the tax is counterintuitive and you likely need to carefully read through the calculation section step by step to correct natural misconceptions :**
 
-Inheritance tax can generate significant concern at first, especially when looking only at the inheritance tax rates and considering the whole estate, but taking the time to understand its mechanics and counter-intuitive calculation shows it is not due in 90% of the cases, only cover certain assets, and actual rates are progressive.
+Inheritance tax can generate significant concern at first, especially when looking only at the inheritance tax rates and considering the whole estate, but taking the time to understand its mechanics and counter-intuitive calculation shows it is not due in 90% of the cases, only cover certain assets, and actual rates are progressive. The easiest is first to try to use [the online calculator](https://japanfinance.tools/inheritance-tax-calculator).
 
 ## Who is subject to inheritance tax?
 
@@ -113,6 +113,26 @@ The details are here : https://www.nta.go.jp/taxes/shiraberu/taxanswer/sozoku/41
 
 See also [this comment](https://www.reddit.com/r/JapanFinance/comments/xx4428/comment/ircud3e/).
 
+
+## Offsetting of foreign-paid taxes
+
+Inheritance taxes paid abroad, usually in the deceased's own country, can generally be offset against the Japanese inheritance tax. 
+
+The general approach of the NTA towards offsetting foreign taxes, including several specific cases, is [listed here](https://www.nta.go.jp/english/taxes/individual/12007.htm). 
+
+In the best-case scenario, the point is clearly covered in the bi-lateral tax convention.
+
+Even if the inheritance tax itself was not paid by the japanese taxpayer himself, but rather by the estate for example, they [can generally be offset against the japaness tax](https://www.reddit.com/r/JapanFinance/comments/1jcaxyq/comment/mi1h1gf/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button). [additional sources welcome]. 
+
+However, only taxes that are comparable in nature to the japanese tax can be offset. In the [below example](https://www.reddit.com/r/JapanFinance/comments/1jcaxyq/comment/mi1h1gf/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button), the different nature of the canadian estate tax and japanese inheritance tax does not allow offsetting :
+
+>  An estate tax, like an inheritance tax, is a tax on wealth (i.e., the total value of an estate upon death). Canada doesn't have an estate tax.
+
+> What Canada has is an income tax that treats the deceased's unrealized capital gains to have been realized upon death. The total value of the estate is not taxed. Instead, the deceased's income (in the form of unrealized capital gains) becomes taxable upon their death.
+
+> Estate taxes (i.e., taxes on the total value of the estate, paid by the estate) can be used to offset a Japanese inheritance tax liability. However, since the Canadian tax you are referring to is an income tax rather than an estate tax, it cannot be used to offset a Japanese inheritance tax liability. 
+
+
 ## Optimization strategies
 
 There is no "one simple trick" to [avoiding inheritance tax](https://www.reddit.com/r/JapanFinance/comments/vlev44/inheritance_tax/). Neither trusts nor family companies are especially effective. The most common recommendation is to maximize the use of the tax-free gift allowance to reduce the size of the estate prior to death.
@@ -122,9 +142,3 @@ The normal inheritance tax minimization strategies include : take advantage of y
 For assets well above the standard deduction (30M+6M per statutory heir), receiving some inheritance when each parent passes instead of waiting for the full inheritance when the last one passes allows to benefit twice from inheritance deduction as well as the progressive nature of inheritance tax rate. Doing the tax calculation for a single inheritance, then for two instead, can show [a significant gap](https://www.reddit.com/r/JapanFinance/comments/108shs1/complex_qsplease_help_inheriting_a_condo_unit_in/).
 
 Leaving Japan to avoid paying inheritance tax [might be a valid strategy for some](https://www.reddit.com/r/JapanFinance/comments/z8llcs/asked_the_local_tax_office_about_keeping_pr_while/).
-
-## Professionals
-
-This does not constitute a recommendation.
-
-[Chester Tax](https://chester-tax.com/) is ['a major tax accountancy firm that specializes in inheritance tax'](https://www.reddit.com/r/JapanFinance/comments/lvv6or/seeking_advice_on_inheritance_taxes/gpe2wjl?utm_source=share&utm_medium=web2x&context=3)
