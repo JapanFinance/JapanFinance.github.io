@@ -72,7 +72,7 @@ Above but as a table:
 
 Special note: if the actual recipient is not a statutory heir (e.g. is a friend of the deceased, a spouse of a statutory heir, etc.), the final tax burden for that person is increased by 20%.  In our example above, if instead of "Japanese-resident child bequeathed 1億円" it was "Japanese-resident child and their spouse each bequeathed 5,000万円", the tax liability calculated in steps 1 and 2 above would not change, as the spouse is not a statutory heir and therefor not included in those calculations.  However, in step 3, the 770万円 liability would be applied proportionally to the child and their spouse (385万円 each), but the spouse, not being a statutory heir, gets a 20% surcharge, meaning that their final tax is 385万円*1.2 = 462万円. 
 
-These same steps can be quickly applied to different scenarios using [this online inheritance tax calculator](https://w00kie.github.io/jpn-inheritance-tax/) which was built by a Redditor following this guide. Note that this calculator only works in a similar case to the above scenario, i.e. an heir living in Japan while the deceased, their estate and all other heirs are non-Japanese resident.
+These same steps can be quickly applied to different scenarios using [this online inheritance tax calculator](https://japanfinance.tools/inheritance-tax-calculator) which was built by a Redditor following this guide. Note that this calculator only works in a similar case to the above scenario, i.e. an heir living in Japan while the deceased, their estate and all other heirs are non-Japanese resident.
 
 ### Inheritance Tax Rates.
 
