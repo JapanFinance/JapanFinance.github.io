@@ -27,7 +27,13 @@ markets than voluntary spreading the amount over a period of time ("DCA" aka dol
 
 - [2014 'Bob the world’s worst market timer' article](https://awealthofcommonsense.com/2014/02/worlds-worst-market-timer/)
 
+Financial advisors and other investment providers, are usually not recommended. Licensed ones, targeting japanese people, are usually heavy on recommending assurances products that are poor performers. Foreign ones, usually unlicensed, target foreigners under the pretense of "lowering tax". There is no evidence those strategy beat or even approach the return on the popular Bogleheads-like approach.
+
 [2022-04 Do I need a Financial Advisor ?](https://www.reddit.com/r/JapanFinance/comments/uc02r6/financial_advisor_recommendations/)
+
+[2024-06 How the "income tax reduction" claim works](https://www.reddit.com/r/JapanFinance/comments/1d9j2bn/comment/l81mucn/?share_id=Ly3z9aJNUshwWCxKTBkZm)
+
+[2025-07 Real estate advisor for tax saving](https://www.reddit.com/r/JapanFinance/comments/1lqilwd/anyone_here_tried_renosy_real_estate_investment/)
 
 ## Long-term/risk-adjusted investing
 
