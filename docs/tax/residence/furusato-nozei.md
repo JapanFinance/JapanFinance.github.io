@@ -61,9 +61,9 @@ Only around June of the following year, now in possession of a freshly-issued Re
 The deduction mechanism is explained in detail in the 'How is my donation refunded to me?' section of the [Furusato Limit thread](https://www.reddit.com/r/JapanFinance/comments/zgr11k/guide_to_furusato_nozei_donation_limits/).
 
 Amount donated should be equal to :
-(1) 2000 cost for using the Furusato system 
-+ (2) deduction on income tax equal to amount donated (noted on line 寄付金控除) multiplied by marginal income tax rate 
-+ (3) remaining amount should appear in the detail section located at the bottom of the resident tax slip, sometimes slip between local and prefectural deductions
+1) 2000 cost for using the Furusato system 
+2) deduction on income tax equal to amount donated (noted on line 寄付金控除) multiplied by marginal income tax rate 
+3) remaining amount should appear in the detail section located at the bottom of the resident tax slip, sometimes slip between local and prefectural deductions
 
 [Reconciliation example](https://alexkwa.com/the-complete-guide-to-furusato-nozei/)
 
