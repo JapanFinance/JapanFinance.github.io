@@ -58,5 +58,5 @@
     "yarn": "4.2.1"
   },
   "description": "Website for r/JapanFinance wiki",
-  "packageManager": "yarn@4.2.1"
+  "packageManager": "yarn@4.9.2"
 }
