@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjapanfinance_wiki=self.webpackChunkjapanfinance_wiki||[]).push([["1034"],{7430:function(e,i,a){a.d(i,{createArchitectureServices:()=>c.i});var c=a(3623);a(4050)}}]);
