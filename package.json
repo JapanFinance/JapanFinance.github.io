@@ -33,7 +33,7 @@
     "@docusaurus/module-type-aliases": "3.7.0",
     "@docusaurus/tsconfig": "3.7.0",
     "@playwright/test": "^1.53.2",
-    "cheerio": "^1.0.0",
+    "cheerio": "^1.1.0",
     "typescript": "^5.8.3"
   },
   "resolutions": {
