@@ -6,7 +6,11 @@ This is a mirror of the [r/JapanFinance](https://www.reddit.com/r/JapanFinance/)
 
 ## Development
 
-This website is built using [Docusaurus](https://docusaurus.io/), a static website generator.
+This website is built using [Docusaurus](https://docusaurus.io/), a static website generator. If you do not have Corepack installed, first install it with:
+
+```
+npm install -g corepack
+```
 
 ### Installation
 
