@@ -81,6 +81,7 @@ Some municipalities were spending more than 50% of the donation amount on return
 
 # Previous Megathreads:
 
+* 2024 - https://www.reddit.com/r/JapanFinance/comments/1h3xa4p/2024_furusato_nozei_question_thread/
 * 2023 - https://www.reddit.com/r/JapanFinance/comments/18dk8rx/2023_furusato_nozei_question_thread/
 * 2022 - https://www.reddit.com/r/JapanFinance/comments/zhnf11/2022_furusato_nozei_question_thread/
 * 2021 - https://www.reddit.com/r/JapanFinance/comments/r8puxs/2021_furusato_nozei_question_thread/
