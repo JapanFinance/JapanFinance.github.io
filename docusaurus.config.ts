@@ -26,6 +26,8 @@ const config: Config = {
   onBrokenMarkdownLinks: 'warn',
 
   future: {
+    // See https://docusaurus.io/blog/releases/3.8#future-flags
+    v4: true, // Enable Docusaurus v4 features
     // See https://docusaurus.io/blog/releases/3.6
     experimental_faster: true
   },
