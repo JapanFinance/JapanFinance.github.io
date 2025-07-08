@@ -25,6 +25,6 @@ Mizuho bank will cash their own checks where they are the payee:
 
 * https://www.faq.mizuhobank.co.jp/faq/show/7383
 
-Some regional banks appears to offer the service still:
+Some regional banks appear to offer the service still:
 
-* https://www.ashikagabank.co.jp/service/foreign/gaikatoritate
+(As of 2025 Ashikaga Ginko seems to have stopped offering their service, but other regional banks may still.)
