@@ -2,6 +2,8 @@
 
 [![Covered by Argos Visual Testing](https://argos-ci.com/badge.svg)](https://app.argos-ci.com/shakuzen/JapanFinance.github.io/reference)
 
+**NOTE: This repository has been archived. The wiki repository is now at https://github.com/JapanFinance/wiki.**
+
 This is a mirror of the [r/JapanFinance](https://www.reddit.com/r/JapanFinance/) subreddit's wiki.
 
 ## Development
