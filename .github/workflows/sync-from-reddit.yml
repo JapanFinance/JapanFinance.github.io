@@ -30,7 +30,7 @@ jobs:
           git config user.email 'github-actions[bot]@users.noreply.github.com'
 
       - name: Setup Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
 
       - name: Setup python requirements
         run: pip install -r requirements.txt
